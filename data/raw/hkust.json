@@ -1,0 +1,1176 @@
+{
+  "university_id": "hkust",
+  "name_zh": "香港科技大学",
+  "name_en": "The Hong Kong University of Science and Technology",
+  "business_school_zh": "香港科技大学商学院",
+  "business_school_en": "HKUST Business School",
+  "qs_world_2027_rank": 33,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "academic_text": "To qualify for admissions to HKUST, applicants must meet all of the following requirements. Admissions is selective and meeting these minimum requirements does not guarantee admissions. Applicants seeking admissions to a master's degree or postgraduate diploma program should have: Obtained a bachelor’s degree from a recognized institution, or an approved equivalent qualification.",
+    "english_text": "Applicants have to fulfill English Language requirements with one of the following proficiency attainments: TOEFL Internet-based Test (iBT): 80 (for tests taken prior to 21 January 2026); 4.5 (for tests taken from 21 January 2026 onwards); TOEFL Paper-based Test (pBT): 550; TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections); IELTS (Academic Module): Overall score: 6.5 and all sub-score: 5.5. Refers to scores in one single attempt only. Test at home option is not accepted.",
+    "gmat_gre_text": "The Fok Ying Tung Graduate School admissions-requirements page does not state a university-wide GMAT or GRE requirement. The page ends at the heading '3. Program-Specific Admissions Requirements' with no further school-wide test rule published there.",
+    "waiver_text": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+    "documents": [],
+    "source_urls": [
+      "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements",
+      "https://prog-crs.hkust.edu.hk/pgprog/2027-28"
+    ]
+  },
+  "programs": [
+    {
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 Fall Term, commencing September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A bachelor’s degree in a business discipline, or (i) a bachelor’s degree in a non-business discipline and (ii) one of the following: having studied a course in Statistics at undergraduate level with satisfactory performance; having passed the module/paper on Financial Reporting or Financial Accounting from a recognized Certified Public Accountant (CPA) examination; or two years’ full-time post-qualification work experience in an accounting related field. Additional information: a bachelor’s degree in a business discipline is preferred. Under the optional HKICPA QP note, the catalog also states: 'The program will not admit students who missed more than two of the required subjects in their undergraduate studies.' Those six QP subjects are Accounting, Economics, Information System, Management, Marketing and Statistics.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "Business bachelor's, or non-business bachelor's plus a satisfactory undergraduate Statistics course, or a recognized CPA Financial Reporting/Financial Accounting paper, or two years’ full-time post-qualification accounting-related work. QP note: not admitted if more than two of the six HKICPA QP basic subjects were missed."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score will also be considered if it is available. Not required."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience will add weight to the consideration. Two years’ full-time post-qualification work experience in an accounting related field is one alternative route for applicants whose bachelor’s degree is not in a business discipline, not a minimum for all applicants. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Online application",
+        "Personal statement",
+        "Transcript and degree certificate",
+        "GMAT/GRE score report if available",
+        "TOEFL/IELTS if required",
+        "Two academic referees on the programme FAQ pattern used by sibling MSc pages; the catalog application section does not restate the document checklist",
+        "Application fee HK$800"
+      ],
+      "interview": "Catalog does not state an interview rule on the section opened. Programme deadline page did not load.",
+      "deadlines": [
+        "2027/28 catalog: admissions on a rolling basis; full-time local and non-local deadline 1 April 2027; Priority Round of HKUST Business School for 2027/28 Fall Term Intake opens from 2 July 2026 to 15 August 2026.",
+        "Programme phased deadlines page (msac.hkust.edu.hk) did not load on 2026-10-21, so phase dates were not copied."
+      ],
+      "tuition": "2027/28 catalog program fee HK$428,000. The program fee covers tuition, textbooks, and course materials for some of the core courses, and some enrichment activities. Students will be charged an extra fee of $10,000 per course for taking undergraduate basic courses for fulfilling the entrance requirement of HKICPA QP. Application fee HK$800.",
+      "apply_url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-acct/",
+      "source_urls": [
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-acct/"
+      ],
+      "official_quotes": [
+        "A bachelor’s degree in a business discipline, or (i) A bachelor’s degree in a non-business discipline and (ii) one of the following: Having studied a course in Statistics at undergraduate level with satisfactory performance; Having passed the module/paper on Financial Reporting or Financial Accounting from a recognized Certified Public Accountant (CPA) examination; Two years’ full-time post-qualification work experience in an accounting related field.",
+        "The program will not admit students who missed more than two of the required subjects in their undergraduate studies.",
+        "GMAT or GRE score will also be considered if it is available."
+      ],
+      "gaps": [
+        "Programme admissions and deadline pages at msac.hkust.edu.hk did not load. Requirements above are from the 2027/28 Program & Course Catalog.",
+        "The HKICPA sentence sits under the heading HKICPA Qualification Program (Optional); it is quoted as written and not expanded into a separate GPA rule.",
+        "No minimum GPA is stated."
+      ],
+      "id": "hkust-msac",
+      "name_zh": "理學碩士（會計學）",
+      "name_en": "Master of Science in Accounting",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 intake; catalog states 2027/28 Fall Term commencing September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants seeking admission to MSBA program should have obtained a bachelor’s degree from a recognized institution, or an approved equivalent qualification. Catalog additional information: a bachelor's degree in Information Systems, Operations Management, Statistics or related area is preferred. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No compulsory prior major. Preferred: Information Systems, Operations Management, Statistics or a related area. Students are expected to have a basic proficiency in SQL and Python programming prior to entering the program."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted.",
+          "Programme page lists the same IELTS/TOEFL minima and the first-language or English-medium bachelor's waiver, but does not itself repeat 'test at home is not accepted'. That sentence is on the university page."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Applicants are highly recommended to take the GMAT/GRE test, but it is NOT a compulsory requirement. Catalog: applicants are highly recommended to have a satisfactory GMAT or GRE score. No minimum score is stated."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "For the full-time program, relevant work or business experience will add weight to the application under consideration. For the part-time program, two years of full-time relevant post-qualification work experience is preferred. Not stated as a compulsory minimum. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV/resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Professional qualifications (if applicable)",
+        "Two academic reference letters",
+        "Application fee HK$800"
+      ],
+      "interview": "Shortlisted applicants will be invited for an admission interview. Candidates who do not respond to the invitation will not be further considered.",
+      "deadlines": [
+        "Rolling admissions for the 2027/28 intake.",
+        "Full-time phases (23:59 context not printed on this page): 11 October 2026; 29 November 2026; 10 January 2027; 28 February 2027.",
+        "Part-time phases: 13 December 2026; 31 January 2027; 21 March 2027; 2 May 2027.",
+        "2027/28 catalog final dates match: full-time 28 February 2027; part-time 2 May 2027; rolling. Catalog also states a Business School priority round from 2 July 2026 to 15 August 2026; the programme schedule page opened does not repeat that priority window."
+      ],
+      "tuition": "2027/28 catalog program fee HK$415,000. Application fee HK$800.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://msba.hkust.edu.hk/admission/admission-requirements",
+        "https://msba.hkust.edu.hk/admission/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-ba/"
+      ],
+      "official_quotes": [
+        "Applicants seeking admission to MSBA program should have obtained a bachelor’s degree from a recognized institution, or an approved equivalent qualification.",
+        "Applicants are highly recommended to take the GMAT/GRE test, but it's NOT a compulsory requirement.",
+        "For the part-time program, two years of full-time relevant post-qualification work experience is preferred.",
+        "Students are expected to have a basic proficiency in SQL and Python programming prior to entering the program."
+      ],
+      "gaps": [
+        "No minimum GPA and no compulsory work-experience minimum are stated. Part-time experience is 'preferred'."
+      ],
+      "id": "hkust-msba",
+      "name_zh": "理學碩士（商業分析）",
+      "name_en": "Master of Science in Business Analytics",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "Programme page: applications for admission 27/28 are invited from September 2026 onwards. Catalog general information (retrieved from the 2027/28 catalog URL before a later reload failed): Fall intake, 1 year full-time.",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants should have obtained a bachelor's degree from a university or tertiary institution. For those who are not econ/business major, a strong quantitative background and a commitment to academic study and research are expected. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No compulsory economics or business major. Non-econ/business majors are expected to have a strong quantitative background and a commitment to academic study and research."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": "TOEFL and IELTS scores are valid for two years from the test date."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Applicants are strongly advised to include GRE/GMAT result in their applications. Not stated as compulsory, and no minimum score is given. The 2027/28 catalog admission block retrieved for this programme did not add a separate GMAT rule."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience or internship requirement is stated on the admissions page.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT/GRE score report (if applicable)",
+        "Official TOEFL/IELTS score report",
+        "Two academic references with reference letters in English on the official letterhead of the relevant institution",
+        "CV with photo",
+        "Personal statement",
+        "Non-refundable application fee HK$800"
+      ],
+      "interview": "Not stated on the admissions or schedule pages opened.",
+      "deadlines": [
+        "Programme schedule page: admissions for 27/28 from September 2026 onwards, rolling, until spots are filled. It does not print phase dates. The same page footer still says 'Application for 2026/27 intake is now open!'",
+        "2027/28 catalog application block retrieved from the catalog URL: rolling; full-time local and non-local deadline 15 February 2027; Business School priority round 2 July 2026 to 15 August 2026; application fee HK$800."
+      ],
+      "tuition": "2027/28 catalog general information retrieved from https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-econ/ : program fee HK$350,000. Application fee HK$800 on the programme schedule page.",
+      "apply_url": "https://w5.ab.ust.hk/cgi-bin/std_nem_cgi.sh/WService=broker_7p_p/prg/pg_ap_main.r",
+      "source_urls": [
+        "https://mscecon.hkust.edu.hk/admissions/admission-requirements",
+        "https://mscecon.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-econ/"
+      ],
+      "official_quotes": [
+        "Applicants should have obtained a bachelor's degree from a university or tertiary institution. For those who are not econ/business major, a strong quantitative background and a commitment to academic study and research are expected.",
+        "TOEFL and IELTS scores are valid for two years from the test date. Test at home option is not accepted.",
+        "Applicants are strongly advised to include GRE/GMAT result in their applications."
+      ],
+      "gaps": [
+        "A later open of the 2027/28 economics catalog page returned a database connection error. Fee HK$350,000, Chinese award title, full-time 1 year, and the 15 February 2027 deadline were taken from an earlier retrieval of that same official catalog URL, not re-confirmed in the failed reload.",
+        "Programme schedule page does not list calendar phase dates and still contains a 2026/27 'now open' line beside the 27/28 heading.",
+        "No minimum GPA is stated."
+      ],
+      "id": "hkust-mscecon",
+      "name_zh": "理學碩士（經濟學）",
+      "name_en": "Master of Science in Economics",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 intake",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A bachelor’s degree from a recognized institution or an approved equivalent qualification and evidence of satisfactory academic performance. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "satisfactory academic performance; no numeric minimum",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Applicants are highly recommended to have a satisfactory GMAT/GRE score. A GMAT/GRE score is not compulsory but will be taken into consideration. Catalog spelling as published: 'satifactory'."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "For the full-time program, relevant work or business experience will add weight to the application under consideration. For the part-time program, at least two years of full-time relevant post-qualification work experience is preferred. Not a stated compulsory minimum. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV/resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Professional qualifications (if applicable)",
+        "Two academic reference letters",
+        "Application fee HK$800"
+      ],
+      "interview": "Shortlisted applicants only. Face-to-face in Hong Kong where possible; video interviews elsewhere. Phone interviews are not considered.",
+      "deadlines": [
+        "Rolling implied by phased 2027/28 rounds. Full-time: 11 October 2026; 29 November 2026; 10 January 2027; 28 February 2027.",
+        "Part-time: 13 December 2026; 31 January 2027; 21 March 2027; 2 May 2027.",
+        "2027/28 catalog final dates: full-time 28 February 2027; part-time 2 May 2027; rolling; Business School priority round 2 July 2026 to 15 August 2026 (catalog; not repeated on the programme schedule page opened)."
+      ],
+      "tuition": "2027/28 catalog program fee HK$477,400. Application fee HK$800.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://mscfofb.hkust.edu.hk/admissions/admission-requirements",
+        "https://mscfofb.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fofb/"
+      ],
+      "official_quotes": [
+        "A bachelor’s degree from a recognized institution or an approved equivalent qualification and evidence of satisfactory academic performance.",
+        "A GMAT/GRE score is not compulsory but will be taken into consideration.",
+        "For the part-time program, at least two years of full-time relevant post-qualification work experience is preferred."
+      ],
+      "gaps": [
+        "No minimum GPA. Part-time work experience is preferred, not worded as compulsory."
+      ],
+      "id": "hkust-mscfofb",
+      "name_zh": "理學碩士（家族辦公室及家族企業學）",
+      "name_en": "Master of Science in Family Office and Family Business",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 Fall Term, commencing September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants seeking admission to a master's degree program should have obtained a bachelor’s degree from a recognized institution, or an approved equivalent qualification. No programme GPA minimum and no major prerequisite are stated on the catalog admission section.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not required, but strong GMAT/GRE scores will enhance the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Program-specific: full-time program, work experience is not required. Part-time program: one year of full-time post-qualification work experience. Additional information: for the full-time program, applicants will have an advantage if they have some work experience. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Catalog does not restate a document checklist on the section opened. Application fee HK$800. Sibling MSc pages require transcripts, degree certificates, CV, personal statement, two academic referees, and TOEFL/IELTS or GMAT/GRE if applicable; those items were not re-opened on the MFin programme page because that page did not load."
+      ],
+      "interview": "Not stated on the catalog admission section opened.",
+      "deadlines": [
+        "2027/28 catalog: rolling; full-time local and non-local 28 February 2027; part-time local and non-local 2 May 2027; Business School priority round 2 July 2026 to 15 August 2026.",
+        "The programme deadline page mfin.hkust.edu.hk/admissions/application-deadline did not load, so any finer phase dates on that page were not copied."
+      ],
+      "tuition": "2027/28 catalog program fee HK$460,000. Application fee HK$800.",
+      "apply_url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina/",
+      "source_urls": [
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina/"
+      ],
+      "official_quotes": [
+        "Work experience: Full-time program: Not required. Part-time program: One year of full-time post-qualification work experience.",
+        "GMAT/GRE scores are not required, but strong GMAT/GRE scores will enhance the application.",
+        "For the full-time program, applicants will have an advantage if they have some work experience."
+      ],
+      "gaps": [
+        "Programme admissions-requirement and deadline pages did not load. Facts are from the 2027/28 catalog page that was opened.",
+        "Part-time one-year work experience is under Program-Specific Admission Requirements, so it is recorded as a requirement for part-time only. work_years_min is null because full-time has no minimum."
+      ],
+      "id": "hkust-mfin",
+      "name_zh": "理學碩士（金融學）",
+      "name_en": "Master of Science in Finance",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "Applications from September 2026 onwards for the 2027-2028 intake",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants must have a bachelor's degree with satisfactory academic performance from a university or a recognized institution. Students are recommended with basic quantitative knowledge in the area of Additional Maths, Calculus, Linear Algebra, Quantitative Methods, and Statistics, etc. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "satisfactory academic performance; no numeric minimum",
+        "major_prerequisite": "Basic quantitative knowledge (Additional Maths, Calculus, Linear Algebra, Quantitative Methods, Statistics, etc.) is recommended, not worded as compulsory."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Applicants are highly recommended to have a satisfactory GMAT/GRE score. A GMAT/GRE score is not compulsory but will be taken into consideration."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No minimum work experience is required. However, any relevant work or business experience will add weight to the application. Catalog: work experience will add weight to the consideration. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV/resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Professional qualifications (if applicable)",
+        "Two academic reference letters (or contacts)",
+        "Application fee HK$800"
+      ],
+      "interview": "Shortlisted applicants only. Face-to-face in Hong Kong where possible; video interviews elsewhere. Phone interviews are not considered. Admission results announced approximately one month after interview.",
+      "deadlines": [
+        "Rolling, from September 2026 for 2027-2028. Late applications depend on places. Deadlines 23:59 HK time: Phase 1 11 October 2026 (interview notification by 11 November 2026); Phase 2 29 November 2026 (by 29 December 2026); Phase 3 10 January 2027 (by 10 February 2027); Phase 4 28 February 2027 (by 28 March 2027).",
+        "2027/28 catalog final full-time deadline 28 February 2027; rolling; priority round 2 July 2026 to 15 August 2026 is on the catalog, not on the programme schedule page opened."
+      ],
+      "tuition": "2027/28 catalog program fee HK$365,000. The program fee covers tuition, textbooks, and course materials for some of the general courses and required courses. Application fee HK$800.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://msgo.hkust.edu.hk/admissions/admission-requirements",
+        "https://msgo.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-go/"
+      ],
+      "official_quotes": [
+        "Applicants must have a bachelor's degree with satisfactory academic performance from a university or a recognized institution.",
+        "A GMAT/GRE score is not compulsory but will be taken into consideration.",
+        "No minimum work experience is required. However, any relevant work or business experience will add weight to the application."
+      ],
+      "gaps": [
+        "Quantitative preparation is recommended, not a stated hard prerequisite. No minimum GPA."
+      ],
+      "id": "hkust-msgo",
+      "name_zh": "理學碩士（環球運營管理）",
+      "name_en": "Master of Science in Global Operations",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 intake",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants must possess a bachelor's degree from a recognized university or approved institution with satisfactory academic performance. Relevant undergraduate degrees, such as computer science, information systems, AI, and data analytics, would be an advantage. Catalog: applicants should demonstrate a keen interest in information and cyber security management. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "satisfactory academic performance; no numeric minimum",
+        "major_prerequisite": "No compulsory major. Computer science, information systems, AI, and data analytics are an advantage."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Applicants are highly recommended to have a satisfactory GMAT/GRE score. Although these tests are not required, applicants who can show high GMAT/GRE scores stand a higher chance of consideration for admission. The programme page adds: 'The University also accepts the following online test results as alternatives for meeting the admission requirements,' but no alternative tests are listed in the text retrieved."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "For the full-time program, relevant IT or business work experience will be advantageous. For the part-time program, two years of full-time relevant post-qualification work experience would be an advantage. Catalog uses the same 'advantage' / 'add weight' wording, not a compulsory minimum. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV/resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Professional qualifications (if applicable)",
+        "Two academic reference letters",
+        "Application fee HK$800"
+      ],
+      "interview": "Shortlisted applicants only. Face-to-face in Hong Kong where possible; video elsewhere. Phone interviews are not considered.",
+      "deadlines": [
+        "Rolling 2027/28. Full-time: 11 October 2026; 29 November 2026; 10 January 2027; 28 February 2027.",
+        "Part-time: 13 December 2026; 31 January 2027; 21 March 2027; 2 May 2027.",
+        "Catalog final dates match those last phases; catalog also lists a priority round 2 July 2026 to 15 August 2026."
+      ],
+      "tuition": "2027/28 catalog: full-time HK$400,000; part-time HK$360,000. Application fee HK$800.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://mscicsm.hkust.edu.hk/admissions/admission-requirements",
+        "https://mscicsm.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-icsm/"
+      ],
+      "official_quotes": [
+        "Applicants must possess a bachelor's degree from a recognized university or approved institution with satisfactory academic performance. Relevant undergraduate degrees, such as computer science, information systems, AI, and data analytics, would be an advantage.",
+        "Although these tests are not required, applicants who can show high GMAT/GRE scores stand a higher chance of consideration for admission.",
+        "For the part-time program, two years of full-time relevant post-qualification work experience would be an advantage."
+      ],
+      "gaps": [
+        "The sentence about online test alternatives does not name the tests.",
+        "Work experience is an advantage, not a stated minimum, for both modes."
+      ],
+      "id": "hkust-mscicsm",
+      "name_zh": "理學碩士（資訊與網路安全管理）",
+      "name_en": "Master of Science in Information and Cyber Security Management",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years (provided that students attend Winter Term). From the 2027/28 catalog general-information block.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28 intake",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Applicants must have a good bachelor's degree from a recognized university or approved institution with satisfactory academic performance. No general minimum GPA is stated. The 2027/28 catalog describes a separate Integrated Bachelor-Master Pathway only for BBA in Information Systems students in Year 3 or above and Dual Degree in Technology and Management students in Year 4 or above, with CGA 3.3 or above and specified credit thresholds. That CGA is not a general admissions minimum.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "satisfactory academic performance; no numeric minimum for general entry",
+        "major_prerequisite": "No compulsory prior major for general entry."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Programme page: applicants are highly recommended to have a satisfactory GMAT/GRE score. Tests are not required, but high scores stand a higher chance of consideration and admission. The page says the University also accepts 'the following online test results' as alternatives, but no list appears in the text retrieved. Catalog: applicants are recommended to present a satisfactory score on the GRE or GMAT, with a strong showing in both quantitative and verbal skills."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Programme page: applicants for the part-time mode should have at least two years of post-qualification work experience. For the full-time mode, work experience is not required, but applicants with relevant work experience will have an advantage. Catalog wording is softer for part-time: at least two years of full-time post-qualification work experience is preferred; full-time applicants with work experience will have an advantage. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV/resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Professional qualifications (if applicable)",
+        "Two academic reference letters",
+        "Application fee HK$800"
+      ],
+      "interview": "Shortlisted applicants only. Face-to-face in Hong Kong where possible; video elsewhere. Phone interviews are not considered.",
+      "deadlines": [
+        "Rolling 2027/28. Full-time: 11 October 2026 (interview notification 11 November 2026); 29 November 2026 (29 December 2026); 10 January 2027 (10 February 2027); 28 February 2027 (28 March 2027).",
+        "Part-time: 13 December 2026 (13 January 2027); 31 January 2027 (28 February 2027); 21 March 2027 (21 April 2027); 2 May 2027 (2 June 2027)."
+      ],
+      "tuition": "2027/28 catalog general information: full-time HK$360,000; part-time HK$297,000. Application fee HK$800 on the programme schedule page.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://mscism.hkust.edu.hk/admissions/admission-requirements",
+        "https://mscism.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-ism/"
+      ],
+      "official_quotes": [
+        "Applicants must have a good bachelor's degree from a recognized university or approved institution with satisfactory academic performance.",
+        "Applicants for the part-time mode should have at least two years of post-qualification work experience. For the full-time mode, work experience is not required, but applicants with relevant work experience will have an advantage.",
+        "Although these tests are not required, applicants who can show high GMAT/GRE scores stand a higher chance of consideration and admission."
+      ],
+      "gaps": [
+        "Part-time experience: programme page says 'should have at least two years'; catalog says 'preferred'. work_years_min left null because full-time has no minimum and the two official wordings differ.",
+        "CGA 3.3 applies only to the integrated UG pathway in the catalog, not to general admission, so gpa_min_4 is null.",
+        "Online-test alternatives are mentioned but not named.",
+        "Fee, Chinese title, and duration are from the 2027/28 catalog HTML retrieved from the official URL; a later open_page of that URL failed with too many connections."
+      ],
+      "id": "hkust-mscism",
+      "name_zh": "理學碩士（資訊系統管理學）",
+      "name_en": "Master of Science in Information Systems Management",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year. Catalog: the program commences with a foundation Summer Term, followed by Term 1 in Fall and Term 2 in Spring. Dual degree options with FGV EAESP, HEC Paris or Yale University are offered.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "Applications for 2027/28 invited from September 2026 onwards",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "MIMT: possess a bachelor's degree from a recognized institution, or an approved equivalent qualification. MIMT (CEMS): possess a business related bachelor's degree from a recognized institution, or an approved equivalent qualification. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "CEMS track only: business-related bachelor's degree. Base MIMT: no major restriction stated."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted.",
+          "The programme admissions table does not print numeric minima. It says: achieve a satisfactory TOEFL/IELTS score for those whose first language is not English and whose degree or equivalent qualification was awarded by an institution where the medium of instruction was not English. The 2027/28 catalog restates the university minima (IELTS 6.5, all sub-scores 5.5; TOEFL iBT 80 before 21 January 2026 and 4.5 from that date). This is not a higher English bar. CEMS language rules are separate from IELTS/TOEFL: at least two languages including English on entry, and three languages including English by graduation; dialects are not accepted; HKUST accepts only Mandarin or Cantonese as a Chinese CEMS language."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Base MIMT: GMAT/GRE optional. MIMT (CEMS): compulsory GMAT/GRE report with a satisfactory score. Catalog: students pursuing the CEMS qualification need a satisfactory GMAT or GRE score. No numeric minimum is published."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Base MIMT: no work-experience minimum is stated. MIMT (CEMS): less than 2 years / catalog 'no more than two years' of full-time post-qualification work experience. That is a ceiling, not a minimum. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Personal statement and the supplementary form",
+        "CV/resume with photo",
+        "Transcript and degree certificate of undergraduate studies",
+        "Documentary proof of other professional qualifications (if applicable)",
+        "Official GMAT/GRE score report (if applicable; compulsory for CEMS)",
+        "Official TOEFL/IELTS score report (if applicable)",
+        "Language certification for second/third foreign language (if applicable)",
+        "Two academic referees",
+        "Application fee (amount not printed on the schedule page opened; catalog application block for this programme states HK$800)"
+      ],
+      "interview": "Shortlisted applicants only. Face-to-face in Hong Kong where possible; video elsewhere. Phone interviews are not considered.",
+      "deadlines": [
+        "Rolling 2027/28 from September 2026. Deadlines 23:59 HK time: Phase 1 11 October 2026 (interview notification by 11 November 2026); Phase 2 29 November 2026 (by 29 December 2026); Phase 3 10 January 2027 (by 10 February 2027); Phase 4 28 February 2027 (by 29 March 2027).",
+        "CEMS exchange allocation is processed after phase 2. Phase 3 and 4 applicants do not have priority on exchange school selection. Only complete applications are considered.",
+        "Catalog final full-time deadline retrieved as 27 February 2027, which is one day earlier than the programme page phase 4 date of 28 February 2027."
+      ],
+      "tuition": "2027/28 catalog: program fee HK$420,000. The program fee covers tuition, textbooks and course materials for some of the required courses, and some enrichment activities. Successful applicants pay a non-refundable deposit offset against the program fee; the remainder is paid in two instalments.",
+      "apply_url": "https://www.ab.ust.hk/applyPG",
+      "source_urls": [
+        "https://mimt.hkust.edu.hk/admission-requirements",
+        "https://mimt.hkust.edu.hk/admissions/application-deadlines-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-imt"
+      ],
+      "official_quotes": [
+        "GMAT/GRE: MIMT Optional; MIMT (CEMS) Compulsory GMAT/GRE report with satisfactory score.",
+        "MIMT (CEMS) additional requirements: Possess at least two languages including English. Less than 2 years of full-time post qualification work experience.",
+        "Students who are pursuing the CEMS qualification also need to fulfill the following selection criteria: A bachelor’s degree in business or a related area; A satisfactory GMAT or GRE score; Two languages including English; No more than two years of full-time post-qualification work experience."
+      ],
+      "gaps": [
+        "English numbers are the university minima restated on the 2027/28 catalog, not a higher MIMT score. The programme table only says 'satisfactory'.",
+        "Catalog final date 27 February 2027 vs programme phase 4 date 28 February 2027.",
+        "Fee, Chinese title, and summer-start structure are from the 2027/28 catalog HTML; a later open_page of that URL failed.",
+        "gmat_gre.required is false because the base MIMT degree does not require GMAT/GRE. The CEMS qualification does."
+      ],
+      "id": "hkust-mimt",
+      "name_zh": "理學碩士（國際管理）",
+      "name_en": "Master of Science in International Management",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027/28, priority round then regular rounds from September 2026",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A bachelor’s degree from a recognized university or other approved institution and evidence of satisfactory academic performance. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "satisfactory academic performance; no numeric minimum",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Programme page says the TOEFL iBT figure is in one single attempt. It does not explicitly repeat 'test at home is not accepted' or a two-year validity rule. The university page does reject at-home tests."
+        ],
+        "waiver": "A satisfactory TOEFL or IELTS score is required for applicants whose first language is not English and whose bachelor’s degree was awarded by an institution where the medium of instruction is not English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Programme page: applicants are highly recommended to have a satisfactory GMAT/GRE score. A GMAT/GRE score is not compulsory but will be taken into consideration. Catalog additional information is narrower: 'GMAT score will also be considered if it is available.' No minimum score is stated."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Programme page: no minimum work experience is required. Catalog: no minimum work experience will be necessary. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Completed online application form, including a personal statement",
+        "CV or resume with photo",
+        "Academic transcript(s)",
+        "Degree certificate(s)",
+        "Official GMAT or GRE score report (if applicable)",
+        "Official TOEFL or IELTS score report (if applicable)",
+        "Certification of professional qualifications (if applicable)",
+        "References from two academic referees",
+        "Application fee (catalog application fee HK$800)"
+      ],
+      "interview": "Video interviews with shortlisted applicants. Originals are required only if admitted.",
+      "deadlines": [
+        "Priority Round from 2 July to 15 August 2026, then regular rounds starting in September 2026. Rolling.",
+        "The programme schedule page does not print later round dates. 2027/28 catalog: full-time local and non-local deadline 28 February 2027; rolling."
+      ],
+      "tuition": "2027/28 catalog program fee HK$400,000. Application fee HK$800 on the catalog application section.",
+      "apply_url": "https://mscmark.hkust.edu.hk/admissions/application-schedule-procedures",
+      "source_urls": [
+        "https://mscmark.hkust.edu.hk/admissions/admission-requirements",
+        "https://mscmark.hkust.edu.hk/admissions/application-schedule-procedures",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-mark/"
+      ],
+      "official_quotes": [
+        "A bachelor’s degree from a recognized university or other approved institution and evidence of satisfactory academic performance.",
+        "A GMAT/GRE score is not compulsory but will be taken into consideration.",
+        "No minimum work experience is required."
+      ],
+      "gaps": [
+        "Programme schedule page does not list round dates after the priority window. Catalog final date 28 February 2027 is included from the catalog application section.",
+        "Catalog mentions GMAT only ('if available'); the programme page also mentions GRE."
+      ],
+      "id": "hkust-mscmark",
+      "name_zh": "理學碩士（市場學）",
+      "name_en": "Master of Science in Marketing",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "1 year (2027/28 catalog normative duration)",
+      "location": "Hong Kong (HKUST Clear Water Bay), New York (NYU Stern, downtown Manhattan), and a rotating global module. FAQ states the global module is at NYU Abu Dhabi.",
+      "medium": "English",
+      "intake": "Class of 2027, November 2026 entry. As of 2026-10-21 the published final deadlines for this class had passed or were in the past.",
+      "intake_cycle": "Class of 2027 (November 2026 entry)",
+      "academic": {
+        "text": "Applicants should hold a bachelor’s degree from a recognized institution, with a strong academic record. FAQ: a master’s degree without a bachelor’s degree still meets the requirement because qualifications at least at undergraduate level are required. Evaluation is holistic, not solely academic. A finance background is not mandatory; strong quantitative and numerical skills are expected. Prior studies in business, science, economics, accounting, or finance, or CPA/CFA, are described as generally sufficient to show quantitative proficiency. No numeric GPA minimum is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "strong academic record; no numeric minimum",
+        "major_prerequisite": "Finance background is not mandatory. Quantitative proficiency is expected."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL Paper-based Test (pBT): 550",
+          "TOEFL Revised Paper-delivered Test: 60 (total scores for Reading, Listening and Writing sections)",
+          "Scores must be from one single attempt. Test at home option is not accepted."
+        ],
+        "waiver": "Applicants are not required to present TOEFL or IELTS score if their first language is English, or their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "FAQ: No, the GMAT and GRE are not required for application to the MSGF program. The 2027/28 catalog programme-specific requirement that was retrieved states five years of work experience and does not add a GMAT rule."
+      },
+      "experience": {
+        "work_years_min": 5,
+        "work_text": "Applicants should have a minimum of five years of full-time post-degree professional experience. Applicants with slightly less experience but a strong professional background may be considered case by case. Catalog programme-specific line: five years of full-time work experience after obtaining the bachelor’s degree. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Identity document: passport or HKID",
+        "Degree certificate(s), official transcript(s), and grading system; academic documents must be in English; copies acceptable at application; official documents from the university at offer acceptance",
+        "Proof of English proficiency",
+        "2-3 essays: goals and contribution; a business challenge and lessons; optional third essay for merit-based awards",
+        "Contact details of 2 professional recommendations",
+        "Up-to-date CV/resume",
+        "Profile photo",
+        "Non-refundable application fee HKD $1,200 / USD $154"
+      ],
+      "interview": "Only shortlisted applicants. Online via Zoom with the MSGF Admissions Committee, typically 30 minutes. Decisions typically within two weeks after the interview. FAQ also says status updates generally within two weeks after a complete application.",
+      "deadlines": [
+        "Rolling. Class of 2027 (November 2026 entry). Round 1: 31 March 2026, all applicants. Round 2: 30 June 2026, all applicants. Round 3: 29 August 2026, all applicants. Final deadlines: 12 September 2026 for non-Hong Kong-based applicants; 17 October 2026 for Hong Kong-based applicants. Extended deadline 3 October 2026 for non-Hong Kong-based applicants, case by case.",
+        "Retrieved 2026-10-21, after the 17 October 2026 Hong Kong-based final deadline. The deadlines page still said the class was open. The 2027/28 catalog says application deadlines are on the programme website and does not publish a later intake date."
+      ],
+      "tuition": "2027/28 catalog: HK$682,500 (US$87,500). The program fee includes all courses, books and materials, room and board for two in-residency sessions at HKUST, and meals (dinners are not included) during program periods. Application fee HKD $1,200 / USD $154.",
+      "apply_url": "https://msgf-nyustern.hkust.edu.hk/apply",
+      "source_urls": [
+        "https://msgf-nyustern.hkust.edu.hk/admission-requirements",
+        "https://msgf-nyustern.hkust.edu.hk/application-deadlines",
+        "https://msgf-nyustern.hkust.edu.hk/faq",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-gfin/"
+      ],
+      "official_quotes": [
+        "Applicants should have a minimum of five years of full-time post-degree professional experience.",
+        "Applicants should hold a bachelor’s degree from a recognized institution, with a strong academic record.",
+        "No, the GMAT and GRE are not required for application to the MSGF program.",
+        "IELTS (Academic Module): Overall score of 6.5, with no sub-score lower than 5.5. Scores must be from a single test attempt. The at-home testing option is not accepted."
+      ],
+      "gaps": [
+        "Fee, Chinese title, part-time 1-year duration, and the catalog five-year work line are from the 2027/28 catalog HTML. A later open_page of that URL returned too few lines or an error.",
+        "The live admissions cycle on 2026-10-21 is November 2026 (Class of 2027), not a 2027/28 Fall start. Next-intake deadlines were not published.",
+        "Medium of instruction is not given as a labelled sentence; pages and English rules are in English."
+      ],
+      "id": "hkust-msgf",
+      "name_zh": "理學碩士（環球金融）",
+      "name_en": "Master of Science in Global Finance (joint degree by New York University and HKUST)",
+      "degree_label": "MSc"
+    },
+    {
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "Full-time: 12 or 16 months; part-time (weekly): 24 months. 2027/28 catalog fees and durations match the admissions page.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "HKUST MBA Intake 2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Applicants seeking admission to a master's degree program should have obtained a bachelor’s degree from a recognized institution, or an approved equivalent qualification. No minimum GPA is stated. Employment history will play a critical role in the admission process.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL paper-based test: 550",
+          "TOEFL Revised Paper-delivered Test: 60 (Reading, Listening and Writing)",
+          "Duolingo English Test: 125",
+          "Single attempt only. Test at home option is not accepted."
+        ],
+        "waiver": "Admissions page: English test is only required if your undergraduate/postgraduate programme was not taught in English. Catalog also waives TOEFL/IELTS if first language is English, or the bachelor's degree (or equivalent) was awarded by an institution where the medium of instruction was English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "Full-time MBA: a GMAT or GRE score is mandatory for all applicants. Part-time MBA (weekly): not required. Catalog: part-time applicants are encouraged, but not required, to submit GMAT or GRE; the committee may recommend a score to strengthen an application. No minimum score is stated. required is true because full-time admission cannot proceed without GMAT or GRE; it is not required for the part-time weekly mode of this same catalog programme."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Full-time MBA: minimum 2 years of full-time work experience. Part-time MBA (weekly): minimum 3 years. Catalog repeats two years full-time and three years part-time. No internship requirement is stated. Employment history is critical.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Resume",
+        "Soft copies of transcripts and identifications",
+        "2 reference letters",
+        "2 short essays",
+        "GMAT/GRE if applicable",
+        "English test if not exempt",
+        "Undergraduate transcript and graduate diploma",
+        "Certified true copies after admission",
+        "Non-refundable deposit of HKD$65,000 to secure the seat",
+        "Application fee HKD 500, waived for verified HKUST MBA/EMBA referral or eligible HKUST alumni"
+      ],
+      "interview": "1 admission interview. Shortlisted process described as interview by invitation.",
+      "deadlines": [
+        "Intake 2027. Full-time: Round 1 7 October 2026; Round 2 3 December 2026; Round 3 28 January 2027; Round 4 25 March 2027; rolling international 13 May 2027.",
+        "Part-time weekly: Round 1 14 October 2026; Round 2 31 December 2026; Round 3 11 March 2027; Round 4 29 April 2027; rolling international 27 May 2027; rolling local HK and applicants with a valid visa 24 June 2027.",
+        "Catalog says deadlines are on the programme website."
+      ],
+      "tuition": "2027/28 catalog: full-time HK$600,000; part-time HK$510,000. The program fee covers tuition fees, costs of residential program, textbooks for all required courses, course materials and cases, and enrichment talks. All fees are non-refundable. Deposit HKD$65,000. Application fee HKD 500.",
+      "apply_url": "https://mba.hkust.edu.hk/admissions",
+      "source_urls": [
+        "https://mba.hkust.edu.hk/admissions",
+        "https://mba.hkust.edu.hk/admissions/deadline",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/ft-pt-mba/"
+      ],
+      "official_quotes": [
+        "Full-time MBA Program: Min. 2 years full-time work experience; GMAT/GRE mandatory for all applicants.",
+        "Part-time MBA Program (Weekly): Min. 3 years; GMAT/GRE not required.",
+        "Duolingo English Test: 125.",
+        "Full-time MBA Program: a GMAT or a GRE score, and work experience: Full-time MBA Program: two years; Part-time MBA Program: three years."
+      ],
+      "gaps": [
+        "Duolingo 125 is an additional accepted test. The graduate-school page does not list Duolingo. IELTS/TOEFL minima match the university.",
+        "gmat_gre.required is true only because full-time applicants must submit GMAT or GRE. Part-time weekly applicants are not required to.",
+        "work_years_min is null because the two modes differ (2 vs 3).",
+        "Bi-weekly MBA is a separate catalog programme and a separate JSON record."
+      ],
+      "id": "hkust-mba",
+      "name_zh": "工商管理碩士",
+      "name_en": "Master of Business Administration",
+      "degree_label": "MBA"
+    },
+    {
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "24 months",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "HKUST MBA Intake 2027, part-time bi-weekly column",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Bachelor’s degree from a recognized institution, or an approved equivalent qualification. The programme aims at mid-career executives with solid work experience from Hong Kong, Greater China, and Asia. Courses will be taught in English. All courses will be conducted in Hong Kong. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL paper-based: 550",
+          "TOEFL Revised paper-delivered: 60",
+          "Duolingo English Test: 125",
+          "Single attempt. Test at home not accepted."
+        ],
+        "waiver": "Admissions page: only required if UG/PG was not taught in English. Catalog waiver: first language English, or bachelor's degree (or equivalent) from an English-medium institution.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Admissions table: GMAT/GRE not required for Part-time MBA (Bi-Weekly). Catalog: applicants are encouraged, but not required, to submit a GMAT or GRE score. The committee may recommend a score to strengthen the application. No minimum score is stated."
+      },
+      "experience": {
+        "work_years_min": 3,
+        "work_text": "Three years of work experience (admissions page: minimum 3 years full-time work experience; catalog: three years of work experience). Employment history will play a critical role. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Same checklist column as other MBA modes on the admissions page: 2 essays, 2 reference letters, 1 admission interview, undergraduate transcript and graduate diploma",
+        "GMAT/GRE if submitted",
+        "English test if not exempt"
+      ],
+      "interview": "1 admission interview.",
+      "deadlines": [
+        "Same dates as part-time weekly on the Intake 2027 deadline page: Round 1 14 October 2026; Round 2 31 December 2026; Round 3 11 March 2027; Round 4 29 April 2027; rolling international 27 May 2027; rolling local HK and applicants with a valid visa 24 June 2027."
+      ],
+      "tuition": "2027/28 catalog program fee HK$510,000. The program fee covers tuition fees, textbooks for all required courses, course materials and cases. All fees are non-refundable. The shared MBA admissions page states a non-refundable deposit of HKD$65,000 and an application fee of HKD 500.",
+      "apply_url": "https://mba.hkust.edu.hk/admissions",
+      "source_urls": [
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/pt-mba-biweekly/",
+        "https://mba.hkust.edu.hk/admissions",
+        "https://mba.hkust.edu.hk/admissions/deadline"
+      ],
+      "official_quotes": [
+        "Courses will be taught in English.",
+        "All courses will be conducted in Hong Kong. Core courses are held during weekends while advanced elective courses are held on both weekends and some weekday evenings.",
+        "Three years of work experience.",
+        "Duolingo English Test: 125."
+      ],
+      "gaps": [
+        "Listed separately because the 2027/28 catalog has its own programme page. The degree awarded is still Master of Business Administration / 工商管理碩士.",
+        "Duolingo is above the graduate-school list of tests, not a higher IELTS/TOEFL score."
+      ],
+      "id": "hkust-mba-biweekly",
+      "name_zh": "工商管理碩士",
+      "name_en": "Part-time MBA (Bi-weekly)",
+      "degree_label": "MBA"
+    },
+    {
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "Programme page: 16 months, one module per month, four consecutive days (normally Thursday to Sunday). 2027/28 catalog: 16–18 months; participants meet once a month to complete 30 to 34 credits.",
+      "location": "Hong Kong (HKUST residential modules). Global study tour at partnership institutions.",
+      "medium": "Classes are conducted in Putonghua, or in English with Putonghua interpretation. Teaching materials are provided in both Chinese and English.",
+      "intake": "Fall intake September to October each year; Spring intake March to April each year. Applications accepted throughout the year. Programme fee line is labelled 2026 intake; 2027/28 catalog lists the same fee.",
+      "intake_cycle": "Fall and Spring; year-round applications",
+      "academic": {
+        "text": "Possess a bachelor's degree from a recognized university or an approved institution, or possess recognized professional qualifications equivalent to a degree. FAQ: an applicant without a bachelor's degree must complete any supplementary study required by the programme office, sit the entrance examination, and be approved by the University Admissions Committee. Approvals are limited each year. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [],
+        "waiver": "2027/28 catalog: Applicants are exempted from the English Language admission requirements of the University. Programme FAQ: in most cases there is no English test, and the interview is conducted in Putonghua.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated. There is a separate written entrance exam on the same day as the interview, focused on general mathematics, analysis, and comprehension (1.5 hours: mathematics multiple choice; information use, logical reasoning and reading comprehension multiple choice; essay analysis)."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "At least 8 years of significant full-time work experience subsequent to obtaining a bachelor's degree or professional qualification, and a senior management position within the company. Catalog: eight years of work experience; applicants should hold a senior position in the organization. FAQ: in some cases younger applicants who hold senior positions in multinational firms, even with less than eight years of experience, are considered on practical experience. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Online application for screening",
+        "Interview",
+        "Written entrance assessment",
+        "Catalog application fee HK$2,000"
+      ],
+      "interview": "Screening based on interview and examination. First interview online; second interview on the HKUST campus, by the Admissions Committee and programme management team, usually in Putonghua and usually without an English test. Interviews and written assessments are conducted monthly. Results about 20 working days after the entrance examination. Qualified outstanding applicants may be admitted first-come, first-served because seats are limited.",
+      "deadlines": [
+        "Applications are accepted throughout the year.",
+        "Interviews and written assessments monthly (schedule via the official WeChat account; exact dates not printed).",
+        "Fall intake September to October; Spring intake March to April."
+      ],
+      "tuition": "Programme page: program fee for 2026 intake is HKD 1,280,000, covering faculty teaching, course materials, and accommodation and meals during the 16 modules. Travel to HKUST and overseas study trips are extra. Non-refundable and non-transferable. 2027/28 catalog: HK$1,280,000, including faculty teaching, textbooks, course materials, and accommodation and meals for modules on and off campus; travel not included. Application fee HK$2,000.",
+      "apply_url": "https://hkustemba.hkust.edu.hk/en-us/admission.html",
+      "source_urls": [
+        "https://hkustemba.hkust.edu.hk/en-us/admission.html",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/hkust-emba/"
+      ],
+      "official_quotes": [
+        "Have at least 8 years of significant full-time work experience subsequent to obtaining a bachelor's degree or professional qualification.",
+        "Applicants are exempted from the English Language admission requirements of the University.",
+        "Classes are conducted in Putonghua, or in English with Putonghua interpretation.",
+        "The program fee for 2026 intake is HKD 1,280,000."
+      ],
+      "gaps": [
+        "English exemption is lower than the graduate-school IELTS/TOEFL rule, not a higher bar.",
+        "Duration is 16 months on the programme page and 16–18 months in the catalog.",
+        "Fee line on the programme page is labelled 2026 intake; the 2027/28 catalog amount is the same."
+      ],
+      "id": "hkust-emba",
+      "name_zh": "高層管理人員工商管理碩士",
+      "name_en": "HKUST Executive Master of Business Administration",
+      "degree_label": "EMBA"
+    },
+    {
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "2027/28 catalog: 18 months, part-time. Award title on that catalog page: Master of Business Administration (joint degree by Northwestern University and HKUST).",
+      "location": "Hong Kong, with sessions at Kellogg. FAQ for KH28: weekends at HKUST, Global Network Week at Kellogg, and one international elective.",
+      "medium": "English",
+      "intake": "Not a current dated intake on the pages opened. FAQ still says 'In 2024, class will commence in January' and points applicants to discuss candidacy. 2027/28 catalog says deadlines are on the programme website.",
+      "intake_cycle": "",
+      "academic": {
+        "text": "Admissions page: possess a bachelor’s degree from a recognized university or an approved institution, or possess recognized professional qualifications equivalent to a degree. No minimum GPA is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "FAQ: TOEFL paper-based minimum 550.",
+          "FAQ does not state the TOEFL iBT 4.5 scale for tests from 21 January 2026.",
+          "The 2027/28 catalog English block retrieved for this programme uses the university scale, including iBT 4.5 from 21 January 2026, pBT 550, revised paper-delivered 60, and at-home tests not accepted."
+        ],
+        "waiver": "Admissions page: IELTS or TOEFL results for applicants who were educated at institutions where the primary language of instruction was not English and whose native language is not English. FAQ: applicants who are not native English speakers and do not possess academic degrees from institutions where English is the medium of instruction will need to submit TOEFL or IELTS.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "FAQ: GMAT results are not required in normal situations. Prospective candidates who do not have a bachelor’s degree should consult admissions and, if the committee accepts the application, must submit GMAT results. No minimum GMAT score. The catalog admission section retrieved does not impose GMAT."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Admissions requirements page: must have at least 10 years of significant full-time work experience after the bachelor’s degree or professional qualifications, and company sponsorship and support. FAQ: 10 years is a key benchmark; candidates with 8 to 9 years may send a resume for preliminary review. Full-time employment is a prerequisite. Company sponsorship can be finance and/or time away; a company support letter is still required if there is no financial sponsorship. 2027/28 catalog programme-specific requirements retrieved from the catalog URL: eight years of full-time post-qualification work experience, and must be sponsored and supported by the company. Because the official pages conflict, work_years_min is null. No internship requirement is stated.",
+        "internship_required": false,
+        "internship_text": ""
+      },
+      "documents": [
+        "Bachelor's degree or equivalent professional qualification",
+        "Company sponsorship and support, including a company support letter even without money",
+        "IELTS or TOEFL if required",
+        "GMAT only in the no-degree case described in the FAQ",
+        "Recommendation letters may be from current or past supervisors, business partners, or colleagues",
+        "Application fee HK$3,000 (FAQ and catalog)"
+      ],
+      "interview": "Catalog: applicants must be interviewed before admission. FAQ: face-to-face interview with the Program Director and Academic Director is essential, including candidates from abroad; about 45 minutes; not technical. Applicants should show they are outstanding and have potential, hold or will soon hold executive responsibilities, and have time and motivation to attend classes and prepare assignments.",
+      "deadlines": [
+        "No 2027/28 round dates were on the requirements page. FAQ deadline answer still refers to a January 2024 commencement. Catalog: see the programme website."
+      ],
+      "tuition": "2027/28 catalog HTML: program fee HK$1,540,000. Expenses for faculty teaching, books, accommodation and meals for all weekends at HKUST and the two live-in sessions are included. Transportation to HKUST and Kellogg is extra. FAQ, which appears stale: program fee for KH28 (Class of 2026) is HK$1,510,000, covering faculty teaching, books and course materials, accommodations and meals for weekends at HKUST, the Global Network Week at Kellogg and one international elective. Application fee HK$3,000.",
+      "apply_url": "https://emba.hkust.edu.hk/admissions/requirements/",
+      "source_urls": [
+        "https://emba.hkust.edu.hk/admissions/requirements/",
+        "https://emba.hkust.edu.hk/faq/",
+        "https://prog-crs.hkust.edu.hk/pgprog/2027-28/kh-emba/"
+      ],
+      "official_quotes": [
+        "Have at least 10 years of significant full-time work experience after obtaining their bachelor’s degree or professional qualifications; and have company sponsorship and support.",
+        "Having at least 10 years of full-time work experience is a key benchmark... Prospective candidates with 8 to 9 years of experience are encouraged to send their resumes for preliminary review.",
+        "The minimum scores required in TOEFL are 80 and 550 for internet-based test and paper-based test respectively, while the minimum scores required in IELTS are 6.5 for the overall result, and 5.5 for all sub-scores.",
+        "GMAT results are not required in normal situations."
+      ],
+      "gaps": [
+        "Work-experience conflict: admissions page says must have at least 10 years; FAQ treats 10 as a benchmark and invites 8–9 years for preliminary review; 2027/28 catalog programme-specific text says eight years of full-time post-qualification work experience. work_years_min is therefore null.",
+        "FAQ English rule does not mention TOEFL iBT 4.5 from 21 January 2026. Catalog HTML for this programme does. toefl_ibt_from_2026_01_21 is null because the opened FAQ does not state 4.5.",
+        "FAQ fee HK$1,510,000 is for KH28 Class of 2026. Catalog fee retrieved for 2027/28 is HK$1,540,000. Catalog page open_page later failed; the fee and eight-year line come from the catalog HTML of https://prog-crs.hkust.edu.hk/pgprog/2027-28/kh-emba/.",
+        "Chinese award title was not in the catalog general-information text retrieved.",
+        "Current application rounds for a future intake were not published on the pages opened.",
+        "Medium of instruction is not labelled on the requirements page."
+      ],
+      "id": "hkust-kh-emba",
+      "name_zh": "",
+      "name_en": "Kellogg-HKUST Executive Master of Business Administration",
+      "degree_label": "EMBA / MBA"
+    }
+  ]
+}

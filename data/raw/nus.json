@@ -1,0 +1,1927 @@
+{
+  "university_id": "nus",
+  "name_zh": "新加坡国立大学",
+  "name_en": "National University of Singapore",
+  "business_school_zh": "新加坡国立大学商学院",
+  "business_school_en": "NUS Business School",
+  "qs_world_2027_rank": 10,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "hub": "https://mscbiz.nus.edu.sg/",
+    "hub_banner": "APPLICATION FOR AUGUST 2026 AND JANUARY 2027 INTAKE STARTS NOW",
+    "hub_programmes": [
+      "MSc in Accounting and Financial Analytics",
+      "MSc in Finance",
+      "MSc in Sustainable and Green Finance",
+      "MSc in Human Capital Management and Analytics",
+      "MSc in Management",
+      "MSc in Management + CEMS MIM",
+      "MSc in Marketing Analytics and Insights",
+      "MSc in Marketing Analytics and Insights + CEMS MIM",
+      "MSc in Real Estate",
+      "MSc in Strategic Analysis and Innovation",
+      "MSc in Business Analytics",
+      "Executive Master of Science in Management"
+    ],
+    "also_included": [
+      "The NUS MBA",
+      "The NUS Executive MBA",
+      "NUS Chinese Executive MBA",
+      "UCLA-NUS Executive MBA"
+    ],
+    "qs_conflict": "The field qs_world_2027_rank is recorded as 10 as specified. The MSc hub page itself prints 8th for QS World University Rankings (Global) 2027, 1st for QS Asia 2019-2027, and 10th for Financial Times Asia-Pacific Business Schools 2017-2023.",
+    "shared_msc_rules": "Across the Business School MSc FAQs retrieved: no strict GPA cut-off; only IELTS Academic or TOEFL iBT; English-medium degrees may request a waiver with official proof; GMAT/GRE optional with a generally expected 700/800 that is not a cutoff; application fee S$100; referees not required; you may apply for up to 5 programmes per cycle; proof of funds should cover programme fees plus about S$19,500 a year of living expenses, or a financing declaration if statements are not ready.",
+    "excluded": [
+      {
+        "name": "MSc in Financial Engineering",
+        "url": "https://rmi.nus.edu.sg/mfe-program/admission/",
+        "reason": "Offered by NUS Risk Management Institute, not listed on the Business School MSc hub. The MSc Finance FAQ distinguishes it from the Business School degree."
+      },
+      {
+        "name": "MSc in Quantitative Finance",
+        "reason": "Department of Mathematics, identified on the MSc Finance FAQ, not a Business School programme."
+      },
+      {
+        "name": "NUS Business School PhD",
+        "reason": "Research degree, outside taught master's and MBA scope."
+      },
+      {
+        "name": "Graduate and professional certificates",
+        "url": "https://bschool.nus.edu.sg/graduate-and-professional-certificates/",
+        "reason": "Listed on the hub but not master's or MBA degrees."
+      }
+    ],
+    "retrieval": "nus.edu.sg HTML is behind Incapsula and did not return body text to a direct fetch. Page text was retrieved from the official URLs on 2026-10-21. Where a date tile was graphical, that is stated in the programme gaps."
+  },
+  "programs": [
+    {
+      "id": "msc-accounting-financial-analytics",
+      "name_zh": "会计与金融分析理学硕士",
+      "name_en": "MSc in Accounting and Financial Analytics",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "12–18 months (programme structure page). Fee table shows two instalments and does not list a part-time schedule.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Applicants still completing a degree or about to graduate may apply. FAQ pattern used across these MSc sites: no strict GPA or degree cut-off.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline"
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. A good score may strengthen the application. GMAT code DRT-MK-51 (MSc in Accounting and Financial Analytics). GRE code 4642 – NUS Business School MSc Programmes. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required. Applicants with some postgraduate work experience may apply, or consider the NUS MBA.",
+        "internship_required": false,
+        "internship_text": "The admissions page does not list an internship as an admission threshold."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only. A strong interview performance is required for those shortlisted.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Final-year students must submit a completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028)",
+        "before_gst": "S$71,200.00",
+        "inclusive_gst_9pct": "S$77,608.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "rebate": "From AY2024/2025, NUS alumni receive a 20% tuition fee rebate across all NUS Business School MSc programmes.",
+        "note": "Two instalments of S$33,354 after the acceptance fee. Miscellaneous student fees are extra."
+      },
+      "apply_url": "https://mscacc.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscacc.nus.edu.sg/admissions/admission-requirements/",
+        "https://mscacc.nus.edu.sg/admissions/application-process/",
+        "https://mscacc.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscacc.nus.edu.sg/academics/programme-structure-and-curriculum/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require you to have work experience for admission into the programme.",
+        "GMAT/GRE scores are optional."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "No numeric GPA on a 4.0 scale is printed. Graduation (not admission) requires GPA at least 3.2 out of 5.0.",
+        "Part-time availability is not stated on the fee page."
+      ]
+    },
+    {
+      "id": "msc-finance",
+      "name_zh": "金融理学硕士",
+      "name_en": "MSc in Finance",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "16-month intensive programme, including an optional experiential learning course (FAQ). Part-time is not offered.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Final-year students may apply. No strict GPA cut-off (FAQ).",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline"
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. May strengthen the application, especially if academics do not fully reflect potential. The page also says double-degree applicants stand a higher chance of preferred CEMS host-school placement, but the Business School MSc hub does not list a Finance+CEMS degree. GMAT code DRT-MK-56 (MSc in Finance). GRE code 4642. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required. FAQ: work experience is not mandatory; relevant internship or work experience is considered favourably.",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. Relevant internship or work experience is considered favourably (FAQ). An experiential learning course during the programme is optional."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Completion letter and unofficial final transcript for final-year students"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028)",
+        "before_gst": "S$71,200.00",
+        "inclusive_gst_9pct": "S$77,608.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "rebate": "NUS alumni 20% tuition fee rebate from AY2024/2025 across NUS Business School MSc programmes."
+      },
+      "apply_url": "https://mscfin.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscfin.nus.edu.sg/admissions/admission-requirements/",
+        "https://mscfin.nus.edu.sg/admissions/application-process/",
+        "https://mscfin.nus.edu.sg/admissions/application-checklist/",
+        "https://mscfin.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscfin.nus.edu.sg/faqs/",
+        "https://mscfin.nus.edu.sg/academics/programme-structure-and-curriculum/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require you to have work experience for admission into the programme.",
+        "Our MSc in Finance is a 16-month intensive programme that includes an optional experiential learning course.",
+        "At this time, we are not offering the part-time programme."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "No 4.0-scale GPA minimum is printed.",
+        "The admissions page mentions double-degree / CEMS placement, but no Finance double degree is listed on https://mscbiz.nus.edu.sg/."
+      ]
+    },
+    {
+      "id": "msc-sustainable-green-finance",
+      "name_zh": "可持续与绿色金融理学硕士",
+      "name_en": "MSc in Sustainable and Green Finance",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "FAQ: full-time 1.5 to 2 years; part-time 2.5 to 3 years. Part-time classes about 2–3 evenings a week, 6.30 pm–9.30 pm.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. FAQ: a good bachelor’s degree in any discipline from a four-year undergraduate programme. A good three-year degree with very strong academic results may be considered case by case. There is no minimum undergraduate grade. A GMAT is highly recommended if the GPA is not strong.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline. Four-year bachelor’s expected; strong three-year degrees considered case by case."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional, not mandatory. A good score may enhance the application. FAQ also says a GMAT is highly recommended if the GPA is not strong. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. GMAT code DRT-MK-75 (MSc in Sustainable and Green Finance). GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required.",
+        "internship_required": false,
+        "internship_text": "The admissions page does not list an internship as an admission threshold."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application.",
+        "International students may apply part-time only with a valid visa that already allows them to reside in Singapore (for example an Employment Pass)."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028)",
+        "before_gst": "S$67,000.00",
+        "inclusive_gst_9pct": "S$73,030.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "full_time_instalments_incl_gst": [
+          "S$31,065 upon enrolment in August",
+          "S$31,065 in January"
+        ],
+        "part_time_instalments_incl_gst": [
+          "S$20,710 August",
+          "S$20,710 January",
+          "S$20,710 next August"
+        ],
+        "rebate": "NUS alumni 20% tuition fee rebate from AY2024/2025 across NUS Business School MSc programmes. The August 2026 fee page had also described a 40% rebate for self-funded Singaporeans and PRs through AY2026/2027; the August 2027 fee text retrieved does not repeat that 40% line."
+      },
+      "apply_url": "https://msgfin.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://msgfin.nus.edu.sg/admissions/admission-requirements/",
+        "https://msgfin.nus.edu.sg/admissions/application-process/",
+        "https://msgfin.nus.edu.sg/fees-finances/programme-fees/",
+        "https://msgfin.nus.edu.sg/faqs/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "GMAT/GRE scores are optional.",
+        "Admission would require a good Bachelor’s degree in any discipline from a four-year undergraduate programme.",
+        "There is no minimum undergraduate grade required to apply."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "No 4.0-scale GPA minimum. A staging URL bschool.nus.edu.sg/msgfin-qat/ still showed TOEFL 100; the live msgfin.nus.edu.sg page says 5.0 and is the one recorded here."
+      ]
+    },
+    {
+      "id": "msc-human-capital-management-analytics",
+      "name_zh": "人力资本管理与分析理学硕士",
+      "name_en": "MSc in Human Capital Management and Analytics",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "FAQ: full-time 12 months; part-time 24 months. Part-time classes about 2–3 evenings a week, 6.30 pm–9.30 pm.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August on the application page; fee table says enrolment in January",
+      "intake_cycle": "Labelled August 2027 on the application and fee pages, with conflicting enrolment month",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Final-year students may apply. No strict GPA cut-off (FAQ).",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline"
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. GMAT code DRT-MK-33 (MSc in Human Capital Management and Analytics). GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required.",
+        "internship_required": false,
+        "internship_text": "The admissions page does not list an internship as an admission threshold."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application.",
+        "International applicants to the part-time programme need a valid pass that already allows residence in Singapore (for example an Employment Pass)."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "Page heading: August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "outcome",
+          "date": "by June 2027",
+          "note": "Notification for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation on the application page"
+        }
+      ],
+      "tuition": {
+        "intake": "Headed August 2027 (AY2027/2028) but instalments say enrolment in January",
+        "before_gst": "S$71,200.00",
+        "inclusive_gst_9pct": "S$77,608.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "full_time": "S$33,354 upon enrolment in January; S$33,354 in August",
+        "part_time": "Three instalments of S$22,236: January, August, January",
+        "rebate": "Alumni 20% line appears on sibling MSc fee pages; this HCMA fee extract did not restate it."
+      },
+      "apply_url": "https://mschcma.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mschcma.nus.edu.sg/admissions/admission-requirements/",
+        "https://mschcma.nus.edu.sg/admissions/application-process/",
+        "https://mschcma.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mschcma.nus.edu.sg/faqs/",
+        "https://mscbiz.nus.edu.sg/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require you to have work experience for admission into the programme.",
+        "The duration of the full-time programme is 12 months, while the part-time programme takes 24 months to complete.",
+        "(First batch to commence in January 2026.)"
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "Intake month conflicts. The application page’s key dates are for an August 2027 intake with orientation in late July/early August 2027. The fee table, also headed August 2027 Intake, says the first instalment is due upon enrolment in January. The MSc hub still says the part-time track’s first batch commenced in January 2026.",
+        "No 4.0-scale GPA minimum."
+      ]
+    },
+    {
+      "id": "msc-management",
+      "name_zh": "管理学理学硕士",
+      "name_en": "MSc in Management",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "12 months (FAQ). Part-time is not offered.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "January",
+      "intake_cycle": "January 2028",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Final-year students may apply. No strict GPA cut-off (FAQ).",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline"
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document). The admissions page also points CEMS applicants to common CEMS application requirements.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. GMAT code DRT-MK-19 (MSc in Management). GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required. Students usually have 0–3 years. Applicants with over 5 years may apply but are pointed toward the NUS MBA. FAQ: work experience is not mandatory; relevant internship or work experience is considered favourably.",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. Relevant internship or work experience is considered favourably."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "January 2028 intake, MSc in Management and CEMS MIM"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "2",
+          "date": "2027-02-15",
+          "note": "Second-round cut-off"
+        },
+        {
+          "round": "final",
+          "date": "2027-06-30",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "outcome",
+          "date": "October 2027",
+          "note": "Notification for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-12-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "January 2028",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "January 2028 (AY2027/2028)",
+        "single_degree_before_gst": "S$56,700.00",
+        "single_degree_incl_gst": "S$61,803.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "single_degree_instalments_incl_gst": [
+          "S$25,451.50 upon enrolment in January",
+          "S$25,451.50 in August"
+        ],
+        "optional_semester_incl_gst": "S$6,180.30"
+      },
+      "apply_url": "https://mim.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mim.nus.edu.sg/admissions/admission-requirements/",
+        "https://mim.nus.edu.sg/admissions/application-process/",
+        "https://mim.nus.edu.sg/admissions/application-checklist/",
+        "https://mim.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mim.nus.edu.sg/faqs/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require any work experience for admission to the programme. Our students usually have 0-3 years of experience.",
+        "The duration of the single-degree programme is 12 months, while the double-degree programme takes 18 months to complete.",
+        "There is only one intake in January each year."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "No 4.0-scale GPA minimum."
+      ]
+    },
+    {
+      "id": "msc-management-cems-mim",
+      "name_zh": "管理学理学硕士与CEMS国际管理硕士双学位",
+      "name_en": "MSc in Management + CEMS MIM",
+      "degree_label": "Double degree (joint with CEMS)",
+      "joint": {
+        "partner": "CEMS",
+        "award": "Master in International Management (CEMS MIM)"
+      },
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "18 months (MSc in Management FAQ).",
+      "location": "Singapore, plus a CEMS host school",
+      "medium": "English, plus CEMS language requirements",
+      "intake": "January",
+      "intake_cycle": "January 2028",
+      "academic": {
+        "text": "The shared MSc in Management admissions page requires a good undergraduate degree in any discipline and does not print a separate CEMS degree-subject rule. FAQ: applicants without the requisite business background may be asked to take foundational courses or be recommended to the single MSc in Management instead. CEMS applicants must also meet common CEMS application requirements (link on the NUS page) and be proficient in at least one language other than English. CEMS graduates are described as competent in three languages, one of which must be English.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Not fixed on the current admissions page. Non-business applicants may be redirected to the single degree or to foundational courses."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ).",
+          "Additional CEMS language: at least one language other than English. Graduation profile on the CEMS page: competence in three languages, one of which must be English."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional on the NUS application. A good score may help preferred CEMS host-school placement. Same codes as MSc in Management: GMAT DRT-MK-19; GRE 4642. A separate CEMS application is required."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Same as MSc in Management: work experience is not required.",
+        "internship_required": false,
+        "internship_text": "Not an NUS admission threshold. The CEMS curriculum described on the NUS page includes an internship as a programme component, not as an entry cutoff."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Additional CEMS application at cems.org",
+        "Proof of proficiency in another language where applicable",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only for the NUS application.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "Same window as MSc in Management; extra CEMS form required"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "2",
+          "date": "2027-02-15",
+          "note": "Second-round cut-off"
+        },
+        {
+          "round": "final",
+          "date": "2027-06-30",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-12-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "January 2028",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "January 2028 (AY2027/2028)",
+        "before_gst": "S$69,700.00",
+        "inclusive_gst_9pct": "S$75,973.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "first_instalment_incl_gst": "S$39,621.50 including CEMS MIM fee S$14,170.00, upon enrolment in January",
+        "second_instalment_incl_gst": "S$25,451.50 in August",
+        "not_in_tuition": "Host-country living costs, visa and travel, block seminar and skill-seminar fees, CEMS student registration and handling fee, student events, and graduation-ceremony costs."
+      },
+      "apply_url": "https://mim.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mim.nus.edu.sg/admissions/admission-requirements/",
+        "https://mim.nus.edu.sg/admissions/application-process/",
+        "https://mim.nus.edu.sg/admissions/application-checklist/",
+        "https://mim.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mim.nus.edu.sg/faqs/",
+        "https://mim.nus.edu.sg/cems-mim/",
+        "https://mscbiz.nus.edu.sg/"
+      ],
+      "official_quotes": [
+        "There is only one intake in January each year for the MSc in Management and the double-degree MSc in Management + CEMS MIM programmes.",
+        "Applicants for the double-degree programme will need to submit an additional application form to CEMS.",
+        "If you do not have the requisite business background, you may be required to undertake some foundational courses or recommended to enroll in the single MSc in Management degree instead.",
+        "All CEMS MIM students graduate with competence in three languages, one of which must be English (Language 1)."
+      ],
+      "gaps": [
+        "The current admissions HTML does not itself say the CEMS track requires a business degree. A 2025 brochure PDF had said a business-related bachelor’s for CEMS; that sentence was not on the admissions page retrieved on 2026-10-21.",
+        "Numeric CEMS language levels are on cems.org, not printed on the NUS page.",
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period."
+      ]
+    },
+    {
+      "id": "msc-marketing-analytics-insights",
+      "name_zh": "营销分析与洞察理学硕士",
+      "name_en": "MSc in Marketing Analytics and Insights",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "12 months (FAQ). Part-time is not offered.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "The current admission-requirements page, as retrieved, does not restate a bachelor’s rule; it starts at the English requirement. FAQ: applicants are expected to hold a good undergraduate degree, with no strict GPA or degree cut-off. Final-year students may apply.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Not printed on the current admissions page."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. A good score may help, and double-degree applicants have a higher chance of preferred CEMS placement. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. GMAT code DRT-MK-96 (MSc in Marketing Analytics and Insights). GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required. FAQ: not mandatory; relevant internship or work experience is considered favourably.",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. Relevant internship or work experience is considered favourably."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 single degree"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all single-degree applicants"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Application-process page: completion letter and unofficial transcript. One FAQ answer says 15 July."
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028), single degree",
+        "before_gst": "S$71,200.00",
+        "inclusive_gst_9pct": "S$77,608.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "instalments_incl_gst": [
+          "S$33,354 upon enrolment in August",
+          "S$33,354 in January"
+        ],
+        "rebate": "NUS alumni 20% tuition fee rebate from AY2024/2025 across NUS Business School MSc programmes."
+      },
+      "apply_url": "https://mscmarketing.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscmarketing.nus.edu.sg/admissions/admission-requirements/",
+        "https://mscmarketing.nus.edu.sg/admissions/application-process/",
+        "https://mscmarketing.nus.edu.sg/admissions/application-checklist/",
+        "https://mscmarketing.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscmarketing.nus.edu.sg/faqs/"
+      ],
+      "official_quotes": [
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require you to have work experience for admission into the programme.",
+        "GMAT/GRE scores are optional.",
+        "The duration of the single-degree programme is 12 months, while the double-degree programme takes 24 months to complete.",
+        "At this time, we are not offering the part-time programme."
+      ],
+      "gaps": [
+        "The retrieved admission-requirements page does not print the bachelor’s-degree sentence. Do not treat an older brochure’s 'any discipline' line as current.",
+        "FAQ transcript date (15 July) differs from the application-process date (22 July).",
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period."
+      ]
+    },
+    {
+      "id": "msc-marketing-analytics-insights-cems-mim",
+      "name_zh": "营销分析与洞察理学硕士与CEMS国际管理硕士双学位",
+      "name_en": "MSc in Marketing Analytics and Insights + CEMS MIM",
+      "degree_label": "Double degree (joint with CEMS)",
+      "joint": {
+        "partner": "CEMS",
+        "award": "Master in International Management (CEMS MIM)"
+      },
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "24 months (Marketing FAQ).",
+      "location": "Singapore, plus a CEMS host school",
+      "medium": "English, plus CEMS language requirements",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "The current admissions page does not print a separate bachelor’s-subject rule for the CEMS track. It does require, besides English, proficiency in at least one other CEMS language. The CEMS MIM degree is conferred only after the MSc in Marketing Analytics and Insights. Applicants who want both options should apply to both.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Not printed on the current admissions page. One other CEMS language is required."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ).",
+          "Besides good oral and written English, double-degree applicants must be proficient in at least one other CEMS language. CEMS page: three languages at graduation, one of which must be English."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. A good score improves the chance of a preferred CEMS host-school placement. GMAT code DRT-MK-96. GRE code 4642. Separate CEMS application required."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required for admission.",
+        "internship_required": false,
+        "internship_text": "Not an NUS admission threshold. CEMS curriculum on the programme page includes an internship as a study component."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Additional CEMS application",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only. Applying to both tracks means one review can cover both.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 CEMS track"
+        },
+        {
+          "round": "final",
+          "date": "2026-11-15",
+          "note": "Application deadline for all CEMS-track applicants (earlier than the single degree)"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-15",
+          "note": "CEMS-track completion letter and unofficial transcript on the application-process page"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028), double degree",
+        "before_gst": "S$84,200.00",
+        "inclusive_gst_9pct": "S$91,778.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "first_instalment_incl_gst": "S$47,633.00 including CEMS MIM fee S$14,170.00, upon enrolment in August",
+        "second_instalment_incl_gst": "S$33,245.00 in January",
+        "not_in_tuition": "Host-country living costs, visa and travel, seminar and language-testing fees, CEMS registration fee, student events, graduation ceremony."
+      },
+      "apply_url": "https://mscmarketing.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscmarketing.nus.edu.sg/admissions/admission-requirements/",
+        "https://mscmarketing.nus.edu.sg/admissions/application-process/",
+        "https://mscmarketing.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscmarketing.nus.edu.sg/faqs/",
+        "https://mscmarketing.nus.edu.sg/cems-mim/"
+      ],
+      "official_quotes": [
+        "Besides good oral and written skills in English, applicants for the double-master degree programme with CEMS must be proficient in at least one other CEMS language.",
+        "The duration of the single-degree programme is 12 months, while the double-degree programme takes 24 months to complete.",
+        "The CEMS MIM degree will only be granted after the conferment of the MSc in Marketing Analytics and Insights degree."
+      ],
+      "gaps": [
+        "Current admissions HTML does not state whether a business degree is required for the CEMS track.",
+        "CEMS language proficiency levels are not numeric on the NUS page.",
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period."
+      ]
+    },
+    {
+      "id": "msc-real-estate",
+      "name_zh": "房地产理学硕士",
+      "name_en": "MSc in Real Estate",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "FAQ: full-time 12 months; part-time 24 months. Degree requirement stated as 40 units. Part-time classes about 2–3 evenings a week, 6.30 pm–9.30 pm.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Final-year students may apply. FAQ: no strict GPA or degree cut-off.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline on the current admissions page. The page does not require a real-estate major."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. GMAT code DRT-MK-69 (MSc in Real Estate). GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "The current admissions page says work experience is not required. FAQ: work experience is not mandatory; relevant internship or work experience is considered favourably.",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. Relevant internship or work experience is considered favourably."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application.",
+        "International students may apply part-time only with a valid visa that already allows residence in Singapore (for example an Employment Pass)."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "outcome",
+          "date": "by June 2027",
+          "note": "Notification"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028)",
+        "before_gst": "S$58,800.00",
+        "inclusive_gst_9pct": "S$64,092.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "full_time_instalments_incl_gst": [
+          "S$26,596 upon enrolment in August",
+          "S$26,596 in January"
+        ],
+        "part_time_instalments_incl_gst": [
+          "S$17,731 August",
+          "S$17,731 January",
+          "S$17,730 next August"
+        ]
+      },
+      "apply_url": "https://mscre.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscre.nus.edu.sg/admissions/admission-requirements/",
+        "https://mscre.nus.edu.sg/admissions/application-process/",
+        "https://mscre.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscre.nus.edu.sg/faqs/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "We do not require you to have work experience for admission into the programme.",
+        "The duration of the full-time programme is 12 months, while the part-time programme takes 24 months to complete."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "A 2024 brochure PDF still said a bachelor’s with honours in a relevant discipline and that some real-estate work experience is preferred. That is not what the current admissions page says.",
+        "No 4.0-scale GPA minimum. FAQ mentions a separate MBA in real estate of 68 units; that is not this MSc."
+      ]
+    },
+    {
+      "id": "msc-strategic-analysis-innovation",
+      "name_zh": "战略分析与创新理学硕士",
+      "name_en": "MSc in Strategic Analysis and Innovation",
+      "degree_label": "Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "12 months over two semesters. Students may take an optional credit-bearing internship in a third semester (FAQ). Part-time is not offered.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline. Final-year students may apply. FAQ: no strict GPA cut-off.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline"
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [
+          "IELTS (Academic) or TOEFL iBT only. PTE and Duolingo are not accepted (programme FAQ)."
+        ],
+        "waiver": "Required only if English is not the native language or the medium of prior undergraduate instruction. Programme FAQ: if the degree was taught entirely in English, request a waiver with official proof (a medium-of-instruction letter, or English stated as the medium of instruction on an official university document).",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Optional. FAQ: GMAT/GRE is optional. A strong score may help. Generally a score of 700 out of 800 on the GMAT, or the GMAT equivalent on the GRE, is expected, but an application without a score is accepted. The admissions-requirements page prints a garbled GMAT code: 'DRT-MK-51 (DRT-MK-12 (MSc in Strategic Analysis and Innovation)'. The application checklist says GMAT code DRT-MK-12. GRE code 4642."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required.",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. The FAQ says students can pursue an optional credit-bearing internship in the third semester."
+      },
+      "documents": [
+        "Current resume",
+        "Complete or current undergraduate transcripts and degree scroll (official transcripts after an offer)",
+        "Letter of motivation (not more than 500 words, on the application checklist)",
+        "Proof of financial support",
+        "Identification (NRIC for Singapore citizens/PRs; passport for international applicants)",
+        "GMAT/GRE score report if submitted",
+        "TOEFL/IELTS score report if applicable",
+        "Application fee S$100 (non-refundable and non-transferable)",
+        "Letters of recommendation are not required for this MSc application."
+      ],
+      "interview": "Shortlisted candidates only.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off and study-award consideration"
+        },
+        {
+          "round": "final",
+          "date": "2027-02-15",
+          "note": "Application deadline for all applicants"
+        },
+        {
+          "round": "outcome",
+          "date": "by June 2027",
+          "note": "Notification"
+        },
+        {
+          "round": "pre-enrolment",
+          "date": "2027-07-22",
+          "note": "Completion letter and unofficial final transcript"
+        },
+        {
+          "round": "start",
+          "date": "late July / early August 2027",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027 (AY2027/2028)",
+        "before_gst": "S$71,200.00",
+        "inclusive_gst_9pct": "S$77,608.00",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$10,900",
+        "instalments_incl_gst": [
+          "S$33,354 upon enrolment in August",
+          "S$33,354 in January"
+        ],
+        "optional_semester": "S$7,085",
+        "rebate": "NUS alumni 20% tuition fee rebate from AY2024/2025 across NUS Business School MSc programmes."
+      },
+      "apply_url": "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+      "source_urls": [
+        "https://mscstrategy.nus.edu.sg/admissions/nus-msi-admission-requirements/",
+        "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+        "https://mscstrategy.nus.edu.sg/admissions/application-checklist/",
+        "https://mscstrategy.nus.edu.sg/fees-finances/programme-fees/",
+        "https://mscstrategy.nus.edu.sg/faqs/"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline.",
+        "For TOEFL, the internet-based test score must be at least 5.0. For IELTS, the overall band score must be at least 7.0.",
+        "GMAT/GRE SCORES ARE OPTIONAL.",
+        "The MSc in Strategic Analysis and Innovation is a 12-month programme delivered over two semesters, and students can pursue an optional credit bearing internship in their third semester.",
+        "There is only one intake in August each year."
+      ],
+      "gaps": [
+        "The admissions page prints an internet-based TOEFL minimum of 5.0 and does not print a 0–120 minimum for tests taken before 21 January 2026, and it does not state IELTS sub-score minima or a score-validity period.",
+        "GMAT institution code on the requirements page is malformed; the checklist prints DRT-MK-12.",
+        "No 4.0-scale GPA minimum."
+      ]
+    },
+    {
+      "id": "msc-business-analytics",
+      "name_zh": "商业分析理学硕士",
+      "name_en": "MSc in Business Analytics",
+      "degree_label": "Master of Science (coursework), NUS Business Analytics Centre",
+      "joint": null,
+      "study_mode": [
+        "full-time",
+        "part-time"
+      ],
+      "duration": "The programme page does not state a candidature in months. Curriculum is 5 essential courses, 3 electives, and a year-long Professional Consulting Capstone with a 3–6 month full-time capstone project. Part-time students are recommended to do the capstone with their employer. Fee table has 2 semesters full-time and 4 semesters part-time.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August intake, AY2027/28",
+      "academic": {
+        "text": "A good bachelor’s degree, preferably from Business, Computing, Economics, Engineering, Mathematics, Science or Statistics, with a good honours classification; or at least 2 years’ relevant work experience. Strong mathematics foundation.",
+        "gpa_min_4": null,
+        "honours": "Good honours classification, unless the applicant instead has at least 2 years’ relevant work experience.",
+        "grade_letter": null,
+        "major_prerequisite": "Preferred: Business, Computing, Economics, Engineering, Mathematics, Science or Statistics. Strong mathematics foundation."
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "No IELTS or TOEFL minimum is printed on the AY2027/28 programme page."
+        ],
+        "waiver": "The AY2026/27 application guide on msba.nus.edu.sg says applicants do not have to submit any English language test (IELTS/TOEFL). The AY2027/28 programme page retrieved on 2026-10-21 does not mention IELTS or TOEFL at all.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Highly recommended from AY2025/26 onwards: a good quantitative GRE/GMAT score. Not mandatory. The AY2026/27 application guide says the score report is optional, home editions and GMAT Focus are accepted, and the score must be from the last 5 years. No numeric cutoff is printed."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "At least 2 years’ relevant work experience is an alternative to a good honours degree, not a minimum for every applicant.",
+        "internship_required": false,
+        "internship_text": "The admissions criteria do not list an internship as a threshold. The capstone includes a 3–6 month project during the programme."
+      },
+      "documents": [
+        "Degree scroll, certificate, or student-status letter",
+        "Transcripts or mark sheets",
+        "Resume/CV",
+        "Financial support documents",
+        "NRIC or passport",
+        "Passport-size photo",
+        "Personal statement on AI and business analytics",
+        "GRE/GMAT score report if submitted",
+        "Application fee S$100"
+      ],
+      "interview": "Not described on the programme page retrieved. Admission cycle notes say the acceptance fee is due within 14 calendar days of the offer, and bootcamp begins 2 weeks before term.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-10-05",
+          "note": "August intake AY2027/28"
+        },
+        {
+          "round": "scholarship",
+          "date": "2026-12-15",
+          "note": "NUS BAC Merit Scholarship application deadline"
+        },
+        {
+          "round": "final",
+          "date": "2027-01-31",
+          "note": "Application closes"
+        }
+      ],
+      "tuition": {
+        "intake": "AY2027/28",
+        "full_programme_fee_incl_gst": "S$87,550 for both full-time and part-time",
+        "note": "Page says fees are inclusive of 9% GST and after fee rebate. It does not split alumni, citizen, and international prices on this AY2027/28 table.",
+        "application_fee": "S$100",
+        "acceptance_fee_incl_gst": "S$21,800, non-refundable and non-transferable, within 14 calendar days",
+        "full_time_semesters_incl_gst": [
+          "S$32,875",
+          "S$32,875"
+        ],
+        "part_time_semesters_incl_gst": [
+          "S$16,437.50",
+          "S$16,437.50",
+          "S$16,437.50",
+          "S$16,437.50"
+        ],
+        "scholarship": "BAC Merit Scholarship S$30,000, separate application after the admission application, not combinable with other rebates or sponsorships."
+      },
+      "apply_url": "https://msba.nus.edu.sg/apply-now/",
+      "source_urls": [
+        "https://msba.nus.edu.sg/programme/",
+        "https://msba.nus.edu.sg/wp-content/uploads/2025/09/Application-Guide-for-MSBA-AY2026_27-11-Sep_v2.pdf",
+        "https://mscbiz.nus.edu.sg/"
+      ],
+      "official_quotes": [
+        "A good Bachelors’ degree, preferably from Business, Computing, Economics, Engineering, Mathematics, Science or Statistics, with a good honours classification; or at least 2 years’ relevant work experience.",
+        "(Highly Recommended) A good quantitative score in GRE/GMAT.",
+        "GRE/GMAT is highly recommended from AY2025/26 onwards.",
+        "Applicants do not have to submit any English Language Test (e.g., IELTS/TOEFL).",
+        "Application opens on: 5 October 2026. Application closes on: 31 January 2027."
+      ],
+      "gaps": [
+        "The English-test waiver sentence is in the AY2026/27 application guide, not restated on the AY2027/28 criteria block.",
+        "No IELTS, TOEFL, or GMAT/GRE numeric minimum is printed.",
+        "No 4.0-scale GPA is printed. 'Good honours' is not defined as a class or letter.",
+        "Total candidature in months is not printed.",
+        "An older AY2026/27 fee table had split alumni/citizen/international prices (S$68,000 / S$76,500 / S$85,000). The AY2027/28 page prints one figure, S$87,550."
+      ]
+    },
+    {
+      "id": "executive-msc-management",
+      "name_zh": "高级管理学理学硕士",
+      "name_en": "Executive Master of Science in Management",
+      "degree_label": "Executive Master of Science (coursework)",
+      "joint": null,
+      "study_mode": [
+        "part-time",
+        "hybrid"
+      ],
+      "duration": "The MSc hub and an April 2026 school article describe a 24-month part-time hybrid programme. The admissions page retrieved does not restate the month count. Fee instalments run January, August, and January of the second year.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "January",
+      "intake_cycle": "January 2028",
+      "academic": {
+        "text": "The admissions page does not require a prior degree in a single sentence. Academic transcripts and certificates are required 'if applicable'. Both gateway courses must be completed at Merit before an offer: Financial Analysis and Business Decisions for Non-Finance Managers, and Business Analytics: Decision Making through Excel (synchronous e-learning). At least one Merit result is required before the application is reviewed.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": "Merit on both gateway courses before an offer.",
+        "major_prerequisite": "No disciplinary prerequisite printed. Gateway courses are mandatory."
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": 5.0,
+        "other": [],
+        "waiver": "The admissions page says English scores 'if applicable: TOEFL ≥5.0 or IELTS ≥7.0'. It does not define the waiver in that sentence.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not mentioned on the admissions page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "The admissions page asks for a resume of professional experience and does not set a minimum number of years. The school positions the degree for mature learners and experienced professionals. A minimum-years figure is not printed on the admissions page.",
+        "internship_required": false,
+        "internship_text": "Not listed as an admission threshold."
+      },
+      "documents": [
+        "Gateway-course certificates (mandatory upload)",
+        "Resume of professional experience",
+        "Academic transcripts and certificates if applicable",
+        "Statement of motivation up to 500 words",
+        "Proof of financial support",
+        "NRIC or passport",
+        "TOEFL or IELTS if applicable",
+        "Application fee S$100"
+      ],
+      "interview": "Shortlisted candidates are invited to an admissions interview. An offer requires both gateway courses at Merit.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "January 2028 intake"
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "First-round cut-off"
+        },
+        {
+          "round": "2",
+          "date": "2027-02-15",
+          "note": "Second-round cut-off"
+        },
+        {
+          "round": "3",
+          "date": "2027-06-30",
+          "note": "Third-round cut-off"
+        },
+        {
+          "round": "outcome",
+          "date": "October 2027",
+          "note": "Notification for all applicants"
+        },
+        {
+          "round": "start",
+          "date": "January 2028",
+          "note": "Orientation and classes"
+        }
+      ],
+      "tuition": {
+        "intake": "Academic Year 2027/2028",
+        "programme_fee": "S$57,879.00",
+        "application_fee": "S$100",
+        "acceptance_fee": "S$10,900",
+        "instalments": [
+          "S$18,039.50 upon enrolment in January",
+          "S$18,039.50 in August",
+          "S$10,900 in January of the second year"
+        ],
+        "table_header_note": "The instalment table header still says inclusive of 9% GST with effect from 1 January 2024.",
+        "awards": "Singapore citizens and PRs: S$15,000 study award at matriculation. NUS alumni: study award equal to 20% of tuition."
+      },
+      "apply_url": "https://emim.nus.edu.sg/admissions-finance/",
+      "source_urls": [
+        "https://emim.nus.edu.sg/admissions-finance/",
+        "https://mscbiz.nus.edu.sg/",
+        "https://mscbiz.nus.edu.sg/blog/insights/nus-executive-msc-in-management-a-masters-degree-built-for-experienced-professionals/",
+        "https://emim.nus.edu.sg/wp-content/uploads/sites/147/2025/12/111225_EMIM-Brochure.pdf"
+      ],
+      "official_quotes": [
+        "English language test scores (if applicable: TOEFL ≥5.0 or IELTS ≥7.0).",
+        "Both courses must be completed with a merit grade. You may apply after completing at least one course, but both must be completed before an offer can be extended.",
+        "The programme fee for Academic Year 2027/2028: $57,879.00.",
+        "The key application dates for the January 2028 intake are: 1 September 2026 Applications are open."
+      ],
+      "gaps": [
+        "No minimum years of work experience and no bachelor’s requirement are printed on the admissions page. A December 2025 brochure says 'Mature learners with preferably some work experiences (no prior degree required)' and 'TOEFL: 100 | IELTS: 7.0'. Those brochure figures conflict with the live page’s TOEFL ≥5.0. The live page is recorded here.",
+        "The emim.nus.edu.sg FAQ URL returned UCLA–NUS EMBA text (8 years’ experience). That text is not used as an EMIM rule.",
+        "IELTS sub-scores, TOEFL 0–120 equivalent, and score validity are not printed.",
+        "24-month length is from the hub/article, not restated as a number on the admissions page."
+      ]
+    },
+    {
+      "id": "mba",
+      "name_zh": "工商管理硕士",
+      "name_en": "The NUS MBA",
+      "degree_label": "Master of Business Administration (coursework)",
+      "joint": null,
+      "study_mode": [
+        "full-time",
+        "part-time",
+        "part-time flex"
+      ],
+      "duration": "Not stated in months on the admissions page. Full-time fees are billed over 2 semesters. Part-time and part-time flex fees are billed over 4 semesters.",
+      "location": "Singapore",
+      "medium": "English",
+      "intake": "August",
+      "intake_cycle": "August 2027",
+      "academic": {
+        "text": "Bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 7.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "FAQ: no minimum GMAT/GRE/EA score is set; scores are read with the whole profile."
+        ],
+        "waiver": "Required if the degree was not taught in English. Case-by-case waiver: applicants without an English-taught degree may request a TOEFL/IELTS waiver with at least 5 years of experience in an English-speaking environment. FAQ: TOEFL iBT Home Edition is accepted. The page does not say the waiver is automatic.",
+        "validity": "Score reports must be valid for at least one month from submission."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "From the August 2027 intake, applicants in all formats may submit GMAT, GMAT Focus, GRE, or Executive Assessment, and a valid score is required unless a waiver is granted. Integrated Reasoning is considered for GMAT or EA. Scores must be valid for at least one month from submission. Waiver: applicants with four or more years of full-time professional experience and a strong academic and professional profile may be considered case by case. Submitting a score is still encouraged. There is no published minimum score. Online GMAT/GRE and the new GMAT Focus and new GRE are accepted (FAQ)."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "Minimum 2 years of post-bachelor’s full-time work experience at the point of application. Part-time applicants who are not Singapore citizens or PRs must show Singapore-based full-time employment or residency valid at application.",
+        "internship_required": false,
+        "internship_text": "Not listed. The threshold is post-bachelor’s full-time work, not an internship."
+      },
+      "documents": [
+        "Online application",
+        "CV/resume",
+        "Academic transcripts and degree scroll",
+        "GMAT, GMAT Focus, GRE, or EA unless waived",
+        "TOEFL or IELTS if applicable",
+        "Identification",
+        "Financial supporting document",
+        "Employment Pass or equivalent for part-time applicants who are not Singapore citizens or PRs",
+        "Scholarship box if seeking an award; need-based awards need an essay and income documents"
+      ],
+      "interview": "The admissions page describes a holistic review. A separate part-time page for the August 2026 cycle described a video assessment and interview; the August 2027 admissions page does not restate those steps.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-09-01",
+          "note": "August 2027 intake"
+        },
+        {
+          "round": "full-time 1",
+          "date": "2026-10-29",
+          "note": null
+        },
+        {
+          "round": "full-time 2",
+          "date": "2027-01-20",
+          "note": null
+        },
+        {
+          "round": "full-time 3",
+          "date": "2027-03-31",
+          "note": null
+        },
+        {
+          "round": "part-time 1",
+          "date": "2026-11-24",
+          "note": "Part-time, including flex unless a separate date is published"
+        },
+        {
+          "round": "part-time 2",
+          "date": "2027-02-25",
+          "note": null
+        },
+        {
+          "round": "part-time 3",
+          "date": "2027-05-05",
+          "note": null
+        }
+      ],
+      "tuition": {
+        "intake": "August 2027",
+        "before_gst": "S$98,027.30",
+        "inclusive_gst": "S$106,849.76",
+        "same_fee_for": "full-time, part-time, and part-time flex",
+        "full_time_schedule": [
+          "S$15,000 upon acceptance",
+          "S$45,924.88 semester 1",
+          "S$45,924.88 semester 2"
+        ],
+        "part_time_schedule": [
+          "S$15,000 upon acceptance",
+          "four semesters of S$22,962.44"
+        ],
+        "application_fee": "Not printed on the August 2027 admissions section retrieved. An August 2026 brochure said S$100."
+      },
+      "apply_url": "https://mba.nus.edu.sg/admissions-and-funding/",
+      "source_urls": [
+        "https://mba.nus.edu.sg/admissions-and-funding/",
+        "https://mba.nus.edu.sg/faq/"
+      ],
+      "official_quotes": [
+        "Bachelor’s degree.",
+        "Minimum 2 years of post-bachelor’s full-time work experience (at the point of application).",
+        "Valid GMAT or GRE or Executive Assessment score unless you qualify for a test waiver.",
+        "TOEFL: Minimum score of 100. IELTS: Minimum score of 7.0.",
+        "Applicants with four years or more of full-time professional experience and a strong academic and professional profile may be considered for a test waiver.",
+        "Tuition fees for August 2027 intake are S$98,027.30 (before Goods & Services Tax). Tuition fees (full-time, part-time and part-time flex): S$106,849.76."
+      ],
+      "gaps": [
+        "TOEFL 100 is the 0–120 scale. The page does not print a 1–6 minimum for tests from 21 January 2026.",
+        "No IELTS sub-score minimum. No GMAT/GRE/EA numeric minimum.",
+        "No 4.0-scale GPA.",
+        "Programme length in months is not on this page.",
+        "August 2026 brochure and part-time pages used an 8-year test-waiver bar for part-time applicants and EA mainly for part-time candidates with 5 or more years. The August 2027 admissions page replaces that with EA for all formats and a 4-year waiver consideration. The 2027 page is recorded.",
+        "Application fee for August 2027 is not on the section retrieved."
+      ]
+    },
+    {
+      "id": "emba",
+      "name_zh": "高级管理人员工商管理硕士",
+      "name_en": "The NUS Executive MBA",
+      "degree_label": "Executive Master of Business Administration (coursework)",
+      "joint": null,
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "FAQ: part-time, 15 months, in 6 residential segments of 2 weeks each, about every 3 months. Modules are face-to-face. Cities named: Singapore, Indonesia, Vietnam, China, India, Japan, and Australia.",
+      "location": "Singapore, with modules in Indonesia, Vietnam, China, India, Japan, and Australia",
+      "medium": "English",
+      "intake": "May Special Term (application instructions). Payment dates run through 30 April 2028.",
+      "intake_cycle": "Application window opening 1 August 2026; enrolment term stated as May Special Term. The page does not print the words 'May 2027 intake'.",
+      "academic": {
+        "text": "A bachelor’s degree or equivalent from a regionally accredited institution.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "FAQ says GMAT/Executive Assessment and TOEFL are not mandatory; EA may be required case by case."
+        ],
+        "waiver": "TOEFL/IELTS is required if undergraduate study was not conducted in English. FAQ: TOEFL is not mandatory in general, and is usually required if the undergraduate medium was not English. No numeric IELTS or TOEFL minimum is printed.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "A good Executive Assessment score may be required case by case. FAQ: GMAT and Executive Assessment are not mandatory requirements. No numeric minimum is printed."
+      },
+      "experience": {
+        "work_years_min": 10,
+        "work_text": "Minimum of 10 years’ full-time work experience after the first degree. The candidate must hold a senior position or have the potential to assume a senior managerial position soon. FAQ: no minimum age; average age about 40 and average experience about 16 years. Company sponsorship is preferred but not mandatory.",
+        "internship_required": false,
+        "internship_text": "Not listed. The threshold is 10 years of full-time work after the first degree."
+      },
+      "documents": [
+        "Completed application form, including two essays",
+        "Two referee reports",
+        "CV",
+        "Official university transcripts and other academic records",
+        "Executive Assessment score where applicable",
+        "TOEFL or IELTS where applicable",
+        "Recent passport-sized photo",
+        "Passport ID page",
+        "NRIC for Singaporeans",
+        "Application fee S$200 only if applying after the fee-waiver deadline; the first deadline waives the fee"
+      ],
+      "interview": "Required. Shortlisted candidates attend a video or in-person interview. FAQ: interviews are virtual. All six residential segments are mandatory to graduate.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-08-01",
+          "note": "Indexed text of the admissions page. The date tiles did not survive text extraction."
+        },
+        {
+          "round": "1",
+          "date": "2026-11-15",
+          "note": "Application fee waived"
+        },
+        {
+          "round": "2",
+          "date": "2027-02-10",
+          "note": "Second deadline"
+        },
+        {
+          "round": "portal",
+          "date": null,
+          "note": "Study mode part-time; enrolment term May Special Term; programme name NUS Executive MBA"
+        }
+      ],
+      "tuition": {
+        "fee_incl_gst": "SGD 152,993.36",
+        "covers": "Instruction and study materials. Flights and accommodation are extra.",
+        "other_costs": "About S$20,000 if based in Singapore and about S$30,000 if based outside Singapore, for flights and accommodation.",
+        "schedule": [
+          "S$20,000 upon acceptance",
+          "S$33,248.34 before 30 April 2027",
+          "S$33,248.34 before 30 August 2027",
+          "S$33,248.34 before 30 December 2027",
+          "S$33,248.34 before 30 April 2028"
+        ],
+        "degree_awarded": "Master of Business Administration from NUS (FAQ).",
+        "not_in_masters_rebate": "NUS MBA programmes are not in the NUS master’s enhanced tuition fee rebate."
+      },
+      "apply_url": "https://emba.nus.edu.sg/admissions-funding/",
+      "source_urls": [
+        "https://emba.nus.edu.sg/admissions-funding/",
+        "https://emba.nus.edu.sg/faq/"
+      ],
+      "official_quotes": [
+        "A bachelor’s degree or equivalent from a regionally accredited institution.",
+        "Minimum of 10 years’ full-time work experience after first degree.",
+        "TOEFL / IELTS is required if undergraduate study was not conducted in English.",
+        "A good Executive Assessment score may be required on a case-by-case basis.",
+        "EMBA fees SGD$152,993.36 (inclusive of Goods & Services Tax applicable in Singapore).",
+        "The NUS Executive MBA is a part-time, 15 months programme."
+      ],
+      "gaps": [
+        "No numeric IELTS or TOEFL minimum, and no pre/post January 2026 TOEFL split.",
+        "No GMAT or EA numeric minimum. No 4.0-scale GPA.",
+        "Deadline dates are from the indexed text of the same URL; the markdown extraction left the deadline heading empty.",
+        "The start month is 'May Special Term' plus a 2027 payment calendar, not a sentence that says the class starts in May 2027."
+      ]
+    },
+    {
+      "id": "emba-chinese",
+      "name_zh": "中文高级管理人员工商管理硕士",
+      "name_en": "NUS Chinese Executive MBA",
+      "degree_label": "Executive MBA taught in Chinese (NUS Business School)",
+      "joint": null,
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "2 years. 10 modules, about every 2 months, 8 days of full-day teaching each time. Homepage: 10 core courses and 20+ electives in Chinese and English, with interpretation for English classes. Degree awarded is a National University of Singapore master’s degree (the admissions FAQ says 工商管理硕士).",
+      "location": "Singapore",
+      "medium": "Chinese (English electives with simultaneous interpretation)",
+      "intake": "September",
+      "intake_cycle": "September 2026 (2026级). The page also says applications are accepted year-round on a rolling basis and applicants should apply early.",
+      "academic": {
+        "text": "大学本科或本科以上学历 (a bachelor’s degree or above).",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [],
+        "waiver": "No IELTS or TOEFL rule is printed. Teaching is in Chinese.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not mentioned."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "8年以上全职工作经验，并具有5年以上管理工作经验. A later FAQ answer says 8 or more years of full-time work after the bachelor’s and 5 or more years of senior management experience. Companies that plan to expand overseas, or already have, are preferred. If the degree or the 8-year experience bar is not met, the office says it will decide case by case.",
+        "internship_required": false,
+        "internship_text": "Not listed as a threshold. The requirement is full-time and managerial experience."
+      },
+      "documents": [
+        "Application materials (the page does not publish a full checklist)",
+        "Recommendation letter, typically from the current direct supervisor. Relatives and subordinates cannot be referees.",
+        "Application fee SGD 300, non-refundable"
+      ],
+      "interview": "Interview after document review. The page says the 2025-cohort interview format was online.",
+      "deadlines": [
+        {
+          "round": "start",
+          "date": "September 2026",
+          "note": "开学日期"
+        },
+        {
+          "round": "final",
+          "date": "June 2026",
+          "note": "报名截止日期. Rolling admissions are also advertised."
+        }
+      ],
+      "tuition": {
+        "application_fee": "SGD 300, non-refundable",
+        "tuition": "Not published. The page says to ask the admissions office. Payable as a registration fee on acceptance plus tuition before the start, in one payment or four instalments. Annual miscellaneous fees are notified each year.",
+        "scholarship": "2026 intake scholarships of SGD 3,000 to 80,000 are advertised; details via the admissions office."
+      },
+      "apply_url": "https://applyembac.nus.edu.sg/login",
+      "source_urls": [
+        "https://embac.nus.edu.sg/admission/",
+        "https://embac.nus.edu.sg/",
+        "https://embac.nus.edu.sg/about/"
+      ],
+      "official_quotes": [
+        "具有大学本科或本科以上学历",
+        "8年以上全职工作经验，并具有5年以上管理工作经验",
+        "开学日期：2026年9月",
+        "报名截止日期：2026年6月",
+        "报名费新加坡元300（不退还款项）",
+        "1997年，新国大商学院开商科教育之先河，在全球范围内首创中文EMBA项目。"
+      ],
+      "gaps": [
+        "No IELTS, TOEFL, or GMAT figure.",
+        "No GPA.",
+        "Tuition amount is not on the page.",
+        "The published deadline (June 2026) and the 'year-round rolling' sentence sit on the same page."
+      ]
+    },
+    {
+      "id": "ucla-nus-emba",
+      "name_zh": "加州大学洛杉矶分校-新加坡国立大学高级管理人员工商管理硕士",
+      "name_en": "UCLA-NUS Executive MBA",
+      "degree_label": "Joint Executive MBA (UCLA Anderson and NUS Business School)",
+      "joint": {
+        "partner": "UCLA Anderson School of Management",
+        "note": "Applicants must satisfy both schools."
+      },
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "Not stated in months on the admissions page retrieved. Tuition is labelled Academic Year 2026/2027 and instalments run through July 2028.",
+      "location": "Singapore and Los Angeles (fees are split between NUS and UCLA). Instruction cities are not listed on the admissions page.",
+      "medium": "English",
+      "intake": "Not named as a month on the extracted admissions text",
+      "intake_cycle": "AY2026/2027 tuition. Application window indexed as opening 1 August 2026.",
+      "academic": {
+        "text": "Bachelor’s or equivalent from at least a four-year full-time programme at a regionally accredited institution, with a scholastic average of B or above in undergraduate coursework and any post-baccalaureate study. Three-year bachelor’s degrees from Singapore or the UK are also acceptable.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": "B or above",
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "The numeric cutoff is not on the NUS page."
+        ],
+        "waiver": "A bachelor’s or higher from an accredited US university, or from a university where WHED lists English as the sole language of instruction, meets the requirement. Otherwise TOEFL iBT or IELTS Academic is required. The NUS page does not print a numeric minimum and links to UCLA graduate English requirements. English listed together with another language, or a school missing from WHED, does not qualify for the prior-education route. The rule applies to international applicants, permanent residents, and US citizens.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or Executive Assessment is not required for admission."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "Minimum of 8 years of full-time work experience after the bachelor’s degree, and a current position with high-level managerial responsibilities.",
+        "internship_required": false,
+        "internship_text": "Not listed. The threshold is 8 years of full-time post-bachelor’s work."
+      },
+      "documents": [
+        "UCLA-NUS EMBA online application",
+        "Two letters of recommendation",
+        "Official transcripts, diplomas, and degree certificates sent directly by each institution to UCLA Anderson EMBA admissions",
+        "TOEFL or IELTS if applicable",
+        "GMAT/EA not required"
+      ],
+      "interview": "Not described in the requirements block retrieved.",
+      "deadlines": [
+        {
+          "round": "opens",
+          "date": "2026-08-01",
+          "note": "Indexed text of the admissions page. Date tiles did not survive text extraction."
+        },
+        {
+          "round": "1",
+          "date": "2026-10-15",
+          "note": "Application fee waived"
+        },
+        {
+          "round": "final",
+          "date": "2027-01-15",
+          "note": "Final deadline"
+        }
+      ],
+      "tuition": {
+        "intake": "Academic Year 2026/2027",
+        "approximate_total": "USD 153,000",
+        "payable_to_nus_incl_gst": "S$103,073.74",
+        "payable_to_ucla": "USD 72,500",
+        "nus_schedule": [
+          "S$16,077 upon acceptance",
+          "S$21,749.18 before May 2027",
+          "S$21,749.18 before August 2027",
+          "S$21,749.18 before January 2028",
+          "S$21,749.20 before May 2028"
+        ],
+        "ucla_schedule": [
+          "USD 18,125 before July 2027",
+          "USD 18,125 before December 2027",
+          "USD 18,125 before March 2028",
+          "USD 18,125 before July 2028"
+        ],
+        "excludes": "Flights and accommodation",
+        "grants": "Merit scholarship considered automatically. NUS alumni loyalty grant S$10,000. Stanford-NUS executive programme alumni grant S$5,000."
+      },
+      "apply_url": "https://ucla.nus.edu.sg/admissions-funding/",
+      "source_urls": [
+        "https://ucla.nus.edu.sg/admissions-funding/"
+      ],
+      "official_quotes": [
+        "You must satisfy the admission requirements of both UCLA Anderson School of Management and NUS Business School.",
+        "Bachelor’s or equivalent degree from at least a four-year (full-time) program in a regionally accredited institution, and a scholastic average of B or above.",
+        "Three-year bachelor degrees from Singapore or UK are also acceptable.",
+        "Minimum of 8 years of full-time work experience after receiving a bachelor’s degree and a current position with high-level managerial responsibilities.",
+        "The Graduate Management Admission Test (GMAT) or Executive Assessment (EA) is not required for admission.",
+        "Tuition Fees USD$153,000 (approximate). Academic Year 2026/2027."
+      ],
+      "gaps": [
+        "No numeric IELTS or TOEFL on the NUS joint page. The UCLA graduate page was not used.",
+        "B average is not converted to a 4.0 GPA.",
+        "Programme length and intake month are not in the extracted admissions text.",
+        "Deadline dates are from the indexed text of this URL; text extraction left the deadline heading empty."
+      ]
+    }
+  ],
+  "unopened": [
+    {
+      "url": "https://mba.nus.edu.sg/admissions-and-funding/",
+      "item": "August 2027 application-fee amount",
+      "reason": "The retrieved admissions section prints tuition but not the application fee."
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/english-requirements/",
+      "item": "UCLA numeric TOEFL/IELTS",
+      "reason": "Linked from the UCLA-NUS page. Not an nus.edu.sg page, so the number was not copied."
+    },
+    {
+      "url": "https://www.cems.org/mim/how-to-apply/common-application-requirement",
+      "item": "CEMS common application numeric language and grade rules",
+      "reason": "Linked from NUS pages. Not an nus.edu.sg page, so those numbers were not copied."
+    }
+  ]
+}

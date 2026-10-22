@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "hk-sg-admissions",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-21",
+  "assets": {
+    "directory": "./web",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  }
+}

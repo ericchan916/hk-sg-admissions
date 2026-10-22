@@ -1,0 +1,1446 @@
+{
+  "university_id": "cuhk",
+  "name_zh": "香港中文大学",
+  "name_en": "The Chinese University of Hong Kong",
+  "business_school_zh": "香港中文大学商学院",
+  "business_school_en": "CUHK Business School",
+  "qs_world_2027_rank": 18,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "academic_text": "Taught master’s other than EMBA (Graduate School): graduated from a recognised university and obtained a bachelor’s degree, normally with honours not lower than Second Class or achieving an average grade of not lower than “B”; or completed a course of study in a tertiary educational institution and obtained professional or similar qualifications equivalent to a bachelor’s degree. Business School master’s page: a bachelor’s degree with Second Class honours or an average grade of B from a recognised university, or professional qualifications equivalent to a bachelor’s degree. 2027 intake page: obtain a bachelor’s degree with at least second class honours or a grade B from a recognised university on or before 31 July 2027, or an equivalent professional qualification. EMBA is separately defined and does not use the Second Class / grade B rule.",
+    "english_text": "Business School master’s page and Graduate School (applicants are told to use the Graduate School page for details): a degree from a university in Hong Kong or a degree programme whose medium of instruction was English; or TOEFL 79 of 120 / 4.5 of 6 (Internet-based/Home Edition); or IELTS (Academic) 6.5 (Test Centre based/Online); or GMAT Band 21 (Verbal); or GMAT Focus Edition Band 78 (Verbal); or a recognised professional qualification examined in English (programme discretion). Graduate School also accepts a pass in English in HKALE (AS Level), Hong Kong Higher Level Examination, CUHK Matriculation Examination, or GCE A-Level/AS-Level, or HKDSE English Language Level 4 or above. No IELTS subscore minimum and no CET are stated. The pages do not label the TOEFL 120-point and 6-point scales as before or after 21 January 2026. MBA, JD/MBA, EMBA (Chinese), FMBA and DBA (Chinese) state their own English rules.",
+    "gmat_gre_text": "Two official wordings differ. Admission-requirements page: applicants to a full-time programme may be required to submit GMAT, GMAT Focus Edition or GRE; for part-time, a score is encouraged but not required. 2027 intake page: GMAT/GRE scores are not mandatory, but a good score will strengthen the application. Score reports are valid for five years from the test date. Online/at-home GMAT, GMAT Focus Edition or GRE General Test at Home may be recognised, subject to the programme. Priority is given to a recognised official score report. Individual programmes mostly say a score is not mandatory.",
+    "waiver_text": "English is waived, without a test, for a Hong Kong university degree or an English-medium degree, and Graduate School may still ask for extra proof. A recognised professional qualification examined in English may be accepted at the programme’s discretion. GMAT Verbal Band 21 or GMAT Focus Edition Verbal Band 78 can itself satisfy the English minimum. TOEFL/IELTS valid for two years from the test date; GMAT / GMAT Focus Edition valid for five years. GMAT (Verbal) 21 is accepted until that score’s validity expires. CET is not mentioned.",
+    "documents": [
+      "Identity document (HKID or passport)",
+      "Graduation and professional qualification certificates; Mainland China degrees also need the Chinese degree and graduation certificates plus CHSI/CHESICC online verification reports",
+      "Official transcripts and grading schemes for all tertiary education; non-English/Chinese transcripts need a certified English translation",
+      "Personal statement and curriculum vitae (Business School application procedures)",
+      "Two referee reports for taught programmes",
+      "English proficiency evidence unless an accepted exemption applies; IELTS shared with “The Chinese University of Hong Kong - Graduate School”; TOEFL institution code 0812",
+      "Non-refundable application fee of HK$500 for Business School master’s programmes",
+      "HKCAAVQ assessment may be required if the degree was by distance learning or a short curriculum",
+      "Authorisation for the University to verify academic qualifications"
+    ],
+    "source_urls": [
+      "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+      "https://masters.bschool.cuhk.edu.hk/admissions-2027-intake/",
+      "https://masters.bschool.cuhk.edu.hk/apply/",
+      "https://www.gs.cuhk.edu.hk/admissions/requirements",
+      "https://www.gs.cuhk.edu.hk/admissions/documents-required",
+      "https://www.bschool.cuhk.edu.hk/programme-finder/",
+      "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+    ]
+  },
+  "programs": [
+    {
+      "id": "cuhk-macc",
+      "name_zh": "会计学硕士",
+      "name_en": "Master of Accountancy",
+      "degree_label": "MAcc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time: 1 year; Part-time: 2 years. Commencement: September.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Full-time and part-time: graduated from a recognised university and obtained a bachelor’s degree, normally with honours not lower than Second Class or achieving an average grade of not lower than “B”; or professional or similar qualifications equivalent to a bachelor’s degree. The part-time note says the programme may consider an equivalent professional qualification.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Refers to the Business School English Language Requirements for Admission (Hong Kong degree or English-medium degree, or accepted professional qualification examined in English; Graduate School also lists HKALE/HKDSE/GCE routes).",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Full-time: GMAT/GRE scores are not mandatory, but a good score will strengthen the application. Part-time: although GMAT/GRE scores are not required, they are highly encouraged."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Part-time only: preferably with relevant post-qualification full-time work experience. Preference will be given to those with that experience. Full-time does not state a work-experience minimum.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Same supporting documents as the Business School application procedures and Graduate School documents list", "Two referees"],
+      "interview": "Not separately specified. School apply page: shortlisted applicants may be invited at the programme’s discretion.",
+      "deadlines": ["Full-time: 31 March 2027", "Part-time: 30 April 2027", "Rolling basis; may close early when places are filled"],
+      "tuition": "2027/2028: full-time HK$420,000; part-time HK$360,000. Application fee HK$500 where stated on the fees section of sibling pages; MAcc fees section lists tuition only.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/macc/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "graduated from a recognised university and obtained a bachelor’s degree, normally with honours not lower than Second Class or achieving an average grade of not lower than “B”",
+        "Preferably with relevant post-qualification full-time work experience.",
+        "Although GMAT / GRE scores are not required, they are highly encouraged."
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明",
+        "Part-time work experience is a preference, not a numeric minimum",
+        "No IELTS subscore and no CET stated",
+        "TOEFL 79/120 and 4.5/6 are not dated to 21 January 2026 on the official pages",
+        "Differs from the school-wide ‘full-time may be required to submit GMAT’ line: both modes say a score is not required; part-time adds a work-experience preference"
+      ]
+    },
+    {
+      "id": "cuhk-mscasi",
+      "name_zh": "精算及保险分析理学硕士",
+      "name_en": "MSc in Actuarial Science and Insurance Analytics",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year (36 units). Commencement: September. Medium of instruction: English.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree. In addition, applicants should have taken and passed at least one university-level course in either calculus, probability, statistics, or an approved equivalent course.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": "At least one passed university-level course in calculus, probability, statistics, or an approved equivalent."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Refers to the Business School / Graduate School English requirements.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No post-qualification work-experience minimum is stated. The curriculum is described as tailored for fresh graduates and junior professionals.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents", "Two referees"],
+      "interview": "Shortlisted applicants will be invited for an interview.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; may close early"],
+      "tuition": "2027/28 tuition HK$370,000. Application fee HK$500.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscasi/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "applicants should have taken and passed at least one university-level course in either calculus, probability, statistics, or an approved equivalent course.",
+        "Shortlisted applicants will be invited for an interview.",
+        "The medium of instruction is English."
+      ],
+      "gaps": [
+        "Quantitative prerequisite is programme-specific and is not the school-wide rule",
+        "No IELTS subscore and no CET stated",
+        "TOEFL scales are not dated to 21 January 2026"
+      ]
+    },
+    {
+      "id": "cuhk-mam",
+      "name_zh": "航空管理理学硕士",
+      "name_en": "MSc in Aviation Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year (30 units).",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Admissions section: bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree. Key facts also say at least second-class honours or grade B, or an equivalent professional qualification.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Must fulfil the University’s minimum English language requirements; page links to the Business School admission-requirements page.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; may close early"],
+      "tuition": "Tuition for academic year 2027/2028 is HK$315,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mam/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "graduated from a recognised university and obtained a bachelor’s degree, normally with honours not lower than Second Class or achieving an average grade of not lower than “B”",
+        "GMAT / GRE scores are not mandatory, but a good GMAT / GRE score will strengthen the application.",
+        "The tuition fee for the academic year 2027/2028 is HK$315,000."
+      ],
+      "gaps": [
+        "Key facts still say the first cohort will commence in September 2026, while the admissions tab is headed 2027-28 with a 31 March 2027 deadline",
+        "授课语言未在已打开的招生页写明",
+        "Academic and English rules match the school-wide taught-master’s rule; GMAT follows the 2027 ‘not mandatory’ wording rather than ‘may be required’"
+      ]
+    },
+    {
+      "id": "cuhk-mscba",
+      "name_zh": "商务分析理学硕士",
+      "name_en": "MSc in Business Analytics",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year (30 credits). Commencement: September.",
+      "location": "Hong Kong",
+      "medium": "English, except when Chinese is preferable",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Refers to the Business School English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis until admissions close"],
+      "tuition": "2027/2028 tuition HK$400,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscba/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "Courses are taught in English, except when Chinese is preferable.",
+        "The tuition fees for the academic year 2027/2028 are HK$400,000."
+      ],
+      "gaps": [
+        "No quantitative-background prerequisite is stated on this programme page",
+        "Academic and English match the school-wide rule; GMAT follows the 2027 ‘not mandatory’ wording",
+        "TOEFL scales are not dated to 21 January 2026"
+      ]
+    },
+    {
+      "id": "cuhk-mscfbm",
+      "name_zh": "家族企业管理理学硕士",
+      "name_en": "MSc in Family Business Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year (30 units). First cohort commences August 2027.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Key facts: a good command of English is crucial; read the language proficiency requirements. Admissions section points to the Business School English page.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not mandatory, but a good score will strengthen the application. Key facts add that applicants are highly recommended to submit a satisfactory GMAT or GRE result to increase the chance of a successful application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents", "Application fee HK$500"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; may close early"],
+      "tuition": "2027-28 total tuition HK$468,000. Overseas study-trip costs are borne by students and are not collected as a programme fee.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscfbm/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "While GMAT or GRE test is not mandatory, you are highly recommended to submit a satisfactory GMAT or GRE test result along with your application to increase the chances of a successful application.",
+        "The first cohort will commence in August 2027.",
+        "The total tuition for new students being admitted in the 2027-28 academic year is HK$468,000 for the whole programme."
+      ],
+      "gaps": [
+        "Programme finder still marks the programme ‘subject to the University’s approval’",
+        "授课语言未在已打开的招生页写明",
+        "Academic and English match the school-wide rule; GMAT is more strongly recommended than the school-wide ‘not mandatory’ line"
+      ]
+    },
+    {
+      "id": "cuhk-msf",
+      "name_zh": "金融学理学硕士",
+      "name_en": "MSc in Finance",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time: 1 year (36 credits); Part-time: 2 years (30 credits). Medium of instruction: English.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Full-time and part-time: bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Full-time: GMAT/GRE scores are not mandatory, but a good score will strengthen the application. Part-time: although GMAT/GRE scores are not required, they are highly encouraged."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Part-time: preferably 2 years of post-qualification full-time work experience. The part-time programme is described as for executives with extensive work experience. Full-time does not state a minimum and is described as for fresh graduates and junior professionals.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents", "Application fee HK$500"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Part-time: 30 April 2027", "Rolling basis; may close early"],
+      "tuition": "2027/28: full-time HK$460,000; part-time HK$365,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscfin/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "Preferably 2 years of post-qualification full-time work experience.",
+        "Although GMAT / GRE scores are not required, they are highly encouraged.",
+        "The medium of instruction is English."
+      ],
+      "gaps": [
+        "Part-time two-year experience is ‘preferably’, not a hard minimum, so work_years_min is null",
+        "No quantitative major is required on the admissions page",
+        "Differs from the plain school-wide rule on part-time work experience and the stronger part-time GMAT encouragement"
+      ]
+    },
+    {
+      "id": "cuhk-mscgwm",
+      "name_zh": "环球财富管理理学硕士",
+      "name_en": "MSc in Global Wealth Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: one year (30 units). First cohort commences September 2027. Medium of instruction: English.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Refers to the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis until places are filled or admissions close"],
+      "tuition": "Tuition for academic year 2027/2028 is HK$420,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscgwm/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "The first cohort of MSc in Global Wealth Management will commence in September 2027.",
+        "The medium of instruction is English.",
+        "The tuition fee for the academic year 2027/2028 is: HK$420,000."
+      ],
+      "gaps": [
+        "Programme finder still says the programme is subject to the University’s approval",
+        "Academic, English and GMAT match the 2027 school-wide taught-master’s rule"
+      ]
+    },
+    {
+      "id": "cuhk-mscitm",
+      "name_zh": "资讯与科技管理理学硕士",
+      "name_en": "MSc in Information and Technology Management",
+      "degree_label": "MSc",
+      "study_mode": ["part-time"],
+      "duration": "Part-time: 24 months (30 credits). Commencement: September. The page says full-time study is the separate MSc in Information Science and Technology Management.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Although GMAT/GRE scores are not required, they are highly encouraged."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated, even though the programme is part-time.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents; the page says assessment starts when hard copies of supporting documents are received"],
+      "interview": "Interviews may be arranged for shortlisted applicants.",
+      "deadlines": ["Part-time: 30 April 2027", "Rolling basis; may close early"],
+      "tuition": "2027/2028 part-time tuition HK$230,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscitm/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "Part-time: 24 months",
+        "Although GMAT / GRE scores are not required, they are highly encouraged.",
+        "Interviews may be arranged for shortlisted applicants.",
+        "Part-time Programme: HK$230,000."
+      ],
+      "gaps": [
+        "Chinese programme finder says 1.5-year part-time; the programme page says 24 months. The programme page is used here",
+        "授课语言未在已打开的招生页写明",
+        "Academic and English match the school-wide rule; GMAT is ‘not required but highly encouraged’, which matches the part-time school line more closely than the full-time ‘may be required’ line"
+      ]
+    },
+    {
+      "id": "cuhk-mscistm",
+      "name_zh": "资讯科学与管理理学硕士",
+      "name_en": "MSc in Information Science and Technology Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 12 months. Commencement: September.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; later applications may not be considered once places are filled"],
+      "tuition": "Key facts: tuition for 2027/28 is HK$340,000 (subject to the University’s approval). Fees section states the 2027/2028 tuition is HK$340,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "The tuition fee for the academic year 2027/28 is HK$340,000 (subject to the University’s approval).",
+        "GMAT / GRE scores are not mandatory, but a good GMAT / GRE score will strengthen the application."
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明",
+        "Academic, English and GMAT match the 2027 school-wide taught-master’s rule",
+        "Chinese programme-finder title is 資訊科學與管理理學碩士課程（全日制）"
+      ]
+    },
+    {
+      "id": "cuhk-msclee",
+      "name_zh": "体验经济领导力理学硕士",
+      "name_en": "MSc in Leadership for Experience Economy",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; may close early"],
+      "tuition": "2027/2028 tuition HK$330,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/msclee/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "GMAT / GRE scores are not mandatory, but a good GMAT / GRE score will strengthen the application.",
+        "The tuition fees for the academic year 2027/2028 are: HK$330,000."
+      ],
+      "gaps": [
+        "Key facts say commencement September 2026, while the admissions section is 2027-28 with deadline 31 March 2027",
+        "授课语言未在已打开的招生页写明",
+        "Academic, English and GMAT match the 2027 school-wide taught-master’s rule"
+      ]
+    },
+    {
+      "id": "cuhk-mim",
+      "name_zh": "管理学理学硕士",
+      "name_en": "MSc in Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year (30 units). Commencement: August.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission. The programme also says a good command of English is crucial and that GMAT or GRE is a vital determinant of that capability.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not mandatory, but a good score will strengthen the application. Applicants are highly recommended to submit a satisfactory GMAT or GRE result. The page says the test serves as a vital determinant in evaluating English capability."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents", "Application fee HK$500"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027"],
+      "tuition": "2027-28 total tuition HK$435,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mim/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "While GMAT or GRE test is not mandatory, you are highly recommended to submit a satisfactory GMAT or GRE test result along with your application to increase the chances of a successful application. A good command of English is crucial for excelling in the programme. The GMAT or GRE test serves as a vital determinant in evaluating your capability in this regard.",
+        "The total tuition for new students being admitted in the 2027-28 academic year is HK$435,000 for the whole programme."
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明",
+        "Academic bar matches the school-wide rule; GMAT is more strongly recommended and is explicitly tied to English assessment, which the school-wide page does not say in those words"
+      ]
+    },
+    {
+      "id": "cuhk-mscmkt",
+      "name_zh": "市场学理学硕士",
+      "name_en": "MSc in Marketing",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year. Commencement: August.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis; may close early"],
+      "tuition": "2027/2028 tuition HK$410,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscmkt/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "The programme combines Eastern and Western perspectives and is taught entirely in English",
+        "The tuition fees for the academic year 2027/2028 are HK$410,000."
+      ],
+      "gaps": [
+        "Academic, English and GMAT match the 2027 school-wide taught-master’s rule",
+        "The ‘taught entirely in English’ sentence is in the programme director’s message on the same page"
+      ]
+    },
+    {
+      "id": "cuhk-mscre",
+      "name_zh": "房地产理学硕士",
+      "name_en": "MSc in Real Estate",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year. Commencement: September.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Please also see the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application. Admission scholarships consider good GMAT/GRE/IELTS/TOEFL scores, but that is a scholarship factor, not an entry minimum."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents; assessment starts when hard copies of supporting documents are received"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Results are usually issued about a month after each round deadline; an offer letter by the June before the programme begins at the latest"],
+      "tuition": "Tuition for academic year 2027/2028 is HK$320,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscre/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "The tuition fee for the academic year 2027/2028 is HK$320,000.",
+        "Students who achieve good GMAT/ GRE/ IELTS/ TOEFL scores."
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明",
+        "Academic, English and GMAT match the 2027 school-wide taught-master’s rule"
+      ]
+    },
+    {
+      "id": "cuhk-mscsbm",
+      "name_zh": "体育商业管理理学硕士",
+      "name_en": "MSc in Sports Business Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time: 1 year. First cohort commences September 2027. Language of instruction: English.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027-28",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Admissions section: bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree. Key facts: at least second-class honours or grade B, or an equivalent professional qualification.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Key facts link to the language proficiency requirements. Admissions section points to the English Language Requirements for Admission.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Key facts: a good GMAT/GRE result will strengthen the application. Admissions section: scores are not mandatory, but a good score will strengthen the application, and applicants are highly recommended to submit a satisfactory result. GMAT/GRE is also described as a vital determinant of English capability."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents"],
+      "interview": "Not separately specified on the programme admissions section.",
+      "deadlines": ["Full-time: 31 March 2027", "Rolling basis"],
+      "tuition": "2027/2028 tuition HK$250,000. Key facts also list HKD$250,000.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscsbm/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "Language of Instruction: English",
+        "The first cohort will commence in September 2027",
+        "While GMAT or GRE test is not mandatory, you are highly recommended to submit a satisfactory GMAT or GRE test result"
+      ],
+      "gaps": [
+        "Programme finder still says the programme is subject to the University’s approval",
+        "Academic and English match the school-wide rule; GMAT is more strongly recommended"
+      ]
+    },
+    {
+      "id": "cuhk-mscsgb",
+      "name_zh": "可持续环球商业理学硕士",
+      "name_en": "MSc in Sustainable Global Business",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time: 1 year; Part-time: 2 years.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027-28",
+      "academic": {
+        "text": "Full-time and part-time: bachelor’s degree, normally with honours not lower than Second Class or an average grade not lower than “B”, or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition)", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Fulfilment of the University’s English language proficiency; page links to the Business School admission-requirements page.",
+        "validity": "TOEFL/IELTS two years; GMAT five years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Full-time: GMAT/GRE scores are not mandatory, but a good score will strengthen the application. Part-time: not mandatory, though highly encouraged."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Part-time only: 3 years of post-qualification full-time work experience is preferred. Full-time does not state a work-experience minimum.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Business School / Graduate School supporting documents", "Application fee HK$500"],
+      "interview": "Full-time and part-time: shortlisted applicants may be invited for an interview.",
+      "deadlines": ["Full-time: 31 March 2027", "Part-time: 30 April 2027", "Rolling basis; may close early"],
+      "tuition": "2027 intake: 1-year full-time HK$380,000; 2-year part-time HK$260,000. Sustainability Field Trip costs are borne by students.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://masters.bschool.cuhk.edu.hk/programmes/mscsgb/?tab=admissions",
+        "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      ],
+      "official_quotes": [
+        "(For part-time programme only) 3 years of post-qualification full-time work experience is preferred.",
+        "preferably 3 years of post-qualification full-time work experience.",
+        "Shortlisted applicants may be invited for an interview.",
+        "The total tuition fees for the 2027 intake are: 1-year Full-time Programme: HK$380,000; 2-year Part-time Programme: HK$260,000"
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明",
+        "Part-time three-year experience is preferred, not a hard minimum",
+        "Differs from the plain school-wide rule on part-time work experience"
+      ]
+    },
+    {
+      "id": "cuhk-mba",
+      "name_zh": "工商管理硕士",
+      "name_en": "MBA",
+      "degree_label": "MBA",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time curriculum page: a 12-month course and a Study Roadmap of 12/16 months, with exchange or dual degree able to extend study. Graduate School normative study period: full-time 2 years (51 units), part-time 3 years (45 units). Programme finder: 12–16 months full-time and 24 months part-time. Part-time curriculum requires 45 units and refers to part-time Year 2 students, but does not state a month count.",
+      "location": "Hong Kong",
+      "medium": "English, except elective courses of a unique nature in which teaching in Chinese is preferable",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "A recognised bachelor’s degree, normally with honours not lower than Second Class or an average grade of not lower than B; or professional or similar qualifications equivalent to a bachelor’s degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 (the page says internal-based/Home Edition; full-time code 7398)", "GMAT Band 21 (Verbal)", "GMAT Focus Edition Band 78 (Verbal)"],
+        "waiver": "A degree from a university in Hong Kong, or a degree programme of which the medium of instruction is English. The MBA admissions pages do not restate the 4.5-of-6 TOEFL scale, HKDSE, HKALE or professional-qualification routes.",
+        "validity": "GMAT and GRE: 5 years from the test date. IELTS/TOEFL validity is not restated on the MBA admissions pages."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Full-time: GMAT/GRE is not mandatory, but a good score would strengthen the application. Codes: GMAT R9H-0W-26; GRE 7430. Part-time: GMAT/GRE/Executive Assessment is not mandatory, but a good score would strengthen the application. Part-time GMAT code R9H-0W-08; GRE 7430. EA is accepted for the part-time MBA only."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "Minimum two years of full-time post-qualification work experience, for both full-time and part-time.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Not itemised on the admissions-requirements pages beyond score reports where applicable", "Graduate School general document list otherwise applies"],
+      "interview": "Not stated on the full-time or part-time admissions-requirements pages.",
+      "deadlines": [
+        "2027 intake, full-time and part-time: 31 October 2026 (1st); 15 December 2026 (2nd); 31 January 2027 (3rd); 15 March 2027 (4th); 30 April 2027 (5th)",
+        "Graduate School: applications after 30 April 2027 may be considered if places remain",
+        "Rolling basis"
+      ],
+      "tuition": "Graduate School: full-time HK$620,000 and part-time HK$510,000 for the whole programme within the normative study period.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://mba.cuhk.edu.hk/programmes/full-time-mba/admissions/admissions-requirements/",
+        "https://mba.cuhk.edu.hk/programmes/part-time-mba/admissions/admissions-requirements/",
+        "https://mba.cuhk.edu.hk/programmes/full-time-mba/curriculum/",
+        "https://mba.cuhk.edu.hk/programmes/part-time-mba/curriculum/",
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/mba",
+        "https://www.bschool.cuhk.edu.hk/programme-finder/"
+      ],
+      "official_quotes": [
+        "Minimum two years of full-time post-qualification work experience",
+        "TOEFL: 79 (internal-based/ Home Edition)",
+        "IELTS (Academic): 6.5 (Test Centre-based/ Home Edition)",
+        "GMAT / GRE /Executive Assessment (EA) score is not mandatory, but a good score would strengthen application",
+        "Fast track with Global Exposure: A 12-month MBA study course",
+        "Normative Study Period: 2 years / 3 years"
+      ],
+      "gaps": [
+        "Duration conflicts across official pages: curriculum 12/16 months full-time versus Graduate School normative 2 years full-time and 3 years part-time versus programme-finder 24-month part-time",
+        "MBA English list does not include TOEFL 4.5 of 6 or the 21 January 2026 split, and writes ‘internal-based’ rather than internet-based",
+        "Interview is not stated on the admissions pages opened",
+        "Differs from the master’s school rule: two years’ work is required, part-time accepts EA, and deadlines are round-based through 30 April 2027 for both modes"
+      ]
+    },
+    {
+      "id": "cuhk-emba",
+      "name_zh": "行政人员工商管理硕士",
+      "name_en": "Executive MBA",
+      "degree_label": "EMBA",
+      "study_mode": ["part-time"],
+      "duration": "Two-year part-time programme; each year has four terms. 48 units. Participants keep full-time jobs. Degree conferred is MBA under the EMBA curriculum.",
+      "location": "Hong Kong",
+      "medium": "All core courses are conducted in English; a few electives are conducted in Chinese (Cantonese and Mandarin)",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Graduate School EMBA rule and programme page: obtained a bachelor’s degree or professional qualifications equivalent to a bachelor’s degree. The Second Class honours / grade B rule for other taught master’s programmes does not apply.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition), via the Graduate School page linked as ‘details’", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "A degree from a university in Hong Kong or an English-medium degree; or a recognised professional qualification examined in English; or satisfactory scores in the English tests on the Graduate School page.",
+        "validity": "TOEFL/IELTS two years; GMAT five years, as on the linked Graduate School page."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated as required on the EMBA admissions-requirements page."
+      },
+      "experience": {
+        "work_years_min": 7,
+        "work_text": "At least 7 years of post-qualification business or relevant work experience, including 5 years in a managerial position, and hold a responsible senior management position.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": [
+        "Identity document",
+        "Degree certificate and/or professional qualifications",
+        "Academic transcripts, including an original transcript sent by the alma mater",
+        "Contacts of two referees",
+        "English language test report if applicable",
+        "Mainland China degrees: degree and graduation certificates plus CHSI verification reports"
+      ],
+      "interview": "Not stated on the admissions-requirements page.",
+      "deadlines": ["Graduate School application deadline: 31 May 2027", "Programme page: 2027 admission is open and processed on a rolling basis; early application is encouraged. No calendar date is printed on the programme admissions page itself."],
+      "tuition": "Graduate School: HK$780,000 for the whole programme, plus an additional residence-week fee.",
+      "apply_url": "https://www.emba.cuhk.edu.hk/how-to-apply/",
+      "source_urls": [
+        "https://www.emba.cuhk.edu.hk/admissions-requirements/",
+        "https://www.emba.cuhk.edu.hk/overview/",
+        "https://www.emba.cuhk.edu.hk/how-to-apply/",
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/executive-mba",
+        "https://www.gs.cuhk.edu.hk/admissions/requirements"
+      ],
+      "official_quotes": [
+        "Obtained a Bachelor’s degree or professional qualifications equivalent to a degree.",
+        "At least 7 years of post-qualification business or relevant work experience, including 5 years in a managerial position.",
+        "Hold a responsible, senior management position.",
+        "All core courses are conducted in English while a few electives are conducted in Chinese (Cantonese and Mandarin).",
+        "HK$780,000 for the whole programme (plus additional residence week fee)"
+      ],
+      "gaps": [
+        "No Second Class / grade B minimum; this is the explicit EMBA exception",
+        "Interview not stated",
+        "GMAT/GRE not mentioned on the programme admissions page",
+        "Programme admissions page does not print the 31 May 2027 date; that date is on the Graduate School listing"
+      ]
+    },
+    {
+      "id": "cuhk-emba-chinese",
+      "name_zh": "高级管理人员工商管理硕士",
+      "name_en": "Executive MBA (Chinese)",
+      "degree_label": "EMBA",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, normally 2 years, 45 units, including one required overseas module. Classes are typically four consecutive days a month, Thursday to Sunday. Commencement stated as September 2027.",
+      "location": "Hong Kong",
+      "medium": "Putonghua (programme FAQ: 全普通話授課)",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Programme FAQ: a recognised bachelor’s degree or a professional qualification equivalent to a recognised degree. Individual sub-degree applicants may be considered on work experience and career achievement, subject to the University admissions committee and an annual quota. Graduate School still says requirements are in addition to the general requirements; the EMBA general rule is a bachelor’s degree or equivalent professional qualification, without Second Class / grade B.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [],
+        "waiver": "Programme FAQ: 筆試及面試，不設英文考核. Selection is based on career achievement, ability, logical thinking and interview. This conflicts with the Graduate School listing, which says requirements are in addition to the general requirements, and those include the University English grid.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not listed. Admission assessment is a written test and an interview."
+      },
+      "experience": {
+        "work_years_min": 7,
+        "work_text": "At least 7 years’ working experience, including 5 years in a managerial position, and currently hold a senior management position (examples on the Graduate School page: President, Vice-President, General Manager, Division Head, Manager).",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": [
+        "Degree certificates and CHSI verification report",
+        "Current employer profile and organisation chart",
+        "Personal or company tax proof",
+        "Identity document",
+        "Highest-qualification transcript",
+        "Two recommendation letters",
+        "Business card of current employer",
+        "CV"
+      ],
+      "interview": "Written test and interview. Interview is by three interviewers and focuses on work experience and career achievement. Shortlisted applicants receive an interview.",
+      "deadlines": [
+        "Graduate School deadline: 31 May 2027",
+        "Programme page application window: August 2026 to April 2027; visa preparation May–June 2027; classes start September 2027",
+        "Places are limited and may close when full"
+      ],
+      "tuition": "Graduate School: HK$780,000 for the whole programme, plus additional fees for the global field trip, accommodation in Hong Kong, lunch, and so on. The programme FAQ states the 2025 fee as HK$1,020,000 including teaching, materials, meals during class and accommodation; it does not state the 2027 fee.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/executive-mba-chinese",
+        "https://embachinese.baf.cuhk.edu.hk/course-application",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "have at least 7 years’ working experience with 5 years in a managerial position",
+        "currently hold a senior management position",
+        "筆試及面試，不設英文考核。",
+        "具有認可的學士學位或者等同於認可學位的專業資格",
+        "學制一般爲兼讀制兩年，共45學分"
+      ],
+      "gaps": [
+        "English: programme FAQ says there is no English assessment, while the Graduate School entry still points at the general requirements",
+        "2027 tuition on the programme site was not stated; only the 2025 figure of HK$1.02 million and the Graduate School figure of HK$780,000 plus extras were found",
+        "Application window on the programme site ends April 2027, while the Graduate School deadline is 31 May 2027",
+        "Differs from the master’s school rule on degree class, work experience, English and assessment"
+      ]
+    },
+    {
+      "id": "cuhk-fmba",
+      "name_zh": "金融财务工商管理硕士",
+      "name_en": "MBA in Finance",
+      "degree_label": "MBA",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, normative study period 2 years, 45 units. Programme finder: 2-year part-time. Programme details are in Chinese only.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Graduate School: in addition to the general taught-master’s requirements (normally Second Class honours or average grade not lower than “B”, or an equivalent professional qualification). Programme site: applicants should hold a bachelor’s degree or above in the national education sequence. The programme site does not repeat Second Class or grade B.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["If not exempt: GMAT Band 21 (Verbal); or GMAT Focus Edition Band 78 (Verbal); or TOEFL 79 of 120 / 4.5 of 6 (Internet-based/Home Edition); or IELTS (Academic) 6.5"],
+        "waiver": "Programme site: English is waived with at least seven years of full-time work experience, or a recognised degree taught entirely in English. Graduate School does not restate this waiver and instead points to the general requirements.",
+        "validity": "Not restated on the FMBA pages opened."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT is an English alternative, not a required admissions test. Applicants must pass an entrance examination and perform well at interview."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Programme site: at least three years of full-time work after a bachelor’s degree, or at least two years of full-time work after a master’s or doctoral degree. Graduate School: preferably three years of post-qualification work experience. Because the two pages and the two degree tracks do not share one hard minimum, work_years_min is null.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": [
+        "Online application",
+        "Graduation and degree certificates; Mainland China awards need CHSI verification",
+        "CV in Chinese or English",
+        "University transcript",
+        "English score unless waived",
+        "Two recommendation letters and referees’ business cards",
+        "Employment proof and company organisation chart",
+        "Other professional certificates if any"
+      ],
+      "interview": "Graduate School: pass the entrance examination and have good performance at an interview. Programme site: assessment is a written test and an interview. The assessment timetable printed on the programme site is for the 2026 cohort, with venues at CUHK Shenzhen Research Institute and CUHK, and is not a 2027 calendar.",
+      "deadlines": ["Graduate School application deadline: 18 June 2027", "The programme page’s batch calendar is labelled 2026级 and ends with an 1 April 2026 application cutoff"],
+      "tuition": "Graduate School: HK$560,000 plus HK$20,000 additional fees including partial activity costs.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/mba-finance",
+        "https://fmba.cuhk.edu.hk/admission/application/",
+        "https://www.gs.cuhk.edu.hk/admissions/requirements",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "preferably have 3 years of post-qualification work experience",
+        "pass the entrance examination and have good performance at an interview",
+        "申请者应具有本科毕业后三年及以上全职工作经验；或者硕士及博士毕业后两年及以上全职工作经验",
+        "拥有七年及以上全职工作经验；持有全英语为授课语言的认可学位",
+        "TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/ Home Edition)"
+      ],
+      "gaps": [
+        "授课语言未在已打开的招生页写明；课程搜寻写明课程资讯仅备中文版",
+        "Graduate School ‘preferably 3 years’ conflicts with the programme site’s hard 3-year / 2-year tracks",
+        "Programme site does not repeat Second Class or grade B",
+        "Seven-year work experience can waive English on the programme site; that waiver is not on the school-wide master’s page",
+        "2027 assessment dates were not on the programme page, which still shows the 2026 cohort timetable",
+        "Teaching location is not stated; only 2026 assessment venues are listed"
+      ]
+    },
+    {
+      "id": "cuhk-jd-mba",
+      "name_zh": "法律博士及工商管理硕士双学位",
+      "name_en": "Juris Doctor/MBA",
+      "degree_label": "JD/MBA",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time: 36 months (24 months JD, 12 months MBA), 99 units. Part-time: 60 months (36 months JD, 24 months MBA), 93 units.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "A bachelor’s degree in a non-law subject, or a law degree from a non-common law jurisdiction, normally with honours not lower than Second Class; or an average grade not lower than “B” in undergraduate courses; or professional or similar qualifications equivalent to an honours degree.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": "Degree must be in a non-law subject, or a law degree from a non-common law jurisdiction."
+      },
+      "english": {
+        "ielts_overall": 7.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL 100/120 or 5/6 (Internet Based/Home Edition) or above; the page says ‘of above’"],
+        "waiver": "A bachelor’s degree completed in Hong Kong or an English-speaking country, or taught primarily in English; or alternative evidence of English proficiency equivalent to the stated tests.",
+        "validity": "IELTS and TOEFL must have been obtained not more than two years prior to the date of applying."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE scores are not mandatory, but a good GMAT/GRE score will strengthen the application."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "At least 2 years of full-time post-qualification work experience, or recognised professional qualifications.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Not itemised on the Graduate School programme page beyond the general requirements"],
+      "interview": "Not stated on the Graduate School programme page.",
+      "deadlines": [
+        "1st round: 31 January 2027",
+        "2nd round: 28 February 2027",
+        "3rd round: 9 April 2027",
+        "Applications after 9 April 2027 may be considered if places remain",
+        "Rolling basis"
+      ],
+      "tuition": "JD component HK$7,880 per unit for 60 units. Full-time MBA component HK$474,123. Part-time MBA component HK$374,022. Figures are for the component within the normative study period.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/juris-doctormba",
+        "https://www.bschool.cuhk.edu.hk/programme-finder/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "normally with honours not lower than Second Class",
+        "normally achieving an average grade of not lower than \"B\" in undergraduate courses",
+        "achieving a result of Band 7.5 or better in the International English Language Testing System (IELTS)",
+        "achieving a score of 100/120 or 5/6 (Internet Based/Home Edition) of above in the Test of English as a Foreign Language (TOEFL)",
+        "at least 2 years of full-time post-qualifications work experience or recognized professional qualifications"
+      ],
+      "gaps": [
+        "授课语言未在研究生院课程页写明",
+        "IELTS 7.5 and TOEFL 100/120 or 5/6 are higher than the Business School master’s 6.5 / 79 grid",
+        "The page does not map TOEFL 100/120 and 5/6 to 21 January 2026",
+        "No IELTS subscore is stated",
+        "JD/MBA programme pages on mba.cuhk.edu.hk were linked but not opened separately"
+      ]
+    },
+    {
+      "id": "cuhk-mba-ti",
+      "name_zh": "科技与创新工商管理硕士",
+      "name_en": "MBA in Technology and Innovation (offered in Shenzhen)",
+      "degree_label": "MBA",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, normative study period 2 years, 45 units. Jointly launched with Southern University of Science and Technology. Programme finder says details are in Chinese only.",
+      "location": "Shenzhen",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Graduate School says to refer to the general requirements, then states programme-specific conditions. The taught-master’s general rule is normally Second Class honours or average grade not lower than “B”, or an equivalent professional qualification. The page also contains an unfilled template sentence: “For those programmes with programme-specific requirements, please indicate the requirements in the following format.”",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition), only via the general requirements the page points to", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Not restated. The page only says to refer to the Graduate School general requirements.",
+        "validity": "TOEFL/IELTS two years; GMAT five years, from the general requirements page."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated as required. Applicants must pass a written examination and have a good interview performance."
+      },
+      "experience": {
+        "work_years_min": 3,
+        "work_text": "At least three years of post-qualification work experience.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Not itemised on the Graduate School page"],
+      "interview": "Must pass a written examination and have good performance in an interview.",
+      "deadlines": ["9 July 2027"],
+      "tuition": "RMB 560,000.",
+      "apply_url": "https://timba.safe.sustech.edu.cn/apply.php",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/mba-technology-and-innovation-offered-shenzhen",
+        "https://www.gs.cuhk.edu.hk/admissions/requirements",
+        "https://www.bschool.cuhk.edu.hk/programme-finder/",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "have at least three years of post-qualification work experience",
+        "pass a written examination and have good performance in an interview",
+        "Tuition Fee: RMB 560,000"
+      ],
+      "gaps": [
+        "The Graduate School page still shows a CMS instruction sentence above the requirements",
+        "授课语言未在研究生院课程页写明；课程搜寻写明课程资讯仅备中文版",
+        "A separate URL mba-technology-and-innovation redirected in search to this Shenzhen page; the non-Shenzhen slug was not the page that loaded",
+        "Differs from the master’s school rule by requiring three years’ work plus a written examination and interview"
+      ]
+    },
+    {
+      "id": "cuhk-empacc",
+      "name_zh": "高级财会人员专业会计学硕士",
+      "name_en": "Executive Master of Professional Accountancy (offered in Shanghai)",
+      "degree_label": "Executive Master",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, normative study period 2 years, 36 units. Offered with Shanghai National Accounting Institute.",
+      "location": "Shanghai",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "In addition to the Graduate School general requirements. For a taught master’s programme that is not the EMBA, that is normally Second Class honours or an average grade not lower than “B”, or a professional or similar qualification equivalent to a bachelor’s degree. The programme then distinguishes bachelor’s degree holders from professional-certificate holders.",
+        "gpa_min_4": null,
+        "honours": "Second Class",
+        "grade_letter": "B",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition), only because the page points to the general requirements", "GMAT Verbal Band 21", "GMAT Focus Edition Verbal Band 78"],
+        "waiver": "Not restated beyond the general requirements.",
+        "validity": "TOEFL/IELTS two years; GMAT five years, from the general requirements page."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated as a programme-specific requirement."
+      },
+      "experience": {
+        "work_years_min": 5,
+        "work_text": "At least 5 years of relevant work experience for bachelor’s degree holders, or at least 7 years of relevant work experience for professional-certificate holders.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Not itemised on the Graduate School page"],
+      "interview": "Not stated.",
+      "deadlines": ["30 July 2027"],
+      "tuition": "RMB 398,000 for the whole programme.",
+      "apply_url": "http://enroll.snai.edu/user/login/snai/48",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/executive-master-professional-accountancy-offered-shanghai",
+        "https://www.gs.cuhk.edu.hk/admissions/requirements",
+        "https://www.bschool.cuhk.edu.hk/chi/programme-finder/"
+      ],
+      "official_quotes": [
+        "have at least 5 years relevant work experience for Bachelor's degree holders; or",
+        "have at least 7 years relevant work experience for professional certificate holders.",
+        "RMB398,000 for the whole programme"
+      ],
+      "gaps": [
+        "授课语言未在研究生院课程页写明；课程搜寻写明课程资讯仅备中文版",
+        "The SNAI programme website linked from the page was not opened",
+        "English and degree-class rules are only by reference to the Graduate School general requirements",
+        "Work-experience minimum differs from the school-wide master’s rule, which has no year minimum"
+      ]
+    },
+    {
+      "id": "cuhk-dba",
+      "name_zh": "工商管理博士",
+      "name_en": "Doctor of Business Administration (Chinese)",
+      "degree_label": "DBA",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Graduate School programme page: full-time normative study period 3 years; part-time 4 years. Both modes require 57 units. Programme finder describes it as 4-year part-time. Study-options page was not used.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "2027",
+      "academic": {
+        "text": "Graduate School general rule for DBA (Chinese): a master’s degree from a recognised university; or a bachelor’s degree normally with Second Class Honours in the upper division or above, having been registered for a master’s degree at CUHK for at least one year and having demonstrated research ability; or having been registered for a doctoral degree at a recognised university for at least one year and approved by the Graduate Council. The medicine-specific alternative in the same general paragraph is not a business route.",
+        "gpa_min_4": null,
+        "honours": "Second Class Honours in the upper division or above, only on the bachelor’s-plus-CUHK-master’s route",
+        "grade_letter": "",
+        "major_prerequisite": ""
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [],
+        "waiver": "English language requirement is waived.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not mentioned."
+      },
+      "experience": {
+        "work_years_min": 10,
+        "work_text": "At least 10 years’ working experience, with 6 years in a managerial position.",
+        "internship_required": false,
+        "internship_text": "官方页面未将实习列为申请门槛"
+      },
+      "documents": ["Not itemised on the Graduate School programme page"],
+      "interview": "Must perform satisfactorily in an interview conducted by the Selection Panel of the Programme.",
+      "deadlines": ["31 May 2027"],
+      "tuition": "Full-time HK$2,000,000, stated as subject to the University’s approval, plus HK$150,000 for meals, refreshments, student research and student-related expenses. Part-time HK$1,800,000 plus the same HK$150,000. The part-time figure is not marked ‘subject to approval’ in the same way on the page.",
+      "apply_url": "https://apply.bschool.cuhk.edu.hk/",
+      "source_urls": [
+        "https://www.gs.cuhk.edu.hk/programmes/business-administration/doctor-business-administration-chinese",
+        "https://www.gs.cuhk.edu.hk/admissions/requirements",
+        "https://www.bschool.cuhk.edu.hk/programme-finder/"
+      ],
+      "official_quotes": [
+        "Have at least 10 years’ working experience with 6 years in a managerial position",
+        "Perform satisfactorily in an interview conducted by the Selection Panel of the Programme.",
+        "English language requirement is waived."
+      ],
+      "gaps": [
+        "Taught business doctorate; included with degree_label DBA. It is not a master’s programme",
+        "授课语言未在研究生院课程页逐字写明，课程名称及搜寻页为中文课程",
+        "Full-time versus part-time normative periods on this page do not match the programme finder’s 4-year part-time-only description",
+        "Full-time tuition is subject to University approval",
+        "English is waived, unlike the master’s grid"
+      ]
+    }
+  ]
+}

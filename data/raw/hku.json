@@ -1,0 +1,1180 @@
+{
+  "university_id": "hku",
+  "name_zh": "香港大学",
+  "name_en": "The University of Hong Kong",
+  "business_school_zh": "香港大学经管学院",
+  "business_school_en": "HKU Business School",
+  "qs_world_2027_rank": 11,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "academic_text": "Taught postgraduate (University portal): a candidate shall hold a Bachelor's degree of this University or a qualification of equivalent standard from this University or another comparable institution accepted for this purpose, and shall satisfy any other admission requirements prescribed for the relevant curriculum. An application for exemption shall be considered on a case by case basis. HKU Business School taught masters (school page, 2027 intake): 'Hold a recognised bachelor’s or equivalent.' FAQ: 'Hold a recognised degree or equivalent.' No numeric GPA, honours class, percentage, or letter-grade minimum is published for these taught masters. The Graduate School page at gradsch.hku.hk discusses MPhil/PhD (including a Faculty of Business and Economics GMAT/GRE requirement and higher English scores) and is not used here as the taught-master minimum.",
+    "english_text": "HKU Business School masters page: 'Obtain a TOEFL/IELTS score if you are not from an English-medium university. Minimum score requirement: TOEFL (Internet-based): A score of 80 or above for tests taken before 21 January 2026; or A score of 4.5 or above for tests taken from 21 January 2026 onwards. IELTS: 6 (with no subtest below 5.5).' University taught-postgraduate page: an applicant seeking admission on a qualification from a university or comparable institution outside Hong Kong of which the language of teaching and/or examination is not English must obtain TOEFL 80 or above (tests before 21 January 2026) or 4.5 or above (from 21 January 2026), or IELTS overall band 6 with no subtest lower than 5.5, or GCE Grade C or above, or IGCSE Grade C or above, or Cambridge Test of Proficiency in English Language Grade C or above. 'Starting from the 2026 intake, IELTS and TOEFL tests must be taken within two years prior to September 1 of each admissions year.' School page also: tests must be taken within two years prior to September 1 of each admissions year; score reports are valid for two years only; TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted.",
+    "gmat_gre_text": "HKU Business School taught masters: 'GMAT/GRE scores are not required, but a good GMAT/GRE score will be favourably considered and can be helpful for marginal cases.' 'GMAT score reports are valid for five years.' No numeric GMAT or GRE minimum is published for these 12 masters. MBA, part-time MBA, IMBA and EMBA have separate rules on their own pages. The Graduate School sentence that Faculty of Business and Economics applicants must obtain satisfactory GMAT or GRE appears on a page that refers to MPhil/PhD applications and is not applied here to taught masters.",
+    "waiver_text": "School admissions page: 'Obtain a TOEFL/IELTS score if you are not from an English-medium university.' FAQ: 'An applicant who wishes to be admitted on the basis of a qualification from a university or comparable institution outside Hong Kong where the language of teaching or examination is not English is required to obtain a TOEFL/IELTS score.' University taught-postgraduate page uses the same outside-Hong-Kong and non-English teaching and/or examination condition. Programme portal pages for the 12 masters shorten this to 'if you are not from an English teaching university.'",
+    "documents": [
+      "Online application via the Taught Postgraduate Online Application System; non-refundable application fee HK$780 for each application (2027 masters admissions page).",
+      "Two referee statements; at least one must be an academic referee from the university the applicant has graduated or will graduate from, and that referee must provide an official university profile or directory link. A form without that link is incomplete and will not be processed.",
+      "CV.",
+      "Academic certificate file: graduate transcript or latest official transcript; graduation certificate or, for Mainland China institutions, the Online Verification Report of Higher Education Qualification Certificate; bachelor’s degree certificate or the Online Verification Report of Higher Education Degree Certificate; official ranking certificate. Non-English documents need a formally certified English translation. Mainland verification reports: Chinese and English versions, validity 6 months or the longest available.",
+      "Working experience proof if applicable: valid employment proof of internship of all positions, or most recent full-time employment, whichever is applicable. Contracts or correspondence with colleagues are not accepted.",
+      "Language report if not from an English-medium university. TOEFL code of HKU: 9671; School Type: 01-Graduate; Department: 82-Business and Commerce.",
+      "Photo identification (passport photo page, ID card, or Exit-Entry Permit).",
+      "Others: personal statement; GMAT/GRE score report if submitted; professional qualifications such as ACCA, CFA, CPA.",
+      "Applicants may be invited to record and upload admission videos as additional mandatory supporting documents. Missing supporting documents are not processed. Originals are required only after an offer."
+    ],
+    "source_urls": [
+      "https://masters.hkubs.hku.hk/admissions/",
+      "https://masters.hkubs.hku.hk/",
+      "https://masters.hkubs.hku.hk/our-programmes/",
+      "https://masters.hkubs.hku.hk/faqs/",
+      "https://portal.hku.hk/tpg-admissions/applying/admission-requirements",
+      "https://portal.hku.hk/tpg-admissions/programme-listing?faculty=hku-business-school",
+      "https://gradsch.hku.hk/prospective_students/application/admission_requirement"
+    ]
+  },
+  "programs": [
+    {
+      "id": "hku-macct",
+      "name_zh": "會計學碩士",
+      "name_en": "Master of Accounting",
+      "degree_label": "MAcct",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. School page: hold a recognised bachelor’s or equivalent. Portal addition: 'Candidates with a good GMAT/GRE score or possessing a business Bachelor's degree or have accounting-related work experience will be favorably considered.' FAQ: for most masters programmes there is no specific undergraduate-field requirement.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No undergraduate major is required. A business bachelor's degree is favourably considered, not required."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives not restated on the programme page: GCE Grade C or above; IGCSE Grade C or above; Cambridge Test of Proficiency in English Language Grade C or above."],
+        "waiver": "Programme page: a TOEFL/IELTS score if you are not from an English teaching university. School page: if you are not from an English-medium university. FAQ: required where the qualification is from a university or comparable institution outside Hong Kong and the language of teaching or examination is not English.",
+        "validity": "IELTS and TOEFL must be taken within two years prior to September 1 of each admissions year and are valid for two years only. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required. A good GMAT/GRE score will be favourably considered and can help marginal cases. Programme page also says a good GMAT/GRE score will be favorably considered. No numeric score is published. GMAT code FS2-WL-21. GRE code for HKU 2482. GMAT reports are valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. FAQ: 'There are no requirements regarding applicants’ work experience. Fresh graduates are welcome to apply.' Accounting-related work experience is favourably considered, not required. No minimum number of years is stated.",
+        "internship_required": false,
+        "internship_text": "Internship is not an admission requirement. If experience proof is submitted, it may be valid employment proof of internship of all positions, or most recent full-time employment, whichever is applicable."
+      },
+      "documents": [
+        "School-wide set: CV; transcripts, graduation and degree evidence, official ranking; two references with at least one academic referee and a university profile link; language report if required; photo ID; personal statement; optional GMAT/GRE and professional certificates.",
+        "Working-experience proof only if applicable."
+      ],
+      "interview": "In general, applicants are not required to attend an interview. They may be invited to record and upload additional mandatory admission videos.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed composition fee for 2027 intake HK$468,000; deposit HK$156,000. Subject to the University’s approval. Balance payable in 2 instalments over one academic year. Non-refundable application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "A recognized Bachelor's degree or equivalent; Statements from two referees; and A TOEFL/IELTS score if you are not from an English teaching university.",
+        "A minimum score of 80 in the internet-based TOEFL for tests taken before 21 January 2026, or a minimum score of 4.5 for tests taken on or after 21 January 2026, or a minimum overall band of 6 with no subtest lower than 5.5 in IELTS is required.",
+        "Candidates with a good GMAT/GRE score or possessing a business Bachelor's degree or have accounting-related work experience will be favorably considered."
+      ],
+      "gaps": [
+        "No numeric GPA, honours class, or letter grade is published.",
+        "No numeric GMAT/GRE cutoff is published.",
+        "Chinese title 會計學碩士 is from a search snippet of the official article page, not a full page open.",
+        "TPG portal expected start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-maa",
+      "name_zh": "會計數據分析碩士",
+      "name_en": "Master of Accounting Analytics",
+      "degree_label": "MAA",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "The programme portal Entrance Requirements heading is blank. School-wide rule used: hold a recognised bachelor’s or equivalent. FAQ: no specific undergraduate-field requirement for most masters programmes.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No programme-specific major prerequisite was published on the pages opened."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE Grade C or above; IGCSE Grade C or above; Cambridge Test of Proficiency Grade C or above. Not restated on the blank programme entrance section."],
+        "waiver": "School page, because the programme entrance section is blank: obtain a TOEFL/IELTS score if you are not from an English-medium university.",
+        "validity": "Within two years prior to September 1 of each admissions year; reports valid for two years only. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "School page: GMAT/GRE scores are not required, but a good score will be favourably considered and can help marginal cases. No numeric score. GMAT code FS2-WL-97. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "FAQ: there are no requirements regarding applicants’ work experience. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required. Experience proof, if submitted, may be internship proof of all positions or most recent full-time employment."
+      },
+      "documents": ["School-wide document set on the masters admissions page. No extra MAA document is listed."],
+      "interview": "In general, no interview. Applicants may be invited to upload mandatory admission videos.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$468,000; deposit HK$156,000; subject to University approval. Application fee HK$780. Balance in 2 instalments over one academic year.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-accounting-analytics-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "Expected Duration: 2 years.",
+        "The portal Entrance Requirements section for Master of Accounting Analytics has a heading and no requirement text beneath it."
+      ],
+      "gaps": [
+        "Programme portal entrance-requirements section is empty, so no programme-specific academic, English, or GMAT sentence was retrieved.",
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 會計數據分析碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-maib",
+      "name_zh": "商業人工智能碩士",
+      "name_en": "Master of Artificial Intelligence in Business",
+      "degree_label": "MAIB",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent, plus two referee statements. No further academic condition is on the programme entrance list.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated on the programme entrance list. FAQ does not name a preferred undergraduate field for MAIB."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university. School wording: if you are not from an English-medium university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-15. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MAIB document is listed on the admissions page."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-artificial-intelligence-in-business-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "1. A recognized Bachelor's degree or equivalent; 2. Statements from two referees; and 3. A TOEFL/IELTS score if you are not from an English teaching university."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 商業人工智能碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mecon",
+      "name_zh": "經濟學碩士",
+      "name_en": "Master of Economics",
+      "degree_label": "MEcon",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. The programme overview says it welcomes candidates from different academic backgrounds. Those admitted without an economics background must complete a summer preparatory programme. 'Candidates who are required to complete a boot camp would be identified when reviewers make the admission decision and notified in the offer letter as part of the conditions.' Students must attend all boot-camp classes and pass all assessments. Preparatory courses named: Microeconomics (Online), Macroeconomics (Online), and Computation and Analysis of Economic Data (first half).",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "An economics major is not required to apply. Admission without an economics background can be conditional on passing the summer preparatory programme."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-88. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": [
+        "School-wide document set.",
+        "Advanced Research Stream only: a 2-page research statement on field of interests and relevant skills. A writing sample is optional."
+      ],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$438,000; deposit HK$146,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-economics-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-economics-hkubs",
+        "https://masters.hkubs.hku.hk/our-programmes/master-of-economics/",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "The HKU MEcon programme welcomes candidates from different academic backgrounds. Those admitted without an economics background are required to complete a summer preparatory programme to strengthen the foundational knowledge before starting the programme.",
+        "Candidates who are required to complete a boot camp would be identified when reviewers make the admission decision and notified in the offer letter as part of the conditions."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 經濟學碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'.",
+        "The boot camp is an offer condition for some admits, not a published pre-application grade cutoff."
+      ]
+    },
+    {
+      "id": "hku-mfin",
+      "name_zh": "金融學碩士",
+      "name_en": "Master of Finance",
+      "degree_label": "MFin",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. The current programme overview calls it a two-year full-time interdisciplinary programme. No separate grade or major cutoff is on the entrance list. FAQ: no specific undergraduate field for most masters programmes.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-65. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not an admission requirement. The overview says students will benefit from internship opportunities during the programme; that is not an entry condition."
+      },
+      "documents": ["School-wide document set. No extra MFin document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. The admissions page says advanced standing of required courses, except the capstone, may be granted and tuition adjusted accordingly. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-hkubs",
+        "https://masters.hkubs.hku.hk/our-programmes/master-of-finance/",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "The HKU Business School Master of Finance Programme is a two-year year full-time interdisciplinary programme.",
+        "A minimum score of 80 in the internet-based TOEFL for tests taken before 21 January 2026, or a minimum score of 4.5 for tests taken on or after 21 January 2026, or a minimum overall band of 6 with no subtest lower than 5.5 in IELTS is required."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 金融學碩士 is from a search snippet of an official article page that still describes a one-year programme, so the Chinese title is used and the one-year duration on that older article is not used.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mfft",
+      "name_zh": "金融學碩士(金融科技)",
+      "name_en": "Master of Finance in Financial Technology",
+      "degree_label": "MFFinTech",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. Portal: 'Candidates with computer science, engineering, mathematics, physics, statistics or science and technology related background are highly preferred.' FAQ: 'there is no specified requirement on the field of applicants’ undergraduate studies. Applicants from different fields are welcome to apply' while those backgrounds are highly preferred.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No undergraduate field is required. Computer science, engineering, mathematics, physics, statistics, or science and technology backgrounds are highly preferred."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-09. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MFFinTech document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. Advanced standing may adjust tuition. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-finance-in-financial-technology-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "Candidates with computer science, engineering, mathematics, physics, statistics or science and technology related background are highly preferred.",
+        "For the Master of Finance in Financial Technology programme, there is no specified requirement on the field of applicants’ undergraduate studies."
+      ],
+      "gaps": [
+        "No numeric GPA, quantitative-course, or GMAT/GRE cutoff.",
+        "Chinese title 金融學碩士(金融科技) is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mfwm",
+      "name_zh": "家族財富管理碩士",
+      "name_en": "Master of Family Wealth Management",
+      "degree_label": "MFWM",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. Programme overview says it is jointly offered with the Hong Kong Institute of Humanities and Social Sciences. No grade cutoff is published. An older director Q&A says the programme is suitable for recent graduates and early-career professionals; that is descriptive, not a cutoff.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated on the entrance list."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-H6-82. GRE code specifically for Master of Family Wealth Management is 1275 (school GRE code 2482 is also listed for HKU). GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not an admission requirement. The curriculum offers an internship practicum as one capstone option after admission."
+      },
+      "documents": [
+        "School-wide document set.",
+        "One short essay of around 300 words: 'If you can be one of your family members for one day, who would that be? Imagine and tell us how the day went and what were your learnings from the experience?'",
+        "Optional scholarship statement, maximum 300 words, for candidates who want to be considered for a scholarship."
+      ],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-family-wealth-management-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "One short essay on “If you can be one of your family members for one day, who would that be? Imagine and tell us how the day went and what were your learnings from the experience?” Your story should be around 300-words."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 家族財富管理碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mgm",
+      "name_zh": "環球管理學碩士",
+      "name_en": "Master of Global Management",
+      "degree_label": "MGM",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. The programme portal then uses this sentence: 'Candidates with a good GMAT/GRE score or possessing a business Bachelor's degree or have accounting-related work experience will be favorably considered.' The same sentence appears on the Master of Accounting page.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "As written on the MGM portal page, a business bachelor's degree is favourably considered. No major is required. FAQ says most masters programmes have no specific undergraduate-field requirement."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required. The MGM portal says a good GMAT/GRE score will be favorably considered. No numeric cutoff. GMAT code FS2-WL-17. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply. The MGM portal says accounting-related work experience will be favorably considered.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MGM document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$468,000; deposit HK$156,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-global-management-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "Candidates with a good GMAT/GRE score or possessing a business Bachelor's degree or have accounting-related work experience will be favorably considered."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "The favourable-consideration sentence on the MGM portal is identical to Master of Accounting, including 'accounting-related work experience'. It is recorded as published, not rewritten.",
+        "Chinese title 環球管理學碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-msc-ba",
+      "name_zh": "理科碩士(商業分析)",
+      "name_en": "Master of Science in Business Analytics",
+      "degree_label": "MSc(BA)",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. No further academic condition is on the entrance list. FAQ: no specific undergraduate field for most masters programmes.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major or quantitative prerequisite is stated on the entrance list."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-82. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MSc(BA) document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$468,000; deposit HK$156,000; subject to University approval. Portal fees field says 'To be updated'. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-business-analytics-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-business-analytics-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "1. A recognized Bachelor's degree or equivalent; 2. Statements from two referees; and 3. A TOEFL/IELTS score if you are not from an English teaching university."
+      ],
+      "gaps": [
+        "No numeric GPA, statistics, or programming prerequisite, and no GMAT/GRE cutoff.",
+        "Chinese title 理科碩士(商業分析) is from a search snippet of the official article page.",
+        "Portal start date and portal fee field are 'To be updated'; the HK$468,000 figure is the school’s proposed 2027 fee."
+      ]
+    },
+    {
+      "id": "hku-msc-mkt",
+      "name_zh": "理科碩士(市場營銷學)",
+      "name_en": "Master of Science in Marketing",
+      "degree_label": "MSc(Mktg)",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. A director Q&A says the programme is designed both for students with a prior business or marketing background and for non-business students. That is descriptive, not a cutoff.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No marketing or business major is required on the entrance list."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-12. GRE code 2482. GMAT valid for five years."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra marketing document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$438,000; deposit HK$146,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-marketing-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "1. A recognized Bachelor's degree or equivalent; 2. Statements from two referees; and 3. A TOEFL/IELTS score if you are not from an English teaching university."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 理科碩士(市場營銷學) is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-msaf",
+      "name_zh": "可持續會計及金融碩士",
+      "name_en": "Master of Sustainable Accounting and Finance",
+      "degree_label": "MSAF",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "The programme portal Entrance Requirements heading is blank. School-wide rule used: hold a recognised bachelor’s or equivalent. The overview says the curriculum is for fresh college graduates and young professionals; that is not a numeric cutoff.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No programme-specific major prerequisite was published on the pages opened."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above. Not restated on the blank programme entrance section."],
+        "waiver": "School page, because the programme entrance section is blank: obtain a TOEFL/IELTS score if you are not from an English-medium university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "School page: not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-80. GRE code 2482. GMAT valid for five years. The fee footnote says advanced standing may be granted."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MSAF document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. Advanced standing may adjust tuition. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-sustainable-accounting-and-finance-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "The portal Entrance Requirements section for Master of Sustainable Accounting and Finance has a heading and no requirement text beneath it."
+      ],
+      "gaps": [
+        "Programme portal entrance-requirements section is empty.",
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 可持續會計及金融碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mwm",
+      "name_zh": "財富管理碩士",
+      "name_en": "Master of Wealth Management",
+      "degree_label": "MWM",
+      "study_mode": ["Full-time"],
+      "duration": "2 years",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "2027",
+      "intake_cycle": "August (programme listing). TPG portal expected start date: To be updated.",
+      "academic": {
+        "text": "A recognized Bachelor's degree or equivalent. No further academic condition is on the entrance list.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["University TPG alternatives: GCE, IGCSE, or Cambridge Proficiency Grade C or above."],
+        "waiver": "A TOEFL/IELTS score if you are not from an English teaching university.",
+        "validity": "Within two years prior to September 1 of each admissions year. TOEFL iBT Home Edition and IELTS One Skill Retake will not be accepted."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required; a good score is favourably considered for marginal cases. No numeric cutoff. GMAT code FS2-WL-06. GRE code 2482. GMAT valid for five years. Advanced standing may adjust tuition."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement. Fresh graduates are welcome to apply.",
+        "internship_required": false,
+        "internship_text": "Internship is not stated as required."
+      },
+      "documents": ["School-wide document set. No extra MWM document is listed."],
+      "interview": "In general, no interview. Admission videos may be required.",
+      "deadlines": [
+        "2027 intake Early Admission Round: 12:00 noon (GMT+8), 24 July 2026",
+        "2027 intake Round 1: 12:00 noon (GMT+8), 28 September 2026",
+        "2027 intake Round 2: 12:00 noon (GMT+8), 4 December 2026"
+      ],
+      "tuition": "Proposed 2027 composition fee HK$508,000; deposit HK$169,000; subject to University approval. Application fee HK$780.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-wealth-management-hkubs",
+        "https://masters.hkubs.hku.hk/admissions/",
+        "https://masters.hkubs.hku.hk/faqs/",
+        "https://masters.hkubs.hku.hk/",
+        "https://masters.hkubs.hku.hk/our-programmes/"
+      ],
+      "official_quotes": [
+        "1. A recognized Bachelor's degree or equivalent; 2. Statements from two referees; and 3. A TOEFL/IELTS score if you are not from an English teaching university."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE cutoff.",
+        "Chinese title 財富管理碩士 is from a search snippet of the official article page.",
+        "Portal start date is 'To be updated'."
+      ]
+    },
+    {
+      "id": "hku-mba-ft",
+      "name_zh": "",
+      "name_en": "Master of Business Administration (Full-time)",
+      "degree_label": "MBA",
+      "study_mode": ["Full-time"],
+      "duration": "Minimum one year, maximum two years. The full-time admissions page says the 2027 composition fee is payable in 3 instalments over one year.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "Work experience is counted as of August 2027. A TPG portal search snippet lists expected start August 2027 and expected duration 1 year. A later direct open of that portal page failed.",
+      "academic": {
+        "text": "A recognised bachelor’s degree. No numeric GPA, honours class, or letter grade is published. The part-time FAQ says honours/GPA is considered holistically; the full-time page does not state a minimum.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No undergraduate major is stated on the full-time admissions page."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["IELTS academic module. The full-time page does not list GCE, IGCSE, or Cambridge Proficiency."],
+        "waiver": "Applicants whose degree is from a university outside of Hong Kong at which the language of teaching and/or examination is not English must take the TOEFL or IELTS.",
+        "validity": "Test score must be attained on or after 1 September 2025. The page does not restate the University two-year rule in those words."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "GMAT/GRE exam result is required for full-time MBA admission. The page asks for a satisfactory score and does not publish a number. Scores more than five years old are not accepted. Only the highest valid score is used; sub-scores from different exams are not combined. GMAT code FS2-WL-61. GRE code 4136. The TPG portal snippet says a satisfactory GMAT/GRE score is required for the full-time programme only."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "At least 2 years of postgraduate full-time work experience (as of August 2027).",
+        "internship_required": false,
+        "internship_text": "Internship is not mentioned. The requirement is postgraduate full-time work experience."
+      },
+      "documents": [
+        "Official transcript with a complete record; non-English transcripts need a university-certified English translation.",
+        "Certified true copy of degree certificate(s), with a certified English translation if needed.",
+        "GMAT or GRE score.",
+        "TOEFL or IELTS if required. TOEFL institution code 9671 and department code 02. IELTS academic official report sent to MBA Admissions Office, Room 204, Block B, Cyberport 4, 100 Cyberport Road, Hong Kong.",
+        "Statements of reference from two referees.",
+        "Passport photo page or HKID.",
+        "Professional resume.",
+        "Application fee HK$780, non-refundable."
+      ],
+      "interview": "The Admissions Committee shortlists candidates for interviews after the application and documents are received. A second-round interview or further documentation may be required. Decisions are generally available 2 to 4 weeks after the interviews.",
+      "deadlines": [
+        "The full-time admissions page retrieved on 2026-10-21 does not list a deadline.",
+        "TPG portal search snippet: Full-time Early Round, 12:00 noon (GMT+8), 9 November 2026. Later rounds were not in that snippet, and a later open of the portal page failed."
+      ],
+      "tuition": "Composition fee HK$648,000 for the 2027 intake, payable in 3 instalments over one year, subject to final University approval. Deposit HK$75,000 on admission. Application fee HK$780.",
+      "apply_url": "https://mba.hkubs.hku.hk/full-time-mba/admissions/",
+      "source_urls": [
+        "https://mba.hkubs.hku.hk/full-time-mba/admissions/",
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-business-administration-hkubs"
+      ],
+      "official_quotes": [
+        "A recognised bachelor’s degree.",
+        "At least 2 years of postgraduate full-time work experience (as of August 2027).",
+        "GMAT/GRE exam result is required for Full-time MBA admission.",
+        "A minimum TOEFL score of 80 or above (internet-based) (for tests taken before January 21, 2026) or a score of 4.5 or above (for tests taken from January 21, 2026 onwards); or IELTS (academic module) overall band score of 6.5 with no subtest score lower than 5.5.",
+        "Applicants whose degree is from a university outside of Hong Kong at which the language of teaching and/or examination is not English must take the TOEFL or IELTS.",
+        "Test score must be attained on or after 1 September 2025.",
+        "Composition fee of the programme — HK$648,000 (2027 intake)."
+      ],
+      "gaps": [
+        "No numeric GPA, honours class, or GMAT/GRE score.",
+        "Chinese degree title was not retrieved.",
+        "Medium of instruction was not stated on the admissions page opened.",
+        "Application deadline is not on the full-time admissions page. The portal deadline is from a search snippet; a later direct open failed.",
+        "TOEFL iBT Home Edition and IELTS One Skill Retake are not mentioned on this page."
+      ]
+    },
+    {
+      "id": "hku-mba-pt-hk",
+      "name_zh": "",
+      "name_en": "Master of Business Administration (Part-time, HK mode)",
+      "degree_label": "MBA",
+      "study_mode": ["Part-time"],
+      "duration": "The part-time admissions page gives a 2027 fee payable in 6 instalments over two years. A TPG portal search snippet describes part-time study as minimum two years, maximum four years, with expected duration 2 years.",
+      "location": "Hong Kong",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "Work experience as of August 2027. Portal search snippet: expected start September 2027.",
+      "academic": {
+        "text": "A recognised bachelor’s degree. Part-time FAQ: admissions consider degree honours/GPA, work experience, referees, personal statement, and interview performance. No minimum honours class or GPA is stated. FAQ: no particular undergraduate subject is preferred.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No particular undergraduate subject. FAQ: all subjects are considered relevant."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["IELTS academic module, as stated on the part-time HK page."],
+        "waiver": "Applicants whose degree is from a university outside of Hong Kong at which the language of teaching and/or examination is not English must take the TOEFL or IELTS.",
+        "validity": "Test score must be attained on or after 1 September 2025."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "It is required to take the GMAT/GRE/GRK/EA exam for part-time MBA admission. Candidates with more than 7 years of postgraduate full-time work experience might be exempt; any exemption is considered case by case after the admission interview. No numeric satisfactory score is published. Scores more than five years old are not accepted. Only the highest valid score is used. GMAT and EA code FS2-WL-67. GRE code 4136. This conflicts with a TPG portal snippet that says a satisfactory GMAT/GRE score is required for the full-time programme only."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "At least 2 years of postgraduate full-time work experience (as of August 2027). FAQ: the normal cut-off is two years of postgraduate full-time work experience. The same FAQ says part-time students have seven years on average; that average is not a minimum.",
+        "internship_required": false,
+        "internship_text": "Internship is not mentioned. The requirement is postgraduate full-time work experience. FAQ says managerial experience is not required."
+      },
+      "documents": [
+        "Official transcript and certified degree certificate, with certified English translations if needed.",
+        "GMAT, GRE, GRK, or EA unless an exemption is granted.",
+        "TOEFL or IELTS if required. TOEFL 9671 / 02. IELTS academic report to the MBA Admissions Office at Cyberport 4.",
+        "Two references, passport or HKID, professional resume.",
+        "Application fee HK$780."
+      ],
+      "interview": "Candidates are shortlisted for interviews. A second round or further documents may be required. GMAT-family exemption, if any, is considered after the interview. Decisions are generally 2 to 4 weeks after interviews.",
+      "deadlines": [
+        "Early Round: 9 November 2026. Applications are processed on a rolling basis.",
+        "Portal search snippet: Part-time (HK Mode) Early Round, 12:00 noon (GMT+8), 9 November 2026. Later rounds were not in the snippet."
+      ],
+      "tuition": "Composition fee HK$588,000 for the 2027 intake, payable in 6 instalments over two years, subject to final University approval. Deposit HK$50,000. Application fee HK$780.",
+      "apply_url": "https://mba.hkubs.hku.hk/part-time-mba/admissions/",
+      "source_urls": [
+        "https://mba.hkubs.hku.hk/part-time-mba/admissions/",
+        "https://mba.hkubs.hku.hk/part-time-mba-faqs/",
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-business-administration-hkubs"
+      ],
+      "official_quotes": [
+        "At least 2 years of postgraduate full-time work experience (as of August 2027).",
+        "It is required to take the GMAT/GRE/GRK/EA exam for part-time MBA admission. However, candidates with more than 7 years of postgraduate full-time work experience might be exempt from this requirement.",
+        "IELTS (academic module) overall band score of 6.0 with no subtest score lower than 5.5.",
+        "Early Round: 9 November 2026.",
+        "Composition fee of programme — HK$588,000 (2027 intake)."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE/GRK/EA score.",
+        "Chinese title was not retrieved from a page opened in full. The part-time FAQ URL was retrieved as a search snippet, not a full open.",
+        "Medium of instruction was not stated on the admissions page.",
+        "Conflict: the part-time site sets IELTS 6.0 and requires GMAT/GRE/GRK/EA with a possible exemption, while the MBA portal snippet lists IELTS 6.5 and says GMAT/GRE is required for the full-time programme only. A later direct open of the portal page failed.",
+        "TOEFL Home Edition and IELTS One Skill Retake are not mentioned on this page."
+      ]
+    },
+    {
+      "id": "hku-mba-pt-gba",
+      "name_zh": "",
+      "name_en": "Master of Business Administration (Part-time, GBA HK-SZ mode)",
+      "degree_label": "MBA",
+      "study_mode": ["Part-time"],
+      "duration": "2027 composition fee payable in 6 instalments over two years. Portal search snippet groups GBA with part-time study of minimum two years and maximum four years.",
+      "location": "Hong Kong and Shenzhen (GBA HK-SZ)",
+      "medium": "",
+      "intake": "2027",
+      "intake_cycle": "Work experience as of August 2027. Portal search snippet lists part-time expected start September 2027.",
+      "academic": {
+        "text": "A recognised bachelor’s degree. The English GBA page does not state a GPA or honours minimum. A GBA FAQ search snippet says honours/GPA is assessed overall and that there is no preferred undergraduate subject.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major is stated on the English admissions page."
+      },
+      "english": {
+        "ielts_overall": 6,
+        "ielts_min_sub": 5.5,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["IELTS academic module."],
+        "waiver": "Applicants whose degree is from a university outside of Hong Kong at which the language of teaching and/or examination is not English must take the TOEFL or IELTS.",
+        "validity": "Test score must be attained on or after 1 September 2025."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "The entry heading is a satisfactory GMAT/GRE/GRK/EA score. Candidates with more than 7 years of postgraduate full-time work experience might be exempted, case by case after the admission interview. No numeric score is published. Scores more than five years old are not accepted. Only the highest valid score is used. GMAT and EA code FS2-WL-67. GRE code 4136."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "At least 2 years of postgraduate full-time work experience (as of August 2027).",
+        "internship_required": false,
+        "internship_text": "Internship is not mentioned. The requirement is postgraduate full-time work experience."
+      },
+      "documents": [
+        "Official transcript and certified degree certificate, with certified English translations if needed.",
+        "GMAT, GRE, GRK, or EA unless exempted.",
+        "TOEFL or IELTS if required. TOEFL 9671 / 02.",
+        "Two references, passport or HKID, professional resume.",
+        "Supporting-documents checklist is labelled MBA 2027/28 Admissions for Part-time GBA mode.",
+        "Application fee HK$780."
+      ],
+      "interview": "The committee shortlists candidates for face-to-face group interviews. A second round or further documents may be required. Decisions are generally 2 to 4 weeks after interviews.",
+      "deadlines": [
+        "Early Round: 30 November 2026. Applications are processed on a rolling basis.",
+        "Portal search snippet: Part-time (GBA Mode) Early Round, 12:00 noon (GMT+8), 30 November 2026."
+      ],
+      "tuition": "Composition fee HK$588,000 for the 2027 intake, payable in 6 instalments over two years, subject to final University approval. Deposit HK$50,000. Application fee HK$780.",
+      "apply_url": "https://mba.hkubs.hku.hk/part-time-mba-gba/admissions/",
+      "source_urls": [
+        "https://mba.hkubs.hku.hk/part-time-mba-gba/admissions/",
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-business-administration-hkubs"
+      ],
+      "official_quotes": [
+        "At least 2 years of postgraduate full-time work experience (as of August 2027).",
+        "Candidates with more than 7 years of postgraduate full-time work experience might be exempted from this requirement. Exemption, if any, will be considered on a case-by-case basis after the admission interview.",
+        "IELTS (academic module) overall band score of 6.0 with no subtest score lower than 5.5.",
+        "we will shortlist the candidates for face-to-face group interviews.",
+        "Early Round: 30 November 2026.",
+        "Composition fee of programme — HK$588,000 (2027 intake)."
+      ],
+      "gaps": [
+        "No numeric GPA or GMAT/GRE/GRK/EA score.",
+        "Chinese title was not taken from a fully opened page.",
+        "Medium of instruction was not stated.",
+        "The same portal IELTS 6.5 versus mode-page IELTS 6.0 conflict noted for part-time HK also applies; the GBA page itself states 6.0.",
+        "TOEFL Home Edition and IELTS One Skill Retake are not mentioned on this page."
+      ]
+    },
+    {
+      "id": "hku-emba",
+      "name_zh": "高級管理人員工商管理學碩士",
+      "name_en": "Executive Master of Business Administration",
+      "degree_label": "EMBA",
+      "study_mode": ["Part-time"],
+      "duration": "2 years expected. Part-time, minimum two years, maximum four years.",
+      "location": "Hong Kong. September stream involves Peking University Guanghua. International Stream includes courses abroad.",
+      "medium": "",
+      "intake": "HKU EMBA September 2026; HKU EMBA-International Stream March 2027",
+      "intake_cycle": "September intake and March international intake, as stated on the TPG portal. This is the latest start-date text found; a 2027/28 EMBA intake was not published on the pages opened.",
+      "academic": {
+        "text": "Hold a Bachelor's degree or equivalent qualification from an HKU recognised university. Portal: a Bachelor's degree granted by a recognised university or an equivalent qualification.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated."
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["EMBA site: complete an English qualifying examination if the degree was gained from a university in which the medium of instruction is not English. Portal: fulfil the University's English language requirement for admission. The University taught-postgraduate page states TOEFL 80/4.5 and IELTS 6.0 with no subtest below 5.5, but the EMBA pages do not restate those numbers."],
+        "waiver": "The qualifying examination applies if degree qualifications are gained from a university in which the medium of instruction is not English.",
+        "validity": ""
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT and GRE are not mentioned on the EMBA admissions page or the EMBA portal entrance list."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "Have at least 8 years of experience at managerial level. Portal: minimum of eight years' managerial work experience.",
+        "internship_required": false,
+        "internship_text": "Internship is not mentioned."
+      },
+      "documents": [
+        "After initial screening, a formal invitation asks for identity documents, curriculum vitae, educational credentials and employment-history proofs, and two reference letters.",
+        "All documents should be in English unless otherwise specified.",
+        "Application fee HKD 1,800 on the EMBA site."
+      ],
+      "interview": "The application procedure includes attending an interview and an English test. An EMBA FAQ search snippet also says applicants attend an interview, and that the process is rolling until spots are filled. That FAQ page was not opened in full.",
+      "deadlines": [
+        "TPG portal: please contact the programme office for application details.",
+        "EMBA FAQ search snippet: the admissions process is rolling and the deadline is when the spots are filled. Not confirmed by a full page open."
+      ],
+      "tuition": "EMBA International Stream HK$1,060,000, subject to the University's final approval. Tuition does not include overseas-module costs. Application fee HKD 1,800. Portal fees: to be updated. The September-stream fee is not stated on the English admissions page opened.",
+      "apply_url": "https://emba.hkubs.hku.hk/admissions.html",
+      "source_urls": [
+        "https://emba.hkubs.hku.hk/admissions.html",
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=executive-master-of-business-administration-hkubs",
+        "https://portal.hku.hk/tpg-admissions/applying/admission-requirements"
+      ],
+      "official_quotes": [
+        "Hold a Bachelor's degree or equivalent qualification from an HKU recognised university.",
+        "Have at least 8 years of experience at managerial level.",
+        "Complete an English qualifying examination if their degree qualifications are gained from a university in which the medium of instruction is not English.",
+        "The tuition fee for the EMBA International Stream: HK$1,060,000.",
+        "HKU EMBA: September 2026; HKU EMBA-International Stream: March 2027.",
+        "Minimum of eight years' managerial work experience; and Fulfil the University's English language requirement for admission."
+      ],
+      "gaps": [
+        "No numeric IELTS or TOEFL score is printed on the EMBA pages. Numeric fields are left null rather than copied from the general University page.",
+        "No GPA and no GMAT/GRE rule.",
+        "September-stream tuition is not stated. Portal fee is 'To be updated'.",
+        "Chinese title 高級管理人員工商管理學碩士 is from a search snippet of the official Chinese admissions page, which was not opened in full.",
+        "Medium of instruction was not explicitly stated.",
+        "No 2027/28 intake page was found; the published starts are September 2026 and March 2027."
+      ]
+    },
+    {
+      "id": "hku-imba",
+      "name_zh": "",
+      "name_en": "Master of Business Administration (International)",
+      "degree_label": "IMBA",
+      "study_mode": ["Part-time"],
+      "duration": "2 years expected. Part-time in Shanghai and Hong Kong, minimum two years, maximum four years.",
+      "location": "Shanghai and Hong Kong",
+      "medium": "",
+      "intake": "2026 Fall",
+      "intake_cycle": "Portal expected programme start date: 2026 Fall. The published Round 7 deadline is in April 2026, which is before the retrieval date. No 2027/28 intake dates were on the portal page opened.",
+      "academic": {
+        "text": "A recognised Bachelor's degree or equivalent. No GPA or honours minimum is stated.",
+        "gpa_min_4": null,
+        "honours": "",
+        "grade_letter": "",
+        "major_prerequisite": "No major prerequisite is stated."
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "On the portal, TOEFL and IELTS are not listed as a universal English minimum. They are one possible way for applicants with more than seven years of work experience to be exempted from GRK/GMAT/GRE: TOEFL 80 before 21 January 2026 or 4.5 on or after that date (code 9671), or IELTS Academic overall 6 with no subtest lower than 5.5, or an English-medium degree, or a satisfactory IMBA English Admission Test, or a satisfactory EA score.",
+          "An IMBA FAQ search snippet, not opened in full, instead says a recognised English-medium degree OR satisfactory GRK/GMAT/EA/GRE/TOEFL/IELTS. That formulation differs from the portal."
+        ],
+        "waiver": "Portal exemption route only: applicants with more than seven years of work experience who obtained a degree from a university of which the medium of instruction was English might be exempted from the GRK/GMAT/GRE requirement.",
+        "validity": "The portal states GMAT and GRE results within 5 years. It does not state a separate TOEFL/IELTS validity period on the entrance list. A brochure search snippet says TOEFL and IELTS are valid for two years and are not Home Edition."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "Satisfactory GRK / GMAT / GMAT Executive Assessment / GRE scores. GRK: meeting the minimum scores of the year, which vary each year and are not printed as a number. GMAT ≥ 580; GMAT Focus Edition ≥ 545; result within 5 years. GRE: Verbal ≥ 150, Quantitative ≥ 150, total equivalent to GMAT ≥ 580; result within 5 years. Applicants with more than seven years of work experience might be exempted from GRK/GMAT/GRE by one of: a satisfactory IMBA English Admission Test; a satisfactory EA score; the TOEFL or IELTS scores above; or an English-medium degree."
+      },
+      "experience": {
+        "work_years_min": 3,
+        "work_text": "At least three years' successful business full-time work experience. An IMBA FAQ search snippet, not opened in full, says at least three years for a bachelor's degree or at least two years for a master's and/or doctoral degree. The portal page opened does not state the two-year master's route.",
+        "internship_required": false,
+        "internship_text": "Internship is not mentioned."
+      },
+      "documents": ["The portal page points to downloadable documents but the entrance text does not list them. They were not opened."],
+      "interview": "The portal entrance list does not mention an interview. An admissions-calendar search snippet for the 2026 intake lists interview dates for each round. That calendar page was not opened in full.",
+      "deadlines": [
+        "Portal: Round 7 Deadline: 24 April 2026. Earlier rounds are not printed on the page opened.",
+        "Admissions-calendar search snippet for admissions 2026: Round 7 application deadline 12 April 2026 and interview 25 April 2026. This date conflicts with the portal's 24 April 2026. The calendar page was not opened in full."
+      ],
+      "tuition": "Portal fees: to be updated. No tuition figure was on the page opened.",
+      "apply_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-business-administration-(international)-hkubs",
+      "source_urls": [
+        "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-business-administration-(international)-hkubs"
+      ],
+      "official_quotes": [
+        "A recognised Bachelor's degree or equivalent.",
+        "At least three years' successful business full time work experience.",
+        "GMAT: ≥ 580, GMAT Focus Edition ≥545 ; Test result within 5 years.",
+        "GRE: Verbal ≥ 150, Quantitative ≥150, Total equivalent to GMAT≥580; Test result within 5 years.",
+        "Applicants with more than seven years of work experience, by achieving at least ONE of the following, might be exempted from the GRK / GMAT / GRE requirement.",
+        "Part Time in Shanghai and Hong Kong (minimum two years, maximum four years).",
+        "Expected Programme Start Date: 2026 Fall. Round 7 Deadline: April 24, 2026."
+      ],
+      "gaps": [
+        "No numeric GPA. GRK and EA yearly minimums are said to vary and are not printed.",
+        "IELTS and TOEFL numbers on the portal are exemption routes for applicants with more than seven years of experience, so the universal IELTS/TOEFL fields are null.",
+        "Fees are 'To be updated'.",
+        "Chinese title, medium of instruction, and the document checklist were not on the portal text opened.",
+        "The latest published cycle on this page is 2026 Fall, with a deadline already past on 2026-10-21. No 2027/28 page was found.",
+        "FAQ and calendar details that differ from the portal come from search snippets, not full page opens."
+      ]
+    }
+  ],
+  "excluded_note": "PhD and MPhil are excluded. Doctor of Business Administration is also excluded: it is a professional doctorate on the HKU Business School TPG list, not a taught master's. Undergraduate degrees are excluded. The Graduate School admission page was checked and not used as the taught-master minimum because its notes refer to MPhil/PhD applications."
+}

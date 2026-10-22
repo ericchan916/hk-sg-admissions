@@ -1,0 +1,1880 @@
+{
+  "university_id": "cityu",
+  "name_zh": "香港城市大学",
+  "name_en": "City University of Hong Kong",
+  "business_school_zh": "香港城市大学商学院",
+  "business_school_en": "College of Business",
+  "qs_world_2027_rank": 52,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "cycle": "2027/28",
+    "general_entrance": {
+      "text": "Applicants must satisfy the University general entrance requirements and the entrance requirements specific to individual programmes. For master's programmes, applicants must hold a bachelor's degree from one of the universities in Hong Kong or from an overseas institution recognised for this purpose by the University, or such other qualifications as the University deems equivalent. Final-year undergraduates who will acquire the qualification before the programme starts may apply.",
+      "gpa_min_4": null,
+      "note": "No university-wide GPA floor is stated on the College admissions page."
+    },
+    "english": {
+      "text": "Applicants whose entrance qualification was obtained from an institution where the medium of instruction is not English should meet a minimum of TOEFL iBT 79, or IELTS overall 6, or band 6 in the Chinese mainland College English Test, or other equivalent qualifications. The College page does not give the 21 January 2026 TOEFL scale split; programme pages do. Individual Colleges and Schools may set a higher requirement. CET-6 numeric scores are programme-specific.",
+      "ielts_overall": 6,
+      "toefl_ibt": 79,
+      "cet6": "band 6, with the numeric score set on each programme page",
+      "rejected": [
+        "TOEFL iBT Home Edition",
+        "TOEFL MyBest Score",
+        "IELTS Indicator",
+        "IELTS One Skill Retake",
+        "IELTS Online"
+      ],
+      "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period.",
+      "toefl_code": "3401",
+      "ielts_delivery": "IELTS Results Service e-delivery to the University"
+    },
+    "documents": [
+      "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+      "Supporting documents are uploaded online. Submission by email or post is not accepted."
+    ],
+    "processing": "Applications are processed on a rolling basis. Review starts before the deadline and continues until places are filled.",
+    "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+    "source_urls": [
+      "https://www.cb.cityu.edu.hk/masters/admissions/admissions-requirements",
+      "https://www.cb.cityu.edu.hk/masters/admissions/application-procedure",
+      "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship",
+      "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list",
+      "https://www.cb.cityu.edu.hk/masters/our-programmes",
+      "https://www.cb.cityu.edu.hk/en/programmes/executive"
+    ],
+    "notes": [
+      "Where the College general English minimum differs from a programme page, the programme page is used. The general minimum is IELTS 6.0 / TOEFL 79 / CET band 6. Several programmes require IELTS 6.5, CET-6 450 or 490, or a post-21 January 2026 TOEFL of 4 or 4.5.",
+      "Doctoral programmes on the College of Business list are excluded: Doctor of Business Administration, DBA taught in Chinese, and the CityU-Fudan IDBA. PCLL and JD are not College of Business programmes.",
+      "No 2027/28 programme titled MSc Organizational and Change Management, MSc Professional Accounting as its own code, or MSc Electronic Commerce was found. Professional Accounting is a stream of P10. Digital commerce is P17.",
+      "Direct requests to www.cityu.edu.hk postgraduate HTML were blocked by Incapsula. Facts taken from those URLs come from search-tool extracts of the official pages. Pages on cb.cityu.edu.hk, mba.cb.cityu.edu.hk and the Global EMBA site were fetched directly.",
+      "qs_world_2027_rank is the value requested for this file. An opened FinTech programme page says the College of Business is ranked 52nd worldwide in Accounting and Finance by QS, which is a subject rank, not a check of the QS World University Rankings.",
+      "No opened page states a numeric GPA minimum for these taught programmes."
+    ]
+  },
+  "programs": [
+    {
+      "id": "p11",
+      "name_zh": "工商管理碩士",
+      "name_en": "Master of Business Administration",
+      "degree_label": "MBA",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "MBA site (2027/28 fee tables): full-time weekday mode 12 months; full-time weekend mode 12 or 18 months; part-time 24 months; 40 credits. PG page maximum: 2.5 years full-time; 5 years part-time/combined. The PG page normal study period was not in the retrieved excerpt.",
+      "location": "Hong Kong. Experiential study trips may be outside Hong Kong; students pay their own accommodation and airfare.",
+      "medium": "English",
+      "intake": 110,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A bachelor's degree from a recognised university or equivalent. No GPA floor or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 450 in the new College English Test (CET6) of Chinese mainland or a pass in the old CET-6 test; or other equivalent qualifications/alternative English test",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not required for applicants with more than two years of work experience at the time of application. Applicants with less than two years of work experience may receive a conditional offer upon a satisfactory GMAT or GRE score. GMAT institution codes: 54Q-QT-88 (full-time); 54Q-QT-22 (part-time). GRE institution code: 3198."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably at least 2 years of full-time post-graduate work experience as of September 2027. Not stated as an absolute minimum.",
+        "internship_required": false,
+        "internship_text": "MBA Internship / Community Service appears as a course option, not as an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Shortlisted candidates will be invited to an interview, face-to-face or online. Separately, IELTS 6.0 overall or TOEFL 4 requires an English-proficiency interview; a TOEFL 79 or above on the report may exempt that English interview.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2026-11-18",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 18 November 2026 (HKT 23:59). MBA site calls this the next-round deadline."
+        }
+      ],
+      "tuition": {
+        "local_hkd": 512000,
+        "non_local_hkd": 560000,
+        "credits": 40,
+        "text": "Estimated total programme fees for 2027/28: HK$512,000 (local) / HK$560,000 (non-local). Same figures for full-time weekday (12 months), full-time weekend (12 or 18 months) and part-time (24 months). Additional fees for experiential study trips. Graduation fee HK$400. Fees non-refundable and subject to yearly review.",
+        "source": "https://mba.cb.cityu.edu.hk/en/full-time-mba/admissions-requirements-tuition-and-scholarships and https://mba.cb.cityu.edu.hk/part-time-mba/tuition--scholarships"
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p11",
+        "https://mba.cb.cityu.edu.hk/en/full-time-mba/admissions-requirements-tuition-and-scholarships",
+        "https://mba.cb.cityu.edu.hk/part-time-mba/tuition--scholarships",
+        "https://www.cb.cityu.edu.hk/en/programmes/executive",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "A bachelor’s degree from a recognised university or equivalent.",
+        "Preferably at least 2 years of full-time post-graduate work experience as of September 2027.",
+        "GMAT/GRE is not required for applicants with more than two years of work experience at the time of application. Applicants with less than two years of work experience may receive a conditional offer of admission upon the submission of a satisfactory GMAT or GRE score.",
+        "a score of 79 (for tests taken prior to 21 January 2026) or 4 (for tests taken from 21 January 2026 onwards) (Internet-based Test) in the Test of English as a Foreign Language (TOEFL); or an overall band score of 6.0 in IELTS; or a score of 450 in the new College English Test (CET6) of Chinese mainland or a pass in the old CET-6 test.",
+        "TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake and IELTS Online are NOT accepted."
+      ],
+      "gaps": [
+        "PG programme page normal study period was not in the retrieved excerpt; duration above is from the MBA tuition pages opened directly.",
+        "Full weekend-mode class schedule on the PG page was truncated in the retrieved text after 'Full-time (Weekend Mode):'.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p12",
+      "name_zh": "行政人員工商管理碩士",
+      "name_en": "Executive Master of Business Administration (EMBA)",
+      "degree_label": "EMBA",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time mode: 1 year; part-time/combined mode: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. Minimum 40 credits.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": 40,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A recognised bachelor's degree with at least Second-Class Honours or equivalent from a recognised university. Applicants without the specified qualifications but with exceptionally good alternative qualifications or substantial current managerial experience may also be considered.",
+        "gpa_min_4": null,
+        "honours": "At least Second-Class Honours or equivalent",
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "PG page: a score of 450 in band 6 in the Chinese Mainland’s College English Test (CET-6). Global EMBA entry page: a score of 450 in the new College English Test (CET6) of Chinese mainland or a pass in the old CET-6 test; or other equivalent qualifications/alternative English test.",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not stated on the Global EMBA entry-requirements page or in the retrieved PG entrance text."
+      },
+      "experience": {
+        "work_years_min": 10,
+        "work_text": "At least 10 years of professional and/or managerial experience (as of September 2027), stated on the Global EMBA entry-requirements page.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Global EMBA entry page: all shortlisted candidates are required to attend an interview. PG page also requires an English-proficiency interview for IELTS overall 6.0 or TOEFL 4, with a possible exemption if the TOEFL report shows 79 or above. The Global EMBA page uses '#' for ETS submission, not for that interview rule.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2026-12-10",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 10 Dec 2026"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 936000,
+        "application_fee_hkd": 1000,
+        "text": "Tuition fee HK$936,000 (2027 intake), subject to approval by City University of Hong Kong. Online application fee HK$1,000.",
+        "source": "https://www.cb.cityu.edu.hk/en/globalemba/admissions/fees-and-scholarships"
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p12",
+        "https://www.cb.cityu.edu.hk/globalemba/admissions/entry-requirements",
+        "https://www.cb.cityu.edu.hk/en/globalemba/admissions/fees-and-scholarships",
+        "https://www.cb.cityu.edu.hk/en/programmes/executive",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "A recognised Bachelor’s degree with at least Second-Class Honours or equivalent from a recognised university.",
+        "At least 10 years of professional and/or managerial experience (as of September 2027).",
+        "Be proficient in English.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "All shortlisted candidates are required to attend an interview."
+      ],
+      "gaps": [
+        "Conflict: the retrieved PG entrance block starts at the English rules and does not restate the Second-Class Honours or 10-year experience lines. Those lines are on the Global EMBA entry-requirements page, which was opened. Programme-specific page is used for the academic and experience rules.",
+        "Conflict on CET-6: PG wording is '450 in band 6'; Global EMBA page adds 'or a pass in the old CET-6 test' and says 'new College English Test (CET6)'. Both are recorded; PG wording is the primary CET line.",
+        "Conflict on the '#' note and rejected test variants: the PG page states the English interview for IELTS 6.0/TOEFL 4 and rejects Home Edition, MyBest, IELTS Indicator, One Skill Retake and IELTS Online. The Global EMBA entry page, as opened, does not list those rejected variants and uses '#' only for the ETS institution code.",
+        "No numeric GPA is published. SGS fee HTML could not be opened directly."
+      ]
+    },
+    {
+      "id": "p01a",
+      "name_zh": "行政人員工商管理碩士",
+      "name_en": "Executive Master of Business Administration (Taught in Chinese)",
+      "degree_label": "EMBA (Taught in Chinese)",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. Minimum 40 credits.",
+      "location": "Hong Kong, with overseas module(s) in some months.",
+      "medium": "Chinese (Putonghua)",
+      "intake": 55,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a bachelor’s degree with at least Second Class Honours or equivalent from a recognized university.",
+        "gpa_min_4": null,
+        "honours": "At least Second Class Honours or equivalent",
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "No English-test rule is stated on the programme page. Medium of instruction and assessment is Chinese (Putonghua)."
+        ],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": 6,
+        "work_text": "Possess at least 6 years of significant managerial experience.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Not stated on the programme page.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-08-20",
+          "time": "23:59 HKT",
+          "text": "Programme list (2027/28), local column: 20 Aug 2027. Programme page timestamp 20270820T155900Z is 20 Aug 2027 23:59 HKT."
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-07-14",
+          "time": "23:59 HKT",
+          "text": "Programme list (2027/28), non-local column: 14 Jul 2027. Not separately labeled on the retrieved programme-page deadline timestamps."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 965600,
+        "text": "For students admitted in 2027/28: total programme fee HK$965,600 paid in two instalments of HK$482,800.",
+        "source": "http://www.cityu.edu.hk/sgs/files/fees/tpg/P01A/index.htm"
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p01a",
+        "http://embachinese.cb.cityu.edu.hk/",
+        "http://www.cityu.edu.hk/sgs/files/fees/tpg/P01A/index.htm",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a Bachelor’s degree with at least Second Class Honours or equivalent from a recognized university; and possess at least 6 years of significant managerial experience.",
+        "The programme will be taught in Chinese (Putonghua).",
+        "This programme will be taught in Putonghua."
+      ],
+      "gaps": [
+        "Programme page does not state IELTS, TOEFL or CET-6. The College general page still publishes a university English minimum for applicants whose entrance qualification was not taught in English. Whether that minimum applies to this Putonghua programme is not confirmed on the programme page.",
+        "Direct fetch of embachinese.cb.cityu.edu.hk returned HTTP 307 with no body. Direct fetch of the SGS fee page was blocked by Incapsula; the HK$965,600 figure is from the search-tool extract of that official URL.",
+        "An unlabeled programme-page timestamp 20260915T020000Z (15 Sep 2026 10:00 HKT) sits beside the 20 Aug 2027 timestamp. The programme list does not show 15 Sep 2026 as the deadline.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p01b",
+      "name_zh": "行政人員工商管理碩士",
+      "name_en": "Executive Master of Business Administration (Taught in Chinese), PPP concentration (EMBA + MPA option with Tsinghua)",
+      "degree_label": "EMBA (Taught in Chinese)",
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "Normal 2 years; maximum 5 years. Minimum 40 credits. Joint site also describes 2–2.5 years part-time, maximum 5 years.",
+      "location": "CityUHK in Hong Kong. The joint EMBA+MPA site also lists teaching at Tsinghua University in Beijing, or another place agreed by both sides, for the MPA option.",
+      "medium": "Chinese (Putonghua)",
+      "intake": 40,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "PG page: a bachelor’s degree with at least Second Class Honours or equivalent from a recognized university. Joint site Chinese text: a recognised bachelor's degree or a professional qualification treated as equivalent; it does not restate Second Class Honours.",
+        "gpa_min_4": null,
+        "honours": "At least Second Class Honours or equivalent (PG programme page)",
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "No English-test rule is stated on the PG programme page. Taught in Chinese (Putonghua)."
+        ],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": 6,
+        "work_text": "PG page: at least 6 years of significant managerial experience. Joint application page: 6 or more years of work experience, and notes that mainland Chinese applicants must take the mainland postgraduate unified examination to meet Tsinghua MPA admission requirements. The mode page says at least six years of work experience for senior figures in government or business, profession unrestricted.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted.",
+        "CityU application fee on the joint site: HK$1,000. A full document checklist was not stated beyond 'prepare application materials'."
+      ],
+      "interview": "Joint application process: applicants are invited to a joint interview hosted by both institutions, in Hong Kong or Beijing, with remote video in individual cases. Not stated on the retrieved PG entrance block.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-07-31",
+          "time": "23:59 HKT",
+          "text": "Local: 31 Jul 2027"
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-06-30",
+          "time": "23:59 HKT",
+          "text": "Non-local: 30 Jun 2027"
+        }
+      ],
+      "tuition": null,
+      "apply_url": "https://www.cb.cityu.edu.hk/emba_tsinghua-mpa/",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p01b",
+        "https://www.cb.cityu.edu.hk/emba_tsinghua-mpa/process/",
+        "https://www.cb.cityu.edu.hk/emba_tsinghua-mpa/programme/mode/",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a Bachelor’s degree with at least Second Class Honours or equivalent from a recognized university; and possess at least 6 years of significant managerial experience.",
+        "The programme will be taught in Chinese (Putonghua).",
+        "Students enrolled in CityU EMBA (Chinese) programme with PPP concentration will be given the option to enroll simultaneously in the Master of Public Administration (MPA) degree offered by Tsinghua University as long as they have met the admission requirements of MPA programme."
+      ],
+      "gaps": [
+        "The CityU award on this code is the EMBA. The Tsinghua MPA is a separate degree and is not treated as a CityU College of Business master's.",
+        "Conflict: PG page requires Second Class Honours and 'significant managerial' experience. The joint site's Chinese pages say a recognised bachelor degree (or equivalent professional qualification) and six years of work experience, without the honours class. PG page is treated as primary.",
+        "No IELTS/TOEFL/CET figure on the programme page. College general English minimum is not confirmed as applying.",
+        "Tuition for P01B was not on an opened page. SGS fee URL was blocked by Incapsula.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p02",
+      "name_zh": "文學碩士(國際會計學)",
+      "name_en": "MA International Accounting",
+      "degree_label": "MA",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 235,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold an accounting or finance degree from a recognised university, or an equivalent qualification acceptable to CityUHK.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Accounting or finance degree, or an equivalent qualification acceptable to CityUHK"
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 450 in band 6 in the Chinse Mainland’s College English Test (CET-6). The spelling 'Chinse' is on the page.",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably possess 2 years of experience in accounting or business disciplines. Not stated as a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-02-28",
+          "time": "23:59 HKT",
+          "text": "Programme-list row shows 28 Feb 2027. Page timestamp 20270228T155900Z is 28 Feb 2027 23:59 HKT. The page extract was not labeled 'Local & Non-local', unlike some other programmes."
+        }
+      ],
+      "tuition": {
+        "programme_page_hkd": 348000,
+        "college_masters_list_hkd": 384000,
+        "text": "Programme page: HKD 348,000. College master's tuition list: HKD 384,000. Programme page treated as primary.",
+        "sources": [
+          "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-accountancy/ma-international-accounting",
+          "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship"
+        ]
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-accountancy/p02",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-accountancy/ma-international-accounting",
+        "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold an accounting or finance degree from a recognised university; or hold an equivalent qualification acceptable to CityUHK; and preferably possess 2 years of experience in accounting or business disciplines.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score of 450 in band 6 in the Chinse Mainland’s College English Test (CET-6).",
+        "'TOEFL iBT Home Edition', 'TOEFL MyBest Score', 'IELTS Indicator', 'IELTS One Skill Retake' and 'IELTS Online' are not acceptable."
+      ],
+      "gaps": [
+        "Tuition conflict: programme page HKD 348,000 versus College master's tuition page HKD 384,000. SGS fee page not opened.",
+        "Medium of instruction is not explicitly stated on the opened pages.",
+        "Unlabeled timestamp 20260915T020000Z appeared with the deadline and is not the date on the programme list.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p10",
+      "name_zh": "理學碩士(專業會計與企業管治)",
+      "name_en": "MSc Professional Accounting and Corporate Governance",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time/combined: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits. Two streams: Professional Accounting and Corporate Governance.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 300,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Professional Accounting stream: a non-accounting degree from a recognised university, or an equivalent qualification acceptable to CityUHK. Corporate Governance stream: a degree from recognised universities or professional membership from recognized institutions, or an equivalent qualification acceptable to CityUHK.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Professional Accounting stream requires a non-accounting degree. Corporate Governance stream accepts a degree or recognised professional membership."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in band 6 in the Chinese Mainland’s College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": "Professional Internship is an optional stream elective, not an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-02-28",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 28 Feb 2027"
+        }
+      ],
+      "tuition": {
+        "programme_page_hkd": 348000,
+        "college_masters_list_hkd": 384000,
+        "text": "Programme page: HKD 348,000. College master's tuition list: HKD 384,000. The PG page has a Tuition Fee heading but the amount was not in the retrieved excerpt. Programme page treated as primary.",
+        "sources": [
+          "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-accountancy/msc-professional-accounting-and-corporate-governance",
+          "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship"
+        ]
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-accountancy/p10",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-accountancy/msc-professional-accounting-and-corporate-governance",
+        "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "For Professional Accounting Stream, applicants must: hold a non-accounting degree from a recognised university; or hold an equivalent qualification acceptable to CityUHK.",
+        "For Corporate Governance Stream, applicants must: hold a degree from recognised universities or professional membership from recognized institutions; or hold an equivalent qualification acceptable to CityUHK.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in band 6 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "There is no separate 2027/28 admission code titled only 'MSc Professional Accounting'. That title is a stream of P10.",
+        "Tuition conflict: HKD 348,000 on the programme page versus HKD 384,000 on the College tuition list.",
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA or work-year minimum is published."
+      ]
+    },
+    {
+      "id": "p83",
+      "name_zh": "理學碩士(智能會計與金融科技應用)",
+      "name_en": "MSc Accounting and Finance with AI and Fintech Applications (Taught in Chinese)",
+      "degree_label": "MSc",
+      "study_mode": [
+        "part-time"
+      ],
+      "duration": "2 years; maximum 5 years. 30 credits.",
+      "location": "Most of the classes will be taught in Beijing.",
+      "medium": "Chinese (Putonghua) supplemented by English",
+      "intake": 100,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "An undergraduate or higher degree in accounting, finance, or other related disciplines from an institute recognized by the University, or an equivalent qualification. Applicants without an accounting or finance degree, and without at least two accounting or finance subjects in that degree, must pass 3 to 5 BNAI distance-learning professional foundation courses of 75 to 125 hours. If a particularly good applicant does not meet the admission requirements, CityUHK may consider other outstanding qualities.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Accounting, finance, or a related discipline, unless the BNAI foundation courses are completed."
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "No IELTS, TOEFL or CET-6 score is stated on the programme page."
+        ],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": 6,
+        "work_text": "6 or more years of related working experience, with at least two years relating to accounting or finance operations at manager level.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Not stated on the retrieved programme page.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 31 May 2027"
+        }
+      ],
+      "tuition": null,
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-accountancy/p83",
+        "https://www.cb.cityu.edu.hk/ac/mscaf/introduction/",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "Obtained an undergraduate or higher degree in accounting, finance, or other related disciplines from an institute recognized by our University or equivalent qualification.",
+        "Obtained 6 or more years of related working experience with at least two years relating to accounting or finance operations at the manager level.",
+        "The programme will be taught in Chinese (Putonghua) supplemented by English.",
+        "Most of the classes will be taught in Beijing."
+      ],
+      "gaps": [
+        "The programme-detail URL cited on the PG page (https://www.cb.cityu.edu.hk/ac/mscaf/introduction/) was not opened, so any extra rules there are not included.",
+        "No English-test score is published on the PG page. The College general English minimum is not confirmed as applying.",
+        "Tuition was not on an opened page. This programme is not on the College master's tuition table that was opened.",
+        "No numeric GPA is published. The asterisk in the programme title was not defined in the retrieved text."
+      ]
+    },
+    {
+      "id": "p09",
+      "name_zh": "理學碩士(營運與供應鏈管理)",
+      "name_en": "MSc Operations and Supply Chain Management",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 240,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor's degree. No major is specified.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a minimum score of 450 in the Chinese Mainland's College English Test (CET6)",
+            "score": 450
+          },
+          "The programme page does not state the IELTS 6.0 / TOEFL 4 English-interview rule used by many other College of Business programmes. IELTS minimum here is 6.5 and the post-21 January 2026 TOEFL figure is 4.5, not 4."
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Working experience is preferred but NOT required.",
+        "internship_required": false,
+        "internship_text": "Internship Project is an elective course, not an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "No admission interview rule is stated.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-04-30",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 30 Apr 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 330000,
+        "text": "HKD 330,000 on both the programme page and the College master's tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-decision-analytics-and-operations/p09",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-decision-analytics-and-operations/msc-operations-and-supply-chain-management",
+        "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "Applicants must hold a recognized Bachelor's degree.",
+        "Working experience is preferred but NOT required.",
+        "a score of 79 (for tests taken prior to 21 January 2026) or 4.5 (for tests taken from 21 January 2026 onwards) (Internet-based Test) in the Test of English as a Foreign Language (TOEFL); or an overall band score of 6.5 in IELTS; or a minimum score of 450 in the Chinese Mainland's College English Test (CET6).",
+        "'TOEFL iBT Home Edition', 'TOEFL MyBest Score', 'IELTS Indicator', 'IELTS One Skill Retake' and 'IELTS Online' are not acceptable."
+      ],
+      "gaps": [
+        "Medium of instruction is not explicitly stated.",
+        "No sub-score, GPA, or honours class is published.",
+        "No English-proficiency interview rule is stated, unlike IELTS 6.0 programmes."
+      ]
+    },
+    {
+      "id": "p84",
+      "name_zh": "理學碩士(商業及數據分析)",
+      "name_en": "MSc Business and Data Analytics",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time/combined: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits. One programme with two streams: Information Analytics Management (IAM) and Quantitative Analysis for Business (QAB). A student is admitted to one stream.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 390,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor’s degree in any discipline with the curricula covering appropriate mathematical knowledge.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline, provided the curriculum covers appropriate mathematical knowledge."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the Chinese Mainland’s College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Relevant working experience, if any, is one selection factor. Not stated as required.",
+        "internship_required": false,
+        "internship_text": "Business Practice Internship is an IAM stream elective, not an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Selection includes performance in the interview, plus academic performance, relevant working experience if any, motivation and potential. The English-proficiency interview rule for IELTS 6.0 or TOEFL 4 also applies.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-04-30",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 30 Apr 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 360000,
+        "text": "HKD 360,000 on the programme pages and on the College tuition list for both the IAM and QAB listings."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p84",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-business-and-data-analytics-information-analytics-management-iam-stream",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-decision-analytics-and-operations/msc-business-and-data-analytics-quantitative-analysis-for-business-qab-stream",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a recognized Bachelor’s degree in any disciplines with the curricula covering appropriate mathematical knowledge.",
+        "Selection will be based on the candidate’s academic performance in previous studies, relevant working experience (if any), motivation and potential of the candidate and performance in the interview.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "The 2027/28 list shows P84 more than once because the same code is associated with the College and with more than one department. It is one programme code, not three programmes.",
+        "Stream-specific academic differences are not stated; both stream pages use the same entrance text.",
+        "Medium of instruction is not explicitly stated. No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p94",
+      "name_zh": "理學碩士(金融科技與數字資產)",
+      "name_en": "MSc FinTech and Digital Assets",
+      "degree_label": "MSc",
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "Full-time: 1 year. Maximum: 2.5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 50,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Admissions follow the University general entrance requirements. Applicants should normally hold a recognised bachelor’s degree in finance, economics, business, information systems, computer science, engineering, mathematics, statistics or a related discipline. Other backgrounds may be considered with adequate quantitative skills and strong motivation.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Normally finance, economics, business, information systems, computer science, engineering, mathematics, statistics or a related discipline."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 450 in the band 6 in the Chinese Mainland’s College English Test (CET6). The page also says applicants holding CET6 results may refer to the score requirement specified for individual programmes on the admissions website.",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Prior work experience in finance, technology or related sectors is not mandatory. Relevant professional experience in financial institutions, technology firms, regulators or start-ups will be favourably considered.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2026-12-31",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 31 Dec 2026"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 384000,
+        "text": "HKD 384,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/college-of-business/p94",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/college-of-business/msc-in-fintech-and-digital-assets",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "Applicants should normally hold a recognised bachelor’s degree in finance, economics, business, information systems, computer science, engineering, mathematics, statistics or a related discipline.",
+        "Prior work experience in finance, technology or related sectors is not mandatory, but applicants with relevant professional experience in financial institutions, technology firms, regulators or start-ups will be favourably considered.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score of 450 in the band 6 in the Chinese Mainland’s College English Test (CET6)."
+      ],
+      "gaps": [
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p04",
+      "name_zh": "理學碩士(金融學)",
+      "name_en": "MSc Finance",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time/combined: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 240,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a bachelor’s degree from a recognized university. No major is specified.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 490 in the Chinese mainland's College English Test (CET-6)",
+            "score": 490
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably possess more than 1 year of work experience in the industry. Not stated as a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-03-31",
+          "time": "23:59 HKT",
+          "text": "Programme list shows 31 Mar 2027. Not labeled local versus non-local in the retrieved programme-page excerpt; treated as one deadline for both, consistent with the single list date."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 402000,
+        "text": "HKD 402,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-economics-and-finance/p04",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-economics-and-finance/msc-finance",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a bachelor’s degree from a recognized university; and preferably possess more than 1 year of work experience in the industry.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 490 in the Chinese mainland's College English Test (CET-6).",
+        "'TOEFL iBT Home Edition', 'TOEFL MyBest Score', 'IELTS Indicator', 'IELTS One Skill Retake' and 'IELTS Online' are not acceptable."
+      ],
+      "gaps": [
+        "The retrieved programme page did not print the words 'Local & Non-local' next to 31 Mar 2027.",
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p13",
+      "name_zh": "理學碩士(應用經濟學)",
+      "name_en": "MSc Applied Economics",
+      "degree_label": "MSc",
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "1 year, expected to graduate within one year. Maximum 2.5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 220,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a bachelor’s degree from a recognized university. An undergraduate degree in economics or related areas is not a prerequisite. A solid quantitative background is encouraged.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Economics is not a prerequisite."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 490 in the Chinese mainland's College English Test (CET-6)",
+            "score": 490
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": null,
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-03-31",
+          "time": "23:59 HKT",
+          "text": "Programme list shows 31 Mar 2027. Page timestamp 20270331T155900Z is 31 Mar 2027 23:59 HKT."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 354000,
+        "text": "HKD 354,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-economics-and-finance/p13",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-economics-and-finance/msc-applied-economics",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "Applicants must hold a bachelor’s degree from a recognized university. An undergraduate degree in economics or related areas is not a pre-requisite.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 490 in the Chinese mainland's College English Test (CET-6)."
+      ],
+      "gaps": [
+        "Unlabeled timestamp 20260915T020000Z appeared with the deadline and is not the programme-list deadline.",
+        "Medium of instruction is not explicitly stated. No work-experience rule and no numeric GPA are published."
+      ]
+    },
+    {
+      "id": "p15",
+      "name_zh": "理學碩士(金融工程學)",
+      "name_en": "MSc Financial Engineering",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time/combined: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 100,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a bachelor’s degree from a recognized university, and have a strong foundation in quantitative analysis.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "band 6 in the Chinese Mainland's College English Test (CET6); the programme page does not state a numeric score. The asterisk on the page was not resolved to a number in the text retrieved."
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably possess more than 1 year of work experience in the industry. Not stated as a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-03-31",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 31 Mar 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 402000,
+        "text": "HKD 402,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-economics-and-finance/p15",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-economics-and-finance/msc-financial-engineering",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a bachelor’s degree from a recognized university; and preferably possess more than 1 year of work experience in the industry; and have a strong foundation in quantitative analysis.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "band 6 in the Chinese Mainland’s College English Test (CET6)."
+      ],
+      "gaps": [
+        "CET-6 is stated as band 6 with an asterisk and no numeric score. Unlike MSc Finance and MSc Applied Economics, this page does not say 490. The number is not invented.",
+        "Medium of instruction is not explicitly stated. No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p05a",
+      "name_zh": "理學碩士(商務資訊系統) - 智能系統管理方向",
+      "name_en": "MSc Business Information Systems (Management of Intelligent Systems Stream)",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 175,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor's degree in any subject, preferably not in information systems or computer science, from a Hong Kong UGC-funded tertiary institution or equivalent.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Preferably not information systems or computer science."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the Chinese Mainland's College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": null,
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Programme list shows 31 May 2027. The sister stream P05B is explicitly 'Local & Non-local: 31 May 2027'. P05A's retrieved page text was not separately labeled."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 330000,
+        "text": "HKD 330,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-information-systems/p05a",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-business-information-systems-management-of-intelligent-systems-stream",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a recognized Bachelor's degree in any subjects, preferably not in Information Systems or Computer Science related discipline, from one of the tertiary education institutions in Hong Kong funded by the University Grant Committee (UGC), or equivalent.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "Deadline label 'Local & Non-local' was confirmed on P05B, not in the P05A excerpt.",
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA or work-year minimum is published."
+      ]
+    },
+    {
+      "id": "p05b",
+      "name_zh": "理學碩士(商務資訊系統) - 金融與智能科技方向",
+      "name_en": "MSc Business Information Systems (Financial and Intelligent Technology Stream)",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 165,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor's degree from a Hong Kong UGC-funded tertiary institution, or equivalent, with intermediate-level knowledge of IT/IS or finance/accounting, shown by fundamental undergraduate courses or related working experience.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Intermediate IT/IS or finance/accounting knowledge."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the Chinese Mainland's College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Related working experience can be used to show intermediate IT/IS or finance/accounting knowledge. No minimum number of years is stated.",
+        "internship_required": false,
+        "internship_text": "Business Practice Internship is an elective, not an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 31 May 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 330000,
+        "text": "HKD 330,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-information-systems/p05b",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-business-information-systems-financial-and-intelligent-technology-stream",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a recognized Bachelor's degree from one of the tertiary education institutions in Hong Kong funded by the University Grant Committee (UGC), or equivalent, with intermediate level knowledge on IT/IS or Finance/Accounting.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p16",
+      "name_zh": "理學碩士(數碼化轉型及科技創新)",
+      "name_en": "MSc Digital Transformation and Technological Innovation",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 100,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor’s degree, preferably in a business or management related subject, from a UGC-funded tertiary institution in Hong Kong or an equivalent institution overseas, and have a basic level of computer literacy.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Preferably business or management. Basic computer literacy is required."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the Chinese Mainland’s College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably two or more years of working experience. Not stated as a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "English-proficiency interview if TOEFL overall is 4. Other interviews may not be required.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-07-31",
+          "time": "23:59 HKT",
+          "text": "Programme list local column: 31 Jul 2027."
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Programme list non-local column: 31 May 2027. The programme-page deadline labels were not in the retrieved excerpt."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 306000,
+        "text": "HKD 306,000 on the programme page and the College tuition list. Also named under the Hong Kong Future Talents Scholarship Scheme for Advanced Studies for local students on the College tuition page."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-information-systems/p16",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-digital-transformation-and-technological-innovation",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list",
+        "https://www.cb.cityu.edu.hk/masters/admissions/tuition-fees-scholarship"
+      ],
+      "official_quotes": [
+        "hold a recognized Bachelor’s degree, preferably in a business or management related subject from a UGC-funded tertiary education institution in Hong Kong, or an equivalent institution overseas; have gained a basic level of computer literacy; and preferably have two or more years of working experience.",
+        "an overall band score of 6.5 in International English Language Testing System (IELTS).",
+        "a score 450 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "Local and non-local deadlines are taken from the two columns of the 2027/28 programme list. The programme-page deadline line itself was not retrieved.",
+        "Medium of instruction is not explicitly stated. No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p17",
+      "name_zh": "理學碩士(數字商務與計算)",
+      "name_en": "MSc Digital Commerce and Computing",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year (2–3 semesters); full-time with year-long internship/project: 2 years; part-time: 2 years (5 semesters). Maximum: full-time 2.5 years; full-time with year-long internship/project 3 years; part-time/combined 5 years. 33 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 200,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Satisfy the general entrance requirements and have a recognised bachelor's degree in a computing discipline (for example computer science, information systems, information technology); or a recognised bachelor's degree in a related discipline (for example electronic engineering, economics and finance, applied mathematics, manufacturing engineering, business information technology), preferably with applicable IT experience; or a good alternative qualification with substantial IT professional experience acceptable to the University; and a sufficient command of English.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Computing, or a related discipline preferably with IT experience, or substantial IT professional experience with an alternative qualification."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 450 in the Chinese mainland’s College English Test Band 6 (CET-6). There is no validity period for CET-6.",
+            "score": 450
+          },
+          "IELTS must be Academic. IELTS (UKVI) (Academic) for a UK student visa is acceptable.",
+          "English tests stated as NOT acceptable: Duolingo, GMAT, GRE, IELTS Indicator, IELTS One Skill Retake, IELTS Online, TOEFL iBT Home Edition, TOEFL MyBest Score, TOEIC, and 'Others'.",
+          "TOEFL institution code 3401 (Graduate School Admissions), department code 99. IELTS via e-delivery to the University.",
+          "This rule applies when the medium of instruction for the whole entrance programme was not English."
+        ],
+        "waiver": "Required when the medium of instruction for the whole entrance programme was not English. The page also requires 'sufficient command of the English language' as an admission condition.",
+        "validity": "TOEFL and IELTS are valid for two years and must be obtained within the two years preceding the start of the University's application period. There is no validity period for CET-6."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT and GRE are listed among English tests that are not acceptable. They are not stated as an admission test requirement."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Substantial IT professional experience can support an alternative qualification. Related-discipline applicants preferably have applicable IT experience. No minimum year count is stated for all applicants.",
+        "internship_required": false,
+        "internship_text": "A full-time path with a year-long internship/project is a study option (normal period 2 years). It is not stated as an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "IELTS overall 6.0 or TOEFL 4 requires an English-proficiency interview. A TOEFL report score of 79 or above may exempt it. Interviews may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Programme list shows 31 May 2027 as the single date in the row. The programme-page deadline line was not labeled local versus non-local in the retrieved text."
+        }
+      ],
+      "tuition": {
+        "local_hkd": 267300,
+        "non_local_hkd": 300300,
+        "text": "HKD 267,300 local / HKD 300,300 non-local, on both the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-information-systems/p17",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-digital-commerce-and-computing",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "a recognised bachelor's degree in a Computing discipline (e.g., Computer Science, Information Systems, Information Technology); or a recognised bachelor's degree in a related discipline ... preferably with applicable IT experience; or have obtained a good alternative qualification with substantial IT professional experience acceptable to the University; and sufficient command of the English language.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS) (Academic).",
+        "a score of 450 in the Chinese mainland’s College English Test Band 6 (CET-6).",
+        "There is no validity period for CET-6.",
+        "The following English tests are NOT acceptable: Duolingo, GMAT, GRE, IELTS Indicator, IELTS One Skill Retake, IELTS Online, TOEFL iBT Home Edition, TOEFL MyBest Score, TOEIC."
+      ],
+      "gaps": [
+        "Jointly led by Information Systems and Computer Science, and listed on the 2027/28 College of Business programme list before the College of Computing section. Included because it is tied to the College of Business list and the College master's pages. The asterisk in the title was not defined in the retrieved text.",
+        "The exact PG URL path was inferred from the code P17 and the IS department pattern used by the other 2027 pages. The College master's page for this programme was opened directly.",
+        "Medium of instruction is not given as a single phrase. No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p85",
+      "name_zh": "理學碩士(商業人工智能)",
+      "name_en": "MSc Artificial Intelligence in Business",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 150,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor's degree from a Hong Kong UGC-funded tertiary institution, or an equivalent degree. Applicants should have intermediate-level knowledge in IT/IS or business, shown by relevant undergraduate courses or related work experience.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the Chinese Mainland's College English Test (CET-6)",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Related work experience can demonstrate intermediate IT/IS or business knowledge. No minimum number of years is stated.",
+        "internship_required": false,
+        "internship_text": "Business Practice Internship is an elective, not an admission requirement."
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local_and_non_local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Local & Non-local: 31 May 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 393000,
+        "text": "HKD 393,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-information-systems/p85",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "Hold a recognized Bachelor's degree from a tertiary education institution in Hong Kong funded by the University Grants Committee (UGC), or an equivalent degree. Applicants should have intermediate-level knowledge in IT/IS or business.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in the Chinese Mainland’s College English Test (CET-6)."
+      ],
+      "gaps": [
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p07",
+      "name_zh": "文學碩士(環球企業管理)",
+      "name_en": "MA Global Business Management",
+      "degree_label": "MA",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 120,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Possess a recognized bachelor’s degree with Second Class Honours or above, or the equivalent.",
+        "gpa_min_4": null,
+        "honours": "Second Class Honours or above, or equivalent",
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 490 in the new College English Test (CET6) of Chinese mainland",
+            "score": 490
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Priority is given to applicants with at least three years of post-qualification managerial professional experience in international business or China-related activities, or two years of post-qualification managerial and/or professional experience plus a first degree or equivalent in business or a related discipline. Applicants with fewer than two years are considered case by case. This is a priority rule, not a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Local: 31 May 2027"
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-03-31",
+          "time": "23:59 HKT",
+          "text": "Non-local: 31 Mar 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 399000,
+        "text": "HKD 399,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-management/p07",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-management/ma-global-business-management",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "possess a recognized Bachelor’s degree with Second Class Honours or above, or the equivalent.",
+        "Those who have at least three years of post-qualification managerial professional experience in international business or China-related activities OR have two years of post-qualification managerial and/or professional experience with a first degree or an equivalent qualification in business or a related discipline, will be given priority for admission. If applicants have fewer than two years of experience, their applications will be considered on a case-by-case basis.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score of 490 in the new College English Test (CET6) of Chinese mainland."
+      ],
+      "gaps": [
+        "The TOEFL sentence on the page omits the word 'tests' before 'taken from 21 January 2026 onwards'.",
+        "Medium of instruction is not explicitly stated.",
+        "No numeric GPA is published."
+      ]
+    },
+    {
+      "id": "p19",
+      "name_zh": "理學碩士(管理及創新)",
+      "name_en": "MSc Management and Innovation",
+      "degree_label": "MSc",
+      "study_mode": [
+        "full-time"
+      ],
+      "duration": "Full-time: 1 year. Maximum: 2.5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 200,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized degree or equivalent. The opened College page does not require a named honours class.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score of 450 in the new College English Test (CET6) of Chinese mainland",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": null,
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "Applicants with an IELTS overall band score of 6.0 or a TOEFL overall score of 4 must pass an English-proficiency interview conducted by the academic unit. Applicants with a comparable TOEFL overall score of 79 or above shown on the TOEFL report may be exempt from that interview. Interviews for other applicants may not be required.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-05-31",
+          "time": "23:59 HKT",
+          "text": "Programme page timestamp 20270531T155900Z is 31 May 2027 23:59 HKT. Programme list local column: 31 May 2027."
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-03-31",
+          "time": "23:59 HKT",
+          "text": "Programme list non-local column: 31 Mar 2027. That split was not labeled on the retrieved programme-page deadline timestamps."
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 399000,
+        "text": "HKD 399,000 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-management/p19",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-management/msc-management-and-innovation",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a recognized degree or equivalent.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score of 450 in the new College English Test (CET6) of Chinese mainland."
+      ],
+      "gaps": [
+        "There is no 2027/28 programme titled MSc Organizational and Change Management. This programme includes a course named Organizational Innovation and Change. It is not recorded as a separate degree.",
+        "The College marketing HTML has a broken token '; o' where the PG page text says '; or' before the CET-6 line. The PG wording is used.",
+        "Non-local deadline 31 Mar 2027 is from the programme list only.",
+        "Unlabeled timestamp 20260915T020000Z is not treated as the deadline.",
+        "Medium of instruction is not explicitly stated. No numeric GPA or work-year minimum is published."
+      ]
+    },
+    {
+      "id": "p18",
+      "name_zh": "理學碩士(市場學)",
+      "name_en": "MSc Marketing",
+      "degree_label": "MSc",
+      "study_mode": [
+        "combined"
+      ],
+      "duration": "Full-time: 1 year; part-time: 2 years. Maximum: full-time 2.5 years; part-time/combined 5 years. 30 credits.",
+      "location": "Hong Kong",
+      "medium": null,
+      "intake": 225,
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Hold a recognized bachelor's degree, or equivalent.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 79,
+        "toefl_ibt_from_2026_01_21": 4,
+        "other": [
+          "TOEFL iBT: 79 for tests taken prior to 21 January 2026, or the score stated for tests taken from 21 January 2026 onwards.",
+          "Rejected variants stated on the programme page: TOEFL iBT Home Edition, TOEFL MyBest Score, IELTS Indicator, IELTS One Skill Retake, IELTS Online.",
+          "TOEFL results must be sent directly by ETS using CityUHK institution code 3401. IELTS results must be sent via the IELTS Results Service e-delivery to 'City University of Hong Kong - Graduate School'.",
+          {
+            "test": "CET-6",
+            "wording": "a score 450 in the new College English Test (CET6) of Chinese mainland",
+            "score": 450
+          }
+        ],
+        "waiver": "Applies only if the entrance qualification was obtained from an institution where the medium of instruction is not English.",
+        "validity": "TOEFL and IELTS scores are valid for two years. Applicants must provide results obtained within the two years preceding the start of the University's application period."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT/GRE is not stated on the programme page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably possess over 2 years of working experience in business. Not stated as a hard minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "University application procedure (College of Business master's application-procedure page), not restated as a programme-specific checklist: official degree award certificate; transcript with overall GPA/average marks; English test report if applicable; online verification report issued by CSSD for verification of degrees obtained in mainland China.",
+        "Supporting documents are uploaded online. Submission by email or post is not accepted."
+      ],
+      "interview": "All shortlisted candidates are required to attend an interview. IELTS 6.0 overall or TOEFL 4 also requires an English-proficiency interview.",
+      "deadlines": [
+        {
+          "audience": "local",
+          "date": "2027-06-30",
+          "time": "23:59 HKT",
+          "text": "Local: 30 Jun 2027"
+        },
+        {
+          "audience": "non_local",
+          "date": "2027-06-02",
+          "time": "23:59 HKT",
+          "text": "Non-local: 02 Jun 2027"
+        }
+      ],
+      "tuition": {
+        "amount_hkd": 379500,
+        "text": "HKD 379,500 on the programme page and the College tuition list."
+      },
+      "apply_url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+      "source_urls": [
+        "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/department-of-marketing/p18",
+        "https://www.cb.cityu.edu.hk/en/masters/our-programmes/department-of-marketing/msc-marketing",
+        "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list"
+      ],
+      "official_quotes": [
+        "hold a recognized bachelor's degree, or equivalent.",
+        "preferably possess over 2 years of working experience in business.",
+        "an overall band score of 6.0 in International English Language Testing System (IELTS).",
+        "a score 450 in the new College English Test (CET6) of Chinese mainland.",
+        "All shortlisted candidates are required to attend an interview."
+      ],
+      "gaps": [
+        "The PG title glyph was retrieved as 理學碩⼠(市場學), with a nonstandard 士 character. The ordinary form 理學碩士(市場學) is stored.",
+        "Medium of instruction is not explicitly stated. No numeric GPA is published."
+      ]
+    }
+  ],
+  "unopened": [
+    {
+      "url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/list",
+      "reason": "Direct fetch returned an Incapsula challenge. The 2027/28 programme list used here is the search-tool extract of that URL."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-business/",
+      "reason": "Direct fetch returned no content. Individual programme URLs under this path were read via search-tool extracts."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sgs/files/fees/tpg/",
+      "reason": "Direct fetch of the 2027/28 SGS fee HTML files was blocked by Incapsula, except that the P01A fee text was returned by the search tool."
+    },
+    {
+      "url": "http://embachinese.cb.cityu.edu.hk/",
+      "reason": "HTTP 307 with an empty body. Entrance rules were taken from the PG programme page instead."
+    },
+    {
+      "url": "https://www.cb.cityu.edu.hk/ac/mscaf/introduction/",
+      "reason": "Cited by the P83 programme page but not opened."
+    }
+  ]
+}

@@ -1,0 +1,1357 @@
+{
+  "university_id": "ntu",
+  "name_zh": "南洋理工大学",
+  "name_en": "Nanyang Technological University",
+  "business_school_zh": "南洋商学院",
+  "business_school_en": "Nanyang Business School",
+  "qs_world_2027_rank": 12,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "source_url": "https://www.ntu.edu.sg/business/admissions/graduate-studies/specialised-masters",
+    "academic_text": "A recognised Bachelor's Degree",
+    "gpa_min_4": null,
+    "english_text": "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+    "ielts_overall": 6.5,
+    "toefl_ibt": 100,
+    "gmat_gre_text": "GMAT/GRE is optional except for MSc Financial Engineering",
+    "work_text": "Work experience is optional",
+    "intake": "July 2027",
+    "study_mode": "Full-time or Part-time*",
+    "duration": "12 months + option to extend 6 months for internship**",
+    "location": "Singapore",
+    "notes": [
+      "Footnote on the specialised master's page: part-time options available for selected programmes; the optional 6-month internship extension is for eligible full-time programmes.",
+      "Programme pages override this glance. Several use a strict greater-than English cutoff, and online-test wording is not identical.",
+      "No 4.0 GPA cutoff is printed at school level. 'A recognised Bachelor's Degree' is not a number.",
+      "MSc Strategy is not listed on the specialised master's page or the graduate-studies index. A SAF-NTU CSC Phase II page still names M.Sc. (Strategy); that page was not used as an open admissions source.",
+      "The graduate-studies index also names MSc Blockchain and a second 南洋EMBA（中文） described as taught in Singapore. Dedicated admissions pages for those two were not opened. NTU IMBA (Vietnam) was not opened.",
+      "The EMBA page cites QS World University Rankings 2026, #12 globally and #1 in Singapore. The qs_world_2027_rank value 12 is the rank supplied for this file, not a 2027 ranking printed on the page."
+    ]
+  },
+  "programs": [
+    {
+      "id": "msc-accountancy",
+      "name_zh": "会计学理学硕士",
+      "name_en": "MSc Accountancy",
+      "degree_label": "Master of Science in Accountancy",
+      "study_mode": ["full-time"],
+      "duration": "12 months full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled August 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor's degree from any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Comparator on the admissions page is ≥ for both TOEFL iBT and IELTS.",
+          "No IELTS subscore minimum and no post-21 January 2026 TOEFL scale score are printed.",
+          "No paper-based or computer-based TOEFL score is printed on the admissions page."
+        ],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Institutional codes in the requirements block: GMAT V24-ZV-83, GRE 3123, TOEFL 9705. The documents block instead prints GMAT code V24-ZV-70 and GRE 3123."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is a plus but not required",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts of each university attended; official English translation if not in English",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC, plus video identification",
+        "GMAT/GMAT Focus or GRE report if submitting a score; unofficial copy accepted pending official scores",
+        "TOEFL or IELTS score report if required",
+        "Two referee reports from an official institution or organisational email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only after assessment. Shortlisting is announced after the round deadline and sometimes during the round. Admissions interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "August 2027 intake",
+        "total_inclusive_of_gst": "S$70,850.00",
+        "application_fee": "S$100, non-refundable and non-transferable",
+        "enrolment_fee": "Acceptance text: non-refundable S$20,000 exclusive of GST, deductible from tuition. Fee table enrolment column: S$21,800.00.",
+        "miscellaneous": "One-time S$610.00 including GST, billed over the first two trimesters",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-accountancy/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-accountancy/home"
+      ],
+      "official_quotes": [
+        "A good bachelor's degree from any discipline",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Work experience is a plus but not required",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 are considered valid.",
+        "Our MACC programme is a 12-month full time programme offering two distinct tracks: General and Data Analytics."
+      ],
+      "gaps": [
+        "Medium of instruction is not stated on the home or admissions pages opened.",
+        "Score validity is not stated on the admissions page.",
+        "GMAT institution code conflicts on the same admissions page: V24-ZV-83 in the requirements block and V24-ZV-70 in the documents block.",
+        "Enrolment fee is printed both as S$20,000 exclusive of GST and as S$21,800 in the fee table.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale equivalent is printed."
+      ]
+    },
+    {
+      "id": "msc-actuarial-risk-analytics",
+      "name_zh": "精算与风险分析理学硕士",
+      "name_en": "MSc Actuarial and Risk Analytics",
+      "degree_label": "Master of Science in Actuarial and Risk Analytics",
+      "study_mode": ["full-time"],
+      "duration": "One year full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled August 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good undergraduate degree in any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["Comparator is ≥ for TOEFL iBT and IELTS. No subscore minimum is printed."],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used during the undergraduate or bachelor's degree.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Codes: GMAT V24-ZV-40, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC and video identification",
+        "Optional GMAT/GMAT Focus or GRE score",
+        "TOEFL or IELTS if required; applicants who have not yet tested may submit and indicate test dates",
+        "Two referee reports from an official email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded. Only successful candidates are notified.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "Programme starts in July. July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 August 2027 intake",
+        "total_inclusive_of_gst": "S$70,850.00",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$21,800 inclusive of GST, non-refundable, deductible from tuition",
+        "miscellaneous": "S$610.00 including GST",
+        "other": "Singapore Citizens and PRs: S$5,000 grant, and up to S$10,000 if awarded financial aid. Financial aid: monthly PCI less than S$2,500 or gross household income less than S$10,000.",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-actuarial-risk-analytics/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-actuarial-risk-analytics/home"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in any discipline",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Work experience is not required",
+        "We accept these online tests only if they're taken no later than 31 Dec 2023: GMAT Online Exam; GRE Test at Home; TOEFL iBT Special Home Edition; TOEFL ITP Plus for China students; IELTS Indicator.",
+        "We no longer accept GMAT/GRE online test scores taken after 31 December 2023. Only in-person test results are considered valid.",
+        "The programme can be completed in one year on a full-time basis."
+      ],
+      "gaps": [
+        "Medium of instruction is not stated on the pages opened.",
+        "Score validity is not stated on the admissions page.",
+        "A statistics or mathematics background is not an admissions threshold on the admissions page.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "msc-business-analytics",
+      "name_zh": "商业分析理学硕士",
+      "name_en": "MSc Business Analytics",
+      "degree_label": "Master of Science in Business Analytics",
+      "study_mode": ["full-time"],
+      "duration": "One year full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled AY2027 July 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor’s degree in any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["Comparator is ≥ for TOEFL iBT and IELTS. No subscore minimum is printed."],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Codes: GMAT V24-ZV-70, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Applicants with no work experience are welcome to apply",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC and video identification",
+        "GMAT/GMAT Focus or GRE score report if submitting a score",
+        "TOEFL or IELTS if required",
+        "Two referee reports from an official email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "Programme starts in July. July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 July 2027 intake, full-time",
+        "total_inclusive_of_gst": "S$75,210.00",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$20,000 exclusive of GST, non-refundable and non-transferable, deductible from tuition. Fee table enrolment column is S$21,800.00.",
+        "miscellaneous": "One-time S$610.00 including GST",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/home"
+      ],
+      "official_quotes": [
+        "A good bachelor’s degree in any discipline.",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Applicants with no work experience are welcome to apply.",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 onward are considered valid.",
+        "You can complete the MSBA programme in one year on a full-time basis."
+      ],
+      "gaps": [
+        "Medium of instruction is not stated on the pages opened.",
+        "Score validity is not stated on the admissions page.",
+        "The merit-scholarship paragraph still says applications should be completed by a 30 November 2025 deadline, while the printed rounds are in 2026 and 2027.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "msc-financial-engineering",
+      "name_zh": "金融工程理学硕士",
+      "name_en": "MSc Financial Engineering",
+      "degree_label": "Master of Science in Financial Engineering",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Full-time minimum 12 months (maximum 24 months); part-time minimum 24 months (maximum 48 months)",
+      "location": "Singapore; optional term at Carnegie Mellon University, USA",
+      "medium": null,
+      "intake": "July 2027; fee schedules labelled August 2027 intake. FAQ: one intake each year in July.",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good undergraduate degree in applied mathematics, applied science, statistics, computer science, engineering, economics, or other quantitative fields. Applicants from other disciplines will also be considered.",
+        "gpa_min_4": null,
+        "honours": "GMAT/GRE is optional only for NTU's SPMS graduates with Honours (Distinction) degree and above. This is not a general honours admission cutoff.",
+        "grade_letter": null,
+        "major_prerequisite": "Quantitative fields listed above are preferred, not an absolute bar. FAQ: no specific degree requirement; most students have degrees in applied science, statistics, mathematics, engineering, computer science or similar quantitative fields."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Admissions page comparator is ≥ for TOEFL iBT and IELTS.",
+          "FAQ: an acceptable TOEFL is 600 paper-based, 250 computer-based and 100 internet-based. IELTS acceptable score is 6.5 and above."
+        ],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "A good GMAT or GRE score is required. GRE must be the General Test. The test must be taken within the last five years at the time of application. There is no minimum cut-off score. Either test is accepted. Optional only for NTU's SPMS graduates with Honours (Distinction) and above. A PhD holder in a related discipline may request a waiver by submitting the GMAT/GRE used for that PhD; decided case by case. Codes: GMAT V24-ZV-17, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is preferred but not required",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC and video identification",
+        "GMAT/GMAT Focus or GRE report; application is incomplete without the score except for the stated waiver",
+        "TOEFL or IELTS if required",
+        "Two referee reports from an official email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only after initial shortlisting. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "August 2027 intake",
+        "non_cmu_full_time_inclusive_of_gst": "S$73,030.00",
+        "non_cmu_part_time_inclusive_of_gst": "S$73,030.00",
+        "cmu_full_time_inclusive_of_gst": "S$78,480.00",
+        "cmu_part_time_inclusive_of_gst": "S$78,480.00",
+        "application_fee": "S$100. SPMS students in their graduating year who apply by the end of February may receive an application fee waiver.",
+        "enrolment_fee": "S$20,000 exclusive of GST, non-refundable, deductible from tuition",
+        "cmu_travel_and_living_on_admissions_page": "Estimated S$8,000 travel and S$10,000 living, borne by the participant",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-financial-engineering/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-financial-engineering/faqs"
+      ],
+      "official_quotes": [
+        "A good undergraduate degree in applied mathematics, applied science, statistics, computer science, engineering, economics, or other quantitative fields. We will also consider applicants from other disciplines.",
+        "A good GMAT or GRE score. We accept GMAT or GRE test. For GRE, please take the General Test. GMAT/GRE must be taken within the last five years at the time of submitting your application.",
+        "GMAT/GRE scores are optional for NTU's SPMS graduates with Honours (Distinction) degree and above.",
+        "There is no minimum cut-off score for GMAT or GRE.",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Work experience is preferred but not required",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 onward are considered valid.",
+        "An acceptable score for TOEFL is 600 (paper based), 250 (computer based) and 100 (internet based). For IELTS, the acceptable score is 6.5 and above."
+      ],
+      "gaps": [
+        "No numeric GMAT or GRE cutoff is printed. Do not infer one.",
+        "FAQ says the test should be taken before a closing deadline of the end of February. The admissions page Round 3 date is 31 March 2027.",
+        "FAQ waiver note is punctuated 'NTU, SPMS graduates'. The admissions page says 'NTU's SPMS graduates'.",
+        "FAQ estimates CMU travel, accommodation and living at S$6,500–S$8,000. The admissions fee note estimates travel S$8,000 and living S$10,000.",
+        "Mathematics Preparatory Course is compulsory for incoming students; that is a programme requirement, not an admission score.",
+        "TOEFL/IELTS validity is not stated. Medium of instruction of the MFE itself is not stated.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "msc-finance",
+      "name_zh": "金融理学硕士",
+      "name_en": "MSc Finance",
+      "degree_label": "Master of Science in Finance",
+      "study_mode": ["full-time"],
+      "duration": "One-year full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled AY2027 August 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor’s degree in any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["Comparator is ≥ for TOEFL iBT and IELTS. No subscore minimum is printed on the admissions page."],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Codes: GMAT V24-ZV-22, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Applicants with no work experience are welcome to apply",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC and video identification",
+        "GMAT/GMAT Focus or GRE report if submitting a score",
+        "TOEFL or IELTS if required",
+        "Two referee reports from an official email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 August 2027 intake, full-time",
+        "total_inclusive_of_gst": "S$78,480.00",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$21,800 inclusive of GST, non-refundable, deductible from tuition",
+        "miscellaneous": "One-time S$610.00 including GST",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/home",
+        "https://www.ntu.edu.sg/business/academic-divisions/finance/our-programmes"
+      ],
+      "official_quotes": [
+        "A good bachelor’s degree in any discipline.",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Applicants with no work experience are welcome to apply.",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 onward are considered valid.",
+        "This intensive one-year, full-time programme offers a rigorous and immersive learning experience"
+      ],
+      "gaps": [
+        "The Division of Finance page says the MSc Finance is offered in both English and Chinese. The English admissions page opened does not set out a separate Chinese-track requirement, cutoff or intake.",
+        "Medium of instruction is not stated on the MSc Finance home or admissions page.",
+        "Score validity is not stated on the admissions page.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "ntu-pku-double-masters",
+      "name_zh": "南洋-北大双硕士",
+      "name_en": "NTU-PKU Double Master's",
+      "degree_label": "NTU MSc Finance plus one PKU professional master's",
+      "study_mode": ["full-time"],
+      "duration": "Year 1 at NTU to complete the MSc Finance courses; subsequent years at PKU",
+      "location": "Singapore then Peking University, China",
+      "medium": "English and Chinese proficiency are both required; the page does not print a single medium-of-instruction label",
+      "intake": "Apply through the MSc Finance form. Round dates below are for the double master's indication.",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor’s degree in any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Comparator is ≥ for TOEFL iBT and IELTS.",
+          "Chinese Proficiency Test (HSK) Level 6 score 210 if the degree was not taught exclusively in Chinese."
+        ],
+        "waiver": "TOEFL or IELTS if English is not the medium of instruction at the undergraduate level. HSK if the degree was not taught exclusively in Chinese.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Codes: GMAT V24-ZV-22, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Applicants with no work experience are welcome to apply",
+        "internship_required": false,
+        "internship_text": "Not an admission threshold. The curriculum says participants are expected to complete at least a 3-month internship at PKU."
+      },
+      "documents": [
+        "Interest in the double master's is indicated on the MSc Finance application form",
+        "Applicants with Chinese passports must first be admitted to the School of Economics, PKU",
+        "All shortlisted applicants are invited to NTU and PKU admission interviews"
+      ],
+      "interview": "All shortlisted applicants will be invited for NTU and PKU admission interviews.",
+      "deadlines": [
+        {"round": "Round 1", "date": "30 November 2026", "notes": "Indicate interest on the MSc Finance application."},
+        {"round": "Round 2", "date": "End December or early January", "notes": "Year not printed. The page says the deadline may vary and points to pku.edu.cn."}
+      ],
+      "tuition": {
+        "ntu_application_fee": "S$100 non-refundable",
+        "ntu_enrolment_fee": "S$21,800 inclusive of 9% GST, deductible from NTU tuition",
+        "ntu_msc_finance_tuition": "S$78,480.00",
+        "miscellaneous": "S$610.00 inclusive of GST",
+        "pku_fees": "Refer to the PKU website; not printed here",
+        "scholarship": "NTU-PKU Double Masters Scholarship covers half of NTU MSc Finance tuition fees for Singapore citizens, and for Chinese citizens offered by SEPKU"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-finance/ntu-pku-double-masters"
+      ],
+      "official_quotes": [
+        "A good bachelor’s degree in any discipline",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Chinese Proficiency Test (HSK) L6 score 210 if your degree was not taught exclusively in Chinese",
+        "Applicants with no work experience are welcome to apply",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 onward are considered valid.",
+        "participants are also expected to complete at least a 3 months internship at PKU."
+      ],
+      "gaps": [
+        "PKU's own admission requirements are not on ntu.edu.sg. The page links to econ.pku.edu.cn for non-Chinese citizens and residents of Hong Kong, Macau and Taiwan.",
+        "Round 2 has no calendar year.",
+        "The five PKU degrees are listed once as Finance, Insurance, Digital Tax, Digital Economy, or International Business, and later as Finance, Insurance, Tax, Digital Economy, or International Business.",
+        "No numeric 4.0 GPA cutoff and no post-21 January 2026 TOEFL scale score."
+      ]
+    },
+    {
+      "id": "msc-marketing-science",
+      "name_zh": "市场营销科学理学硕士",
+      "name_en": "MSc Marketing Science",
+      "degree_label": "Master of Science in Marketing Science",
+      "study_mode": ["full-time"],
+      "duration": "One-year full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled AY2027 August 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor's degree from any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["Comparator is ≥ for TOEFL iBT and IELTS. No subscore minimum is printed."],
+        "waiver": "Required if English is not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction during the undergraduate or bachelor's degree.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score is printed. Codes: GMAT V24-ZV-91, GRE 3123, TOEFL 9705."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is not required",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than 3 pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Passport or NRIC and video identification",
+        "Optional GMAT/GMAT Focus or GRE score",
+        "TOEFL or IELTS if required",
+        "Two referee reports from an official email address",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "30 November 2026", "notes": null},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 August 2027 intake",
+        "total_inclusive_of_gst": "S$73,030",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$20,000 exclusive of GST, non-refundable, deductible from tuition. Fee table enrolment column is S$21,800.00.",
+        "miscellaneous": "S$610.00 including GST",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-marketing-science/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-marketing-science/home"
+      ],
+      "official_quotes": [
+        "A good bachelor's degree from any discipline",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥ 100 iBT or IELTS score ≥ 6.5, if English is not the medium of instruction at the undergraduate level",
+        "Work experience is not required",
+        "We no longer accept GMAT/GRE and TOEFL/IELTS online test scores taken after 31 December 2023. Only in-person test results taken on/after 1 January 2024 onward are considered valid.",
+        "MMS is a one-year, full-time programme"
+      ],
+      "gaps": [
+        "Medium of instruction is not stated on the pages opened.",
+        "Score validity is not stated on the admissions page.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "master-in-management",
+      "name_zh": "管理学硕士",
+      "name_en": "Master in Management",
+      "degree_label": "Master in Management",
+      "study_mode": ["full-time"],
+      "duration": "One-year full-time",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "July 2027; fee schedule labelled AY2027 August 2027 intake",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good bachelor's degree from any discipline",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["Comparator on the admissions page is ≥ for TOEFL iBT and IELTS. No subscore minimum is printed."],
+        "waiver": "Required if English was not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE score is optional. No minimum score and no institutional code are printed on the admissions page."
+      },
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Work experience is optional",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Scanned valid passport; NRIC also accepted for Singapore citizens and SPRs",
+        "TOEFL or IELTS if required",
+        "Two referee reports",
+        "Professional membership certificates, if any",
+        "Mandatory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Applications open", "date": "September 2026", "notes": "July 2027 intake. Rolling review."},
+        {"round": "Round 1", "date": "01 November 2026", "notes": "Scholarship qualifying round"},
+        {"round": "Round 2", "date": "31 January 2027", "notes": null},
+        {"round": "Round 3", "date": "31 March 2027", "notes": null}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 August 2027 intake",
+        "total_inclusive_of_gst": "S$70,850.00",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$21,800 inclusive of GST, non-refundable, deductible from tuition",
+        "miscellaneous": "S$610.00 including GST",
+        "gst_rate_printed": "9%"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/master-in-management/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "A good bachelor's degree from any discipline",
+        "GMAT or GRE score is optional",
+        "TOEFL score ≥100 iBT; IELTS score ≥6.5, if English was not the medium of instruction at the undergraduate level",
+        "Work experience is optional",
+        "We accept these online tests only if they are taken before 31 Dec 2023: GMAT Online Exam; GRE Test at Home; TOEFL iBT Special Home Edition; TOEFL ITP Plus for China students; IELTS Indicator.",
+        "The Master in Management (MiM) is a one-year, full-time programme"
+      ],
+      "gaps": [
+        "Online-test wording differs from most MSc pages. It accepts named online tests only if taken before 31 Dec 2023. It does not add the sentence that only in-person results from 1 January 2024 are valid.",
+        "Medium of instruction and score validity are not stated on the admissions page.",
+        "No numeric 4.0 GPA cutoff.",
+        "No post-21 January 2026 TOEFL scale score is printed."
+      ]
+    },
+    {
+      "id": "msc-asset-wealth-management",
+      "name_zh": "资产与财富管理理学硕士",
+      "name_en": "MSc Asset and Wealth Management",
+      "degree_label": "Master of Science in Asset and Wealth Management",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "One year. May be completed in 12 months, or within 2 years full-time and 3 years part-time.",
+      "location": "Singapore, with overseas modules in the UK and USA",
+      "medium": null,
+      "intake": "The page's next-intake table is July 2026, which had closed before this retrieval date. No July 2027 row is printed.",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A good Bachelor’s degree in a relevant programme",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "A relevant programme is required. The page does not list which majors qualify."
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Printed comparator is strict greater-than: TOEFL score > 100 or IELTS score > 6.5. The numeric fields record the printed scores 100 and 6.5; they are not a ≥ minimum.",
+          "The page does not say iBT. No subscore minimum is printed."
+        ],
+        "waiver": "Required if English was not the medium of instruction used at the undergraduate level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "Competitive GMAT/GMAT Focus or GRE score. No numeric minimum is printed."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "At least 2 years of working experience",
+        "internship_required": false,
+        "internship_text": "Not an application threshold. Full-time students must complete a minimum 3-month internship as part of the degree. The work-study format also allows year-round internship placement."
+      },
+      "documents": [
+        "An admissions interview is required for shortlisted candidates",
+        "The page does not print a document checklist"
+      ],
+      "interview": "An admissions interview will be required for shortlisted candidates. The July 2026 table lists interview/selection as 1 January–March 2026.",
+      "deadlines": [
+        {"round": "July 2026 intake", "date": "Application opens August 2025; closes 15 April 2026", "notes": "Interview/selection 1 January–March 2026. Matriculation and orientation June 2026. This is the only intake row printed."}
+      ],
+      "tuition": {
+        "intake_label": "Academic Year 2026",
+        "gross_tuition": "S$85,020 for all categories listed",
+        "after_ibf_and_gst_before_other_offsets": {
+          "sg_citizens_aged_40_or_above": "S$34,920 after 70% IBF funding",
+          "sg_citizens_aged_39_or_below_and_all_prs": "S$47,520 after 50% IBF funding",
+          "international_students": "S$85,020; IBF funding not applicable"
+        },
+        "estimated_payable_after_study_grant_and_credits": {
+          "sg_citizens_aged_40_or_above": "S$25,420",
+          "sg_citizens_aged_39_or_below_and_all_prs": "S$42,520",
+          "international_students": "S$85,020"
+        },
+        "application_fee": "S$100 non-refundable",
+        "miscellaneous": "One-time S$545 billed in the first trimester",
+        "notes": "Fees listed are inclusive of 9% GST. NTU alumni discount 10% if applicable. Study grant S$5,000 for the Singapore-citizen and PR columns. SkillsFuture Mid-Career credits up to S$4,500 for Singapore citizens aged 40 and above. IBF funding assumes minimum academic standards set by IBF, physical presence in Singapore, and IBF accreditation."
+      },
+      "apply_url": "https://www.cognitoforms.com/WealthManagementInstitute1/MAWMApplicationFormAY2627",
+      "source_urls": [
+        "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-asset-wealth-management",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "At least 2 years of working experience",
+        "A good Bachelor’s degree in a relevant programme",
+        "Competitive GMAT/GMAT Focus or GRE score",
+        "TOEFL score: > 100 or IELTS score: > 6.5, if English was not the medium of instruction used at the undergraduate level",
+        "Full-Time students will be required to complete a (minimally) 3-months internship",
+        "Programme Type: Full-time, Part-time",
+        "You may also prefer to space out your learning, taking the programme in modules and complete within a period of 2 years for Full-Time students and 3 years for Part-Time students."
+      ],
+      "gaps": [
+        "Not listed on the specialised master's landing page. It is listed on the graduate-studies index. The degree page is the admissions source opened.",
+        "No online-test policy is printed.",
+        "No GMAT/GRE numeric cutoff is printed.",
+        "The only intake table is July 2026. As of 2026-10-21 that close date has passed, and a 2027 intake is not printed.",
+        "Overseas partner names conflict on the same page: Imperial College Business School and Chicago Booth, versus an earlier mention of Imperial College London and New York University.",
+        "No numeric 4.0 GPA cutoff and no post-21 January 2026 TOEFL scale score.",
+        "Medium of instruction and score validity are not stated."
+      ]
+    },
+    {
+      "id": "emsc-sustainability-management",
+      "name_zh": "可持续发展管理高级理学硕士",
+      "name_en": "Executive Master of Science in Sustainability Management",
+      "degree_label": "Executive Master of Science in Sustainability Management",
+      "study_mode": ["part-time"],
+      "duration": "1 year part-time; minimum candidature 1 year and maximum 4 years",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "August 2027. One intake a year. Calendar printed as Aug 2027–Apr 2028.",
+      "intake_cycle": "August",
+      "academic": {
+        "text": "Undergraduate degree. Candidates with other academic qualifications may apply, subject to at least 10 years of experience and University approval. Applications without an undergraduate degree are considered case by case.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["No IELTS or TOEFL minimum is printed."],
+        "waiver": "TOEFL or IELTS is not mandatory. Applicants must be proficient in English, and the academic requirements say fluent in both spoken and written English.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT or GRE scores are not required."
+      },
+      "experience": {
+        "work_years_min": 10,
+        "work_text": "Minimum 10 years of work experience, and the FAQ says at least 10 years of full-time work experience. Fresh graduates are not eligible. The typical participant has 15 years, ranging from 14 to 25 years. The programme targets corporate executives and professionals with over 10 years of work experience.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume",
+        "Degree certificate(s) and academic transcripts, with official English translation if not in English, if applicable",
+        "Passport-sized photograph",
+        "Passport biodata page, or NRIC for Singaporeans and PRs",
+        "Professional membership certificates, if applicable",
+        "Application processing fee"
+      ],
+      "interview": null,
+      "deadlines": [
+        {"round": "Submission deadline printed for the AY26 fee offer", "date": "31 December 2026", "notes": "Apply by this date for the AY26 programme fee and a waiver of the application fee and the enrolment fee. The form stays open until a final closing date, but that final date is not printed. Continuous admissions for the annual intake."}
+      ],
+      "tuition": {
+        "ay2027_before_gst": "S$67,600",
+        "ay2027_inclusive_of_gst": "S$73,684",
+        "ay2026_before_gst": "S$65,000",
+        "ay2026_inclusive_of_gst": "S$70,850",
+        "application_fee": "S$100 non-refundable, inclusive of prevailing GST. Waived if a complete application is received by 31 December 2026.",
+        "enrolment_fee": "S$3,270, waived if a complete application is received by 31 December 2026",
+        "student_services_fee": "S$280 inclusive of prevailing GST",
+        "notes": "Fee covers tuition, most teaching materials, and meals when classes are in session. NTU alumni and associate alumni: 10% tuition discount. Singaporeans and PRs: S$5,000 subsidy."
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/NEE/Executive-Master-of-Science-in-Sustainability-Management",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "Undergraduate degree",
+        "Fluent in both spoken and written English",
+        "Minimum 10 years of work experience",
+        "No, GMAT or GRE scores are not required.",
+        "While TOEFL or IELTS is not mandatory, applicants must be proficient in English",
+        "Fresh graduates are not eligible for this programme.",
+        "The minimum period of candidature is 1 year, and the maximum period of candidature is 4 years.",
+        "Credit transfers are by application only and will be assessed and approved by the University, and the minimum Grade Point eligible for transfer of credits is 2.5."
+      ],
+      "gaps": [
+        "Listed on the graduate-studies index, not on the specialised master's landing page.",
+        "Interview is not stated.",
+        "The grade-point 2.5 rule is for credit transfer, not admission, and the scale is not stated. gpa_min_4 is null.",
+        "Online-test policy is not printed because TOEFL/IELTS is not mandatory.",
+        "Medium of instruction is not given as a single label beyond the English-proficiency requirement.",
+        "The final closing date, as distinct from the 31 December 2026 fee-waiver deadline, is not printed."
+      ]
+    },
+    {
+      "id": "nanyang-mba",
+      "name_zh": "南洋工商管理硕士",
+      "name_en": "Nanyang MBA",
+      "degree_label": "Master of Business Administration",
+      "study_mode": ["full-time"],
+      "duration": "Graduate-studies index: flexible 12-month or 18-month. Admissions fee table: 12 months, 3 trimesters. Double-degree lengths are listed separately.",
+      "location": "Singapore. Double degrees add Japan, France or Switzerland.",
+      "medium": null,
+      "intake": "Yearly intake in July. Fee table: AY2027 July 2027 intake.",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "Bachelor’s degree",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Admissions page comparator is ≥: TOEFL score ≥ 100 IBT or IELTS score ≥ 6.5.",
+          "FAQ minimum-entry line differs: TOEFL score > 100IBT > 600 PBT or IELTS score > 6.5.",
+          "A later FAQ answer says at least 600 paper-based, 250 computer-based and above 100 internet-based, and that the minimum acceptable IELTS band is 6.5.",
+          "FAQ also says TOEFL is mandatory if English is not the native tongue or if undergraduate instruction was not exclusively in English, and mentions IELTS/TOEIC or equivalent as exemption proof."
+        ],
+        "waiver": "Admissions page: required if English was not the medium of instruction used at the undergraduate level.",
+        "validity": "FAQ: TOEFL is valid 2 years from the test date. The example given is a 2017 score for 2019 admission. IELTS validity is not separately stated."
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "Admissions page: competitive GMAT/GMAT Focus or GRE score. No number is printed there. FAQ minimum-entry line: GMAT score > 600 or GRE equivalent. A later FAQ answer says 600 and above. FAQ validity: 5 years from the test date. Codes on the admissions page: GMAT V24-ZV-13, GRE 3802."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "Minimum of two years of work experience. FAQ repeats at least 2 years.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume highlighting career progression",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last 3 months",
+        "Valid passport; NRIC also accepted for Singapore citizens and SPRs",
+        "GMAT/GMAT Focus or GRE report",
+        "TOEFL or IELTS if required",
+        "Two referee reports",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interview decision dates are printed with each round. Interviews are recorded.",
+      "deadlines": [
+        {"round": "Round 1 application", "date": "01 November", "notes": "Year not printed. Interview decision 02 December. Final decision 03 January."},
+        {"round": "Round 2 application", "date": "31 January", "notes": "Year not printed. Interview decision 28 February. Final decision 18 March."},
+        {"round": "Round 3 application", "date": "31 March", "notes": "Year not printed. Interview decision 24 April. Final decision 15 May."}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 July 2027 intake",
+        "nanyang_mba": "S$85,280 for 12 months, 3 trimesters, Singapore. Published fee excludes GST set at 9%.",
+        "nanyang_waseda_double_mba": "S$85,280, 14 months, Singapore and Japan, GST excluded",
+        "nanyang_essec_double_masters": "S$85,280, 24 months, Singapore and France, GST excluded",
+        "nanyang_st_gallen_double_masters": "S$85,280, 24 months, Singapore and Switzerland, GST excluded",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$21,600 inclusive of GST, non-refundable, deductible from tuition"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-mba/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-mba/faqs",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-mba/programme-overview"
+      ],
+      "official_quotes": [
+        "Bachelor’s degree",
+        "Minimum of two years of work experience",
+        "Competitive GMAT/GMAT Focus or GRE score",
+        "TOEFL score ≥ 100 IBT or IELTS score ≥ 6.5, if English was not the medium of instruction used at the undergraduate level",
+        "We accept these online tests only if they're taken no later than 31 Dec 2023: GMAT Online Exam; GRE Test at Home; TOEFL iBT Special Home Edition; TOEFL ITP Plus for China students; IELTS Indicator.",
+        "GMAT score > 600 or GRE equivalent",
+        "600 and above.",
+        "TOEFL score > 100IBT > 600 PBT or IELTS score > 6.5",
+        "The minimum acceptable band score is 6.5."
+      ],
+      "gaps": [
+        "Admissions page and FAQ do not agree on whether GMAT 600 is a strict greater-than cutoff, a 600-and-above figure, or only a 'competitive' score with no number.",
+        "Admissions page uses ≥ 100 and ≥ 6.5. The FAQ minimum-entry line uses greater-than, then a later IELTS answer says the minimum acceptable band is 6.5.",
+        "Round dates do not print a year.",
+        "The 18-month option is on the graduate-studies index. The fee table prices only the 12-month programme. The programme-overview page opened did not restate an 18-month duration in the lines matched.",
+        "No numeric 4.0 GPA cutoff and no post-21 January 2026 TOEFL scale score.",
+        "Online-test rule does not add the 'in-person only from 1 January 2024' sentence used on most MSc pages."
+      ]
+    },
+    {
+      "id": "nanyang-professional-mba",
+      "name_zh": "南洋专业工商管理硕士",
+      "name_en": "Nanyang Professional MBA",
+      "degree_label": "Master of Business Administration",
+      "study_mode": ["part-time"],
+      "duration": "18 months, weekend classes on Saturdays and Sundays, twice a month",
+      "location": "Singapore",
+      "medium": null,
+      "intake": "Admissions heading says yearly intake in July. Fee table heading says AY2027 (August 2026 intake).",
+      "intake_cycle": "July",
+      "academic": {
+        "text": "A Bachelor's degree",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Comparator is strict greater-than: TOEFL score > 100 IBT or IELTS score > 6.5. Numeric fields record the printed scores, not a ≥ minimum."
+        ],
+        "waiver": "Required if English was not the medium of instruction used at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": true,
+        "text": "GMAT/GRE/Executive Assessment, with a test waiver available case by case. No minimum score is printed. Candidates are told the EA is an option for experienced professionals; the admissions requirements line does not limit EA to a stated number of years. Codes: GMAT V24-ZV-75, GRE 3802."
+      },
+      "experience": {
+        "work_years_min": 3,
+        "work_text": "Minimum of 3 years post-degree full-time work experience, up till the programme start date",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume, no more than three pages",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last three months",
+        "Valid passport; NRIC also accepted for Singapore citizens and SPRs",
+        "GMAT/GMAT Focus, GRE or EA report",
+        "TOEFL or IELTS if required",
+        "Two referee reports",
+        "Professional membership certificates, if any",
+        "Compulsory essays"
+      ],
+      "interview": "By invitation only. Interviews are recorded. Applications are processed in batches, not on a rolling basis.",
+      "deadlines": [
+        {"round": "Round 1", "date": "3 December", "notes": "Year not printed. Yearly intake heading says July."},
+        {"round": "Round 2", "date": "14 March", "notes": "Year not printed."},
+        {"round": "Round 3", "date": "30 April", "notes": "Year not printed. Scholarship lines also say deadline 30 April."}
+      ],
+      "tuition": {
+        "intake_label": "Table heading: AY2027 (August 2026 intake)",
+        "tuition_fee": "S$97,489.60 inclusive of GST for 18 months in Singapore. Includes course materials and e-resources. Excludes miscellaneous fees, transport/airfare and accommodation.",
+        "application_fee": "S$100",
+        "enrolment_fee": "S$15,000 inclusive of GST, non-refundable, deductible from tuition"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-professional-mba/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-professional-mba",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "Academic Qualification - A Bachelor's degree",
+        "Work Experience - Minimum of 3 years post-degree full-time work experience (up till the point of programme start date)",
+        "GMAT/GRE/EA Test Waiver Available - Candidates may be eligible for a test waiver on a case-by-case basis",
+        "TOEFL score > 100 IBT or IELTS score > 6.5 (if English was not the medium of instruction used at the undergraduate level)",
+        "We accept these online tests only if they're taken no later than 31 Dec 2023: GMAT Online Exam; GRE Test at Home; TOEFL iBT Special Home Edition; TOEFL ITP Plus for China students; IELTS Indicator.",
+        "Have the best of all worlds with a unique 18-month accelerated schedule and weekend classes (conducted on Saturdays and Sundays), twice a month."
+      ],
+      "gaps": [
+        "English cutoff is strict greater-than, unlike the specialised-master's glance of ≥ 100 and ≥ 6.5.",
+        "Fee-table intake says August 2026 under an AY2027 heading, while the deadline heading says a yearly July intake. Years are not printed on the round dates.",
+        "No GMAT, GRE or EA numeric minimum is printed.",
+        "Score validity and medium of instruction are not stated.",
+        "No numeric 4.0 GPA cutoff and no post-21 January 2026 TOEFL scale score.",
+        "Online-test rule does not add the in-person-from-1-January-2024 sentence."
+      ]
+    },
+    {
+      "id": "nanyang-fellows-mba",
+      "name_zh": "南洋学者工商管理硕士",
+      "name_en": "Nanyang Fellows MBA",
+      "degree_label": "Master of Business Administration",
+      "study_mode": ["full-time"],
+      "duration": "One year full-time",
+      "location": "Singapore, with segments at partner universities UC Berkeley and Tsinghua",
+      "medium": null,
+      "intake": "Fee table: AY2027 August 2027 intake. Round dates do not print a year.",
+      "intake_cycle": "August",
+      "academic": {
+        "text": "A good bachelor’s degree",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Comparator is strict greater-than: TOEFL score >100 IBT; IELTS score >6.5. Numeric fields record the printed scores, not a ≥ minimum."
+        ],
+        "waiver": "Required if English was not the medium of instruction at the undergraduate level. Documents section: required if English was not the medium of instruction used at the tertiary level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT is not an admission requirement. The selection text says the school will also consider GMAT, if any, and TOEFL scores. No minimum GMAT score is printed."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "Minimum eight years of professional experience",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume",
+        "Degree scroll/certificate(s) and academic transcripts; official English translation if needed",
+        "Colour passport photo taken within the last three months",
+        "Valid passport; NRIC also accepted for Singapore citizens and SPRs",
+        "TOEFL or IELTS if required",
+        "Two referee reports",
+        "Professional membership certificates, if any",
+        "Sponsorship nomination from a government agency or organisation, if applicable",
+        "Compulsory essays"
+      ],
+      "interview": "Shortlisted candidates are invited. The interview may be online or on campus and is recorded.",
+      "deadlines": [
+        {"round": "Round 1", "date": "1 November", "notes": "Year not printed."},
+        {"round": "Round 2", "date": "15 January", "notes": "Year not printed."},
+        {"round": "Round 3", "date": "31 March", "notes": "Year not printed."}
+      ],
+      "tuition": {
+        "intake_label": "AY2027 August 2027 intake, full-time",
+        "total": "S$99,756.80. Enrolment column S$10,000.00.",
+        "notes": "Tuition fee encompasses segments at NTU and partner universities (UC Berkeley and Tsinghua). GST applies solely to the NTU-segment tuition fees, prevailing rate 9%. Accommodation, airfare, miscellaneous and overseas travel are excluded.",
+        "application_fee": "S$100",
+        "enrolment_fee_on_acceptance": "S$10,000 inclusive of GST, non-refundable, deductible from tuition"
+      },
+      "apply_url": "https://www.applynbs.com/apply/",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-fellows-mba/admissions",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "A good bachelor’s degree",
+        "Minimum eight years of professional experience",
+        "TOEFL score >100 IBT; IELTS score >6.5, if English was not the medium of instruction at the undergraduate level",
+        "Sponsorship nomination from your government agency or organisation, if applicable",
+        "We accept these online tests only if they're taken no later than 31 Dec 2023: GMAT Online Exam; GRE Test at Home; TOEFL iBT Special Home Edition; TOEFL ITP Plus for China students; IELTS Indicator.",
+        "Apart from a good academic record, we will also consider your GMAT (if any) and TOEFL scores",
+        "A full-time (one-year) MBA programme for exceptional public sector senior executives"
+      ],
+      "gaps": [
+        "English cutoff is strict greater-than.",
+        "Round dates have no year.",
+        "GMAT is considered if submitted, but no score and no explicit required/waived sentence appear in the numbered requirements.",
+        "Score validity and medium of instruction are not stated.",
+        "No numeric 4.0 GPA cutoff and no post-21 January 2026 TOEFL scale score.",
+        "The fee table prints both an enrolment figure of S$10,000 and a total of S$99,756.80; it does not spell out how GST changes the total."
+      ]
+    },
+    {
+      "id": "nanyang-emba",
+      "name_zh": "南洋高级管理人员工商管理硕士",
+      "name_en": "Nanyang Executive MBA",
+      "degree_label": "Executive MBA",
+      "study_mode": ["part-time"],
+      "duration": "13 months part-time, with an option to extend up to 24 months subject to approval",
+      "location": "Singapore, with residential segments at Tsinghua University, China, and University of California, Berkeley, USA",
+      "medium": null,
+      "intake": "April 2027. One intake per year.",
+      "intake_cycle": "April",
+      "academic": {
+        "text": "A recognised undergraduate degree. Candidates without an undergraduate degree but with outstanding career accomplishments may be considered case by case.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.5,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 100,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "Comparator is strict: TOEFL iBT score above 100 or IELTS score above 6.5. Numeric fields record the printed scores, not a ≥ minimum.",
+          "A separate requirement is fluency in written and spoken English."
+        ],
+        "waiver": "TOEFL or IELTS where English was not the medium of instruction at undergraduate level.",
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "The minimum admission requirements opened on 2026-10-21 do not mention GMAT, GRE or Executive Assessment. The page does not print an explicit 'not required' sentence."
+      },
+      "experience": {
+        "work_years_min": 10,
+        "work_text": "A minimum of 10 years of professional experience, including at least five years in a leadership capacity. Candidates without 10 years but with outstanding career accomplishments may be considered case by case. Class profile average is 17 years. A separate FAQ answer says applicants typically have at least 10 years, including five years of leadership or management responsibilities.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "CV or resume",
+        "Degree certificate(s) and academic transcripts",
+        "Recent passport photograph",
+        "Passport or NRIC",
+        "TOEFL or IELTS results, where applicable",
+        "Professional membership certificates, where applicable",
+        "Two professional referees, preferably supervisors or senior leaders; family and friends are not accepted",
+        "Essays are required"
+      ],
+      "interview": "Shortlisted candidates attend an admissions interview, which is part of the holistic review.",
+      "deadlines": [
+        {"round": "Round 1 scholarship application deadline", "date": "31 October 2026", "notes": "Priority consideration for higher scholarship awards"},
+        {"round": "Round 2", "date": "15 January 2027", "notes": null},
+        {"round": "Round 3", "date": "28 February 2027", "notes": null}
+      ],
+      "tuition": {
+        "stated_tuition_before_gst": "S$131,040 before prevailing GST. Includes tuition, most teaching materials and meals during class. Excludes accommodation, flights and other travel.",
+        "fee_schedule_label": "Tuition Fee Repayment Schedule (April 2026 Intake)",
+        "schedule_total_after_gst": "S$143,113.60",
+        "instalments_april_2026_schedule": "On acceptance S$21,800; June 2026 S$47,453.03; October 2026 S$32,392.75; January 2027 S$41,467.82",
+        "application_fee": "S$200 non-refundable",
+        "enrolment_fee": "S$21,800 inclusive of GST, non-refundable, deductible from tuition",
+        "estimated_overseas_segment_costs": "United States S$12,000–S$15,000; China S$5,000–S$8,000",
+        "notes": "NTU alumni grant: 10% off tuition before GST. Nanyang EMBA alumni referral grant: 10% off tuition before GST."
+      },
+      "apply_url": "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-executive-mba",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-executive-mba",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies/nanyang-executive-mba/admissions"
+      ],
+      "official_quotes": [
+        "A minimum of 10 years of professional experience, including at least five years in a leadership capacity.",
+        "A recognised undergraduate degree.",
+        "Fluency in written and spoken English.",
+        "TOEFL iBT score above 100 or IELTS score above 6.5, where English was not the medium of instruction at undergraduate level.",
+        "Candidates without an undergraduate degree or 10 years of professional experience but with outstanding career accomplishments may be considered on a case-by-case basis.",
+        "The Nanyang Executive MBA tuition fee is S$131,040 before prevailing GST.",
+        "April 2027 Intake. One intake per year.",
+        "The Nanyang Executive MBA is designed to be completed in 13 months on a part-time basis."
+      ],
+      "gaps": [
+        "The /admissions URL resolved to the same long programme page. No separate online-test sentence was found. GMAT/GRE is not mentioned, and the page does not explicitly say the test is waived.",
+        "Hero intake is April 2027, but the repayment schedule is labelled April 2026 Intake.",
+        "S$131,040 before GST and the schedule total of S$143,113.60 are both printed; 131040 times 9% GST does not equal 143113.60. Both figures are recorded as printed and not reconciled.",
+        "No explicit applynbs.com link was captured on the sections opened. The on-page apply control points at the admissions anchor.",
+        "Score validity, IELTS subscores and a post-21 January 2026 TOEFL scale score are not printed.",
+        "No numeric 4.0 GPA cutoff."
+      ]
+    },
+    {
+      "id": "nanyang-emba-cn",
+      "name_zh": "南洋EMBA（中文）",
+      "name_en": "Nanyang EMBA (Chinese)",
+      "degree_label": "EMBA",
+      "study_mode": [],
+      "duration": null,
+      "location": "Application page prints written tests and interviews at Shanghai Jiao Tong University. The graduate-studies index describes this track as a joint NTU–Shanghai Jiao Tong programme. Teaching city is not stated on the application page.",
+      "medium": null,
+      "intake": "Classes start at the end of September each year. The 2026 intake application was open on the page.",
+      "intake_cycle": "September",
+      "academic": {
+        "text": "具有大学本科或本科以上学历",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["No TOEFL or IELTS requirement is printed on the Chinese application page."],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "GMAT is not an entry requirement. A strong Chinese management-programme entrance-exam score (管理类联考) or a GMAT score may waive the written test. No GMAT number is printed."
+      },
+      "experience": {
+        "work_years_min": 8,
+        "work_text": "具有8年以上工作经验，其中5年以上管理经验",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Online application form",
+        "White-background passport-style one-inch photo",
+        "Passport information page and identity-card scan",
+        "Two recommendation letters",
+        "Degree and diploma scans",
+        "Official transcripts",
+        "CHESICC verification or overseas credential verification",
+        "Organisation chart of the employer"
+      ],
+      "interview": "Usually two interviewers, about 30 minutes. A written test is also required unless waived. Results are usually released within three weeks after the interview if the file is complete.",
+      "deadlines": [
+        {"round": "2026 intake application close", "date": "14 August 2026", "notes": "2026年的入学申请现已开启，截止日期为8月14日. The page does not say 14 August of which stage beyond the 2026 intake."},
+        {"round": "Written test and interview 1", "date": "7 March 2026", "notes": "Shanghai Jiao Tong University"},
+        {"round": "Written test and interview 2", "date": "11 April 2026", "notes": "Shanghai Jiao Tong University"},
+        {"round": "Written test and interview 3", "date": "16 May 2026", "notes": "Shanghai Jiao Tong University"},
+        {"round": "Written test and interview 4", "date": "13 June 2026", "notes": "Shanghai Jiao Tong University"},
+        {"round": "Written test and interview 5", "date": "18 July 2026", "notes": "Shanghai Jiao Tong University"},
+        {"round": "Written test and interview 6", "date": "22 August 2026", "notes": "Shanghai Jiao Tong University. This date is after the printed 14 August application close."}
+      ],
+      "tuition": null,
+      "apply_url": "https://chineseemba.ntusingapore.cn/user/login/ntu/72",
+      "source_urls": [
+        "https://www.ntu.edu.sg/business/admissions/china-programmes-cn/emba-cn/application-cn",
+        "https://www.ntu.edu.sg/business/admissions/graduate-studies"
+      ],
+      "official_quotes": [
+        "具有大学本科或本科以上学历",
+        "具有8年以上工作经验，其中5年以上管理经验。",
+        "课程每年九月底开学",
+        "2026年的入学申请现已开启，截止日期为8月14日。",
+        "如果申请人有出色的中国管理类联考成绩或者GMAT成绩，笔试或可免考。",
+        "面试通常由两位面试官与申请人进行交谈，面试时间大约为30分钟。"
+      ],
+      "gaps": [
+        "Duration, study mode, tuition, IELTS/TOEFL and an explicit medium-of-instruction sentence are not on the application page.",
+        "The graduate-studies index has two blocks titled 南洋EMBA（中文）. The second says the programme is taught in Singapore. That second admissions page was not opened, so this record is only the joint NTU–Shanghai Jiao Tong application page.",
+        "No numeric 4.0 GPA cutoff and no GMAT score.",
+        "Online-test policy is not printed."
+      ]
+    }
+  ],
+  "unopened": [
+    {
+      "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-blockchain",
+      "reason": "Named MSc Blockchain on the graduate-studies index. This URL did not return page content. No other admissions URL was found."
+    },
+    {
+      "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies/ntu-imba/admissions",
+      "reason": "NTU IMBA with the University of Economics Ho Chi Minh City is listed as a 15-month part-time MBA. The admissions page was not opened. It is delivered for working professionals in Vietnam, not as a Singapore specialised master's."
+    },
+    {
+      "name": "MSc Strategy",
+      "reason": "Not on the specialised master's page or the graduate-studies index on 2026-10-21. A SAF-NTU CSC Phase II page still names Master of Science (Strategy). That restricted pathway page was not opened and is not treated as an open NBS admissions offer."
+    },
+    {
+      "name": "南洋EMBA（中文）新加坡授课",
+      "reason": "A second Chinese EMBA blurb on the graduate-studies index says the programme is taught in Singapore for global Chinese entrepreneurs and senior managers. Its admissions URL was not found, so it is not given a programme record."
+    },
+    {
+      "name": "MSc Finance Chinese track",
+      "reason": "The Division of Finance page says MSc Finance is offered in English and Chinese. No separate Chinese-track admissions page was opened."
+    }
+  ]
+}

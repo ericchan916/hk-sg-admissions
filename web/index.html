@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>港新商科门槛册</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="shell top">
+    <div>
+      <h1>港新商科门槛册</h1>
+      <p>填左边的成绩，对照香港前五和新加坡前二的商科硕士要求。</p>
+    </div>
+    <div class="schools" id="rank-row"></div>
+  </header>
+
+  <main class="shell layout">
+    <form class="panel ledger" id="profile">
+      <h2>DeepSeek 密钥</h2>
+      <p class="hint">分析时才用到。密钥只存在这台浏览器里，不会写进网页代码，也不会保存到服务器。</p>
+      <label>API Key
+        <input id="api-key" type="password" autocomplete="off" spellcheck="false" placeholder="sk-">
+      </label>
+      <div class="key-row">
+        <button class="ghost" id="save-key" type="button">保存在这台浏览器</button>
+        <button class="ghost" id="clear-key" type="button">清除</button>
+      </div>
+      <p class="field-note" id="key-status">还没有保存密钥。</p>
+      <h2 class="section-title">你的成绩</h2>
+      <p class="hint">按澳门科技大学 4.0 绩点填写。符合最低要求，也不等于一定录取。</p>
+      <label>GPA
+        <input id="gpa" type="number" min="0" max="4" step="0.01" value="3.2">
+      </label>
+      <p class="scale" id="scale"></p>
+      <div class="grid2">
+        <label>授课语言
+          <select id="moi">
+            <option value="other">不是英语</option>
+            <option value="en">全程英语</option>
+            <option value="unknown">不确定</option>
+          </select>
+        </label>
+        <label>修读方式
+          <select id="mode">
+            <option value="either">两种都看</option>
+            <option value="full-time">全日制</option>
+            <option value="part-time">兼读</option>
+          </select>
+        </label>
+      </div>
+      <fieldset>
+        <legend>雅思 Academic</legend>
+        <label class="check"><input id="ielts-taken" type="checkbox" checked> 已有成绩</label>
+        <div class="grid5">
+          <label>总分<input id="ielts" type="number" min="0" max="9" step="0.5" value="6.5"></label>
+          <label>听<input id="ielts-l" type="number" min="0" max="9" step="0.5" value="6"></label>
+          <label>读<input id="ielts-r" type="number" min="0" max="9" step="0.5" value="6.5"></label>
+          <label>写<input id="ielts-w" type="number" min="0" max="9" step="0.5" value="6"></label>
+          <label>说<input id="ielts-s" type="number" min="0" max="9" step="0.5" value="6"></label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>托福或 CET-6</legend>
+        <label class="check"><input id="toefl-taken" type="checkbox"> 改用托福判断</label>
+        <div class="grid2">
+          <label>托福计分方式
+            <select id="toefl-scale">
+              <option value="old">旧制，满分 120</option>
+              <option value="new">新制，满分 6</option>
+            </select>
+          </label>
+          <label>托福分数<input id="toefl" type="number" min="0" max="120" step="0.5"></label>
+        </div>
+        <p class="field-note">2026 年 1 月 21 日起，托福改成 6 分制。考试在这一天之前，选旧制。</p>
+        <label>CET-6，城大部分项目接受
+          <input id="cet" type="number" min="0" max="710" step="1">
+        </label>
+      </fieldset>
+      <div class="grid2">
+        <label>毕业后全职工作
+          <input id="work" type="number" min="0" max="40" step="0.5" value="0">
+        </label>
+        <label>其中做管理的年数
+          <input id="mgr" type="number" min="0" max="40" step="0.5" value="0">
+        </label>
+      </div>
+      <p class="field-note">全职工作指毕业后的正式工作，不含实习。管理年数只算带团队或当主管的时间，没有就填 0。MBA 常看工作年限，EMBA 还会看管理年限。</p>
+      <div class="grid2">
+        <label>实习一共几个月<input id="intern" type="number" min="0" max="60" step="1" value="3"></label>
+        <label class="check"><input id="relevant" type="checkbox" checked> 实习和想申的专业对口</label>
+      </div>
+      <label class="check"><input id="gmat" type="checkbox"> 已有 GMAT 或 GRE</label>
+      <button class="primary" type="submit">按这些成绩对照</button>
+    </form>
+
+    <section class="work">
+      <div class="toolbar">
+        <label>搜索
+          <input id="q" type="search" placeholder="金融、雅思、EMBA、商业分析">
+        </label>
+        <label>结果
+          <select id="verdict">
+            <option value="">全部</option>
+            <option value="pass">符合要求</option>
+            <option value="fail">不符合要求</option>
+            <option value="gap">还不能判断</option>
+          </select>
+        </label>
+        <button class="ghost" id="ask-list" type="button">让大模型比较这些专业</button>
+      </div>
+      <p class="count" id="count"></p>
+      <div id="list" class="list"></div>
+    </section>
+
+    <article id="detail" class="panel detail">
+      <p class="empty">先在左边填写成绩，再点一个专业。右边最上面是大模型写的说明，下面是逐条对照。</p>
+    </article>
+  </main>
+  <footer class="shell">
+    <p>摘录日期 2026-10-21。大模型是 DeepSeek V4.1 Flash。请在页面左侧填入你自己的 API Key，它只留在这台浏览器。</p>
+    <p>未收入：港科大两个工商管理博士和合办金融科技硕士；理大六个中文或内地班页面未打开；南大区块链硕士、越南 IMBA、中文金融方向和另一条中文 EMBA 没有独立招生页。</p>
+  </footer>
+  <script src="data.js"></script>
+  <script src="match.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

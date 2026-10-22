@@ -1,0 +1,1451 @@
+{
+  "university_id": "polyu",
+  "name_zh": "香港理工大学",
+  "name_en": "The Hong Kong Polytechnic University",
+  "business_school_zh": "香港理工大学工商管理学院",
+  "business_school_en": "Faculty of Business",
+  "qs_world_2027_rank": 50,
+  "retrieved_at": "2026-10-21",
+  "school_level": {
+    "scope": "University taught-postgraduate minimum. Individual Faculty of Business programmes may add academic, experience, or interview conditions. None of the opened English-medium master's pages set an IELTS overall or TOEFL overall above this minimum.",
+    "general_entrance_text": "For admission to a Doctoral degree programme, you must possess a Master's degree. As for the Master's degree or Postgraduate Diploma, the basic requirement is a Bachelor's degree from an institution that is recognised by PolyU. In addition, you must meet the entrance requirements that are specified by individual programmes. PolyU may accept equivalent qualifications. The decision is made on an individual basis.",
+    "applications_text": "Applications will be considered on the basis of the information (such as academic achievements, professional qualifications and work experience) provided in the application. All applicants must fulfil the General Entrance Requirement and English Language Requirement to be considered for admission. You may also be required to attend an interview and/or test. Departments will consider applications on a rolling basis until places are filled.",
+    "english": {
+      "text": "If you are not a native speaker of English, and your Bachelor's degree or equivalent qualification is awarded by institutions where the medium of instruction is not English, you are expected to provide one of the following proficiency test results (taken in a single sitting within 2 years): an overall score of 80 out of 120 / 4.5 out of 6 (for tests taken on or after 21 Jan 2026) or above in TOEFL iBT; OR an Overall Band score of 6.0 or above in IELTS Academic.",
+      "ielts_overall": 6.0,
+      "ielts_min_sub": null,
+      "ielts_subs": null,
+      "toefl_ibt_pre_2026_01_21": 80,
+      "toefl_ibt_from_2026_01_21": 4.5,
+      "toefl_ibt_from_2026_01_21_scale": "4.5 out of 6",
+      "rejected": [
+        "TOEFL iBT Home Edition",
+        "IELTS Online",
+        "IELTS Indicator",
+        "IELTS One Skill Retake"
+      ],
+      "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded by an institution where the medium of instruction is English.",
+      "validity": "Single sitting within 2 years."
+    },
+    "gpa_min_4": null,
+    "source_urls": [
+      "https://www.polyu.edu.hk/study/pg/taught-postgraduate/admission-requirements-tpg",
+      "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "https://www.polyu.edu.hk/study/pg/taught-postgraduate",
+      "https://www.polyu.edu.hk/study/pg/taught-postgraduate/online-application-tpg"
+    ]
+  },
+  "programs": [
+    {
+      "id": "02021-afm",
+      "name_zh": "工商管理硕士学位",
+      "name_en": "Master of Business Administration",
+      "degree_label": "MBA",
+      "study_mode": ["full-time"],
+      "duration": "1 year including summer term (40 credits). Students who wish to extend beyond the normal duration apply to the Faculty of Business. Possible PgD in Business Administration exit is described on the 2026 Study@PolyU page as 22 credits; the 2026-27 brochure is the source used here for admission and fee.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2026",
+      "intake_cycle": "2026/27",
+      "academic": {
+        "text": "A Bachelor's degree, postgraduate degree or postgraduate diploma in any area, or an equivalent professional qualification. The 2026-27 brochure states the same academic route. No GPA, honours class, or grade letter is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline, or an equivalent professional qualification."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": [
+          "2026-27 MBA brochure restates IELTS Academic overall 6.0 or TOEFL iBT 80, single sitting within 2 years, and rejects TOEFL iBT Home Edition, IELTS Online, IELTS Indicator, and IELTS One Skill Retake.",
+          "The brochure does not restate the university's 4.5-out-of-6 TOEFL scale for tests taken on or after 21 Jan 2026; the university page does."
+        ],
+        "waiver": "Native speaker of English, or degree awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years."
+      },
+      "gmat_gre": {
+        "required": false,
+        "text": "Not required. The 2026-27 brochure lists an official GMAT/GRE report as optional. The Study@PolyU search extract also lists a GMAT score report as optional."
+      },
+      "experience": {
+        "work_years_min": 2,
+        "work_text": "A minimum of 2 years' full-time work experience (brochure: at least 2 years of postgraduate full-time work experience), and proficiency in English. Exceptional route: post-secondary qualifications and at least 8 years of full-time work experience, and proficiency in English, considered case by case. This is not the age-27 / 6-year / 3-year managerial route.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Certificate and transcript of academic qualification(s)",
+        "Employment proof for full-time work experience",
+        "Official IELTS/TOEFL score report if the degree medium of instruction was not English",
+        "Optional: curriculum vitae, referee report(s), official GMAT/GRE report"
+      ],
+      "interview": "Shortlisted candidates are invited to an admission interview. Faculty page: Sep 2026 local and non-local application deadlines are Application Closed.",
+      "deadlines": [
+        {"round": "early", "date": "2025-10-15", "scope": "local and non-local, September 2026 entry, Study@PolyU extract"},
+        {"round": "main", "date": "2026-01-15", "scope": "local and non-local, September 2026 entry"},
+        {"round": "extended", "date": "2026-05-15", "scope": "local and non-local, September 2026 entry"},
+        {"round": "status", "date": null, "scope": "Faculty MBA page on 2026-10-21: Application Closed"}
+      ],
+      "tuition": "HK$530,400 for local and non-local students (2026-27 brochure). No fee for the 1-credit Academic Integrity and Ethics in Business. MBA International Experience fee is paid to the offering institution.",
+      "apply_url": "https://www.polyu.edu.hk/admission",
+      "source_urls": [
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/mba/",
+        "https://www.polyu.edu.hk/fb/-/media/department/fb/publication/files/2026-27/mba_brochure_2627.pdf",
+        "https://www.polyu.edu.hk/study/pg/taught-postgraduate/admission-requirements-tpg"
+      ],
+      "official_quotes": [
+        "The MBA programme will be discontinued with effect from the 2027/28 intake cohort.",
+        "A Bachelor's degree, postgraduate degree, or postgraduate diploma in any area, or an equivalent professional qualification. At least 2 years of postgraduate full-time work experience. Proficiency in English.",
+        "Exceptionally, applicants with post-secondary qualifications and at least 8 years of full-time work experience, and proficiency in English, will also be considered on a case-by-case basis."
+      ],
+      "gaps": [
+        "The September 2026 Study@PolyU HTML (02021-AFM) could not be opened on 2026-10-21 (fetch blocked). Entrance, fee, and documents are from the official 2026-27 Faculty brochure and the Faculty MBA page.",
+        "MBA is not on the September 2027 Study@PolyU Faculty of Business list opened on 2026-10-21, consistent with discontinuation from the 2027/28 cohort.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "02024-cmba",
+      "name_zh": "工商管理硕士项目（香港理工大学与西安交通大学合作）",
+      "name_en": "Master of Business Administration (in collaboration with Xi'an Jiaotong University)",
+      "degree_label": "MBA",
+      "study_mode": ["part-time"],
+      "duration": "2 years; 43 credits. Exit award 工商管理深造文凭 after 25 credits (2 compulsory ideological-political subjects, 9 compulsory subjects including Academic Integrity and Ethics in Business, the MBA creator-leader workshop and the data-science workshop, and 1 elective). Extension beyond the normal period requires Faculty approval.",
+      "location": "Chinese Mainland (Faculty of Business English landing table). PolyU MBA jointly offered with Xi'an Jiaotong University. MoE approval number on the programme page: MOE61HK1A20020394O.",
+      "medium": "Chinese (Faculty of Business English landing table). The opened Chinese programme page does not restate the medium in the visible remarks.",
+      "intake": "September 2026",
+      "intake_cycle": "2026/27",
+      "academic": {
+        "text": "A bachelor's degree or above recognised by the Ministry of Education of the PRC, or another equivalently recognised professional qualification. No GPA or honours class is stated. Special route: an MoE-recognised sub-degree (大专) with sufficient senior experience, considered individually.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned on the opened admissions page."},
+      "experience": {
+        "work_years_min": 4,
+        "work_text": "Four or more years of management or professional work experience, counted to the end of August of the year of entry. Special route: MoE-recognised 大专 plus six or more years of senior management or professional work experience, considered individually.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Downloadable 入学申请表 on the admissions page; the form itself was not opened."],
+      "interview": "Shortlisted applicants are invited to interview.",
+      "deadlines": [],
+      "tuition": "RMB 399,750. Does not include travel and accommodation for the MBA creator-leader workshop and the data-science workshop. The optional MBA overseas study subject is paid to the overseas institution; XJTU and PolyU do not charge for that subject.",
+      "apply_url": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/cmba/admissions/",
+      "source_urls": [
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/cmba/?sc_lang=sc",
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/cmba/admissions/"
+      ],
+      "official_quotes": [
+        "持有国家教育部认可的学士学位或以上学历，或其它同等专业认可资格，及四年或以上管理或专业工作经验（截至入学年份的八月底）。",
+        "特殊情况下，拥有国家教育部认可的大专学历及具备六年或以上高层管理或专业工作经验的申请人可获个别考虑。",
+        "入选的申请人将被邀请参加面试。"
+      ],
+      "gaps": [
+        "No IELTS/TOEFL figure and no application deadline date on the opened admissions page.",
+        "A block of remarks about classes at the PolyU Hong Kong campus is present only inside an HTML comment and is not treated as live text.",
+        "Landing table says part-time in the Chinese Mainland; the live programme page confirms part-time, XJTU collaboration, and MoE approval, but does not itself print the city of teaching."
+      ]
+    },
+    {
+      "id": "02022-mmf-mmp",
+      "name_zh": "商业管理理学硕士学位",
+      "name_en": "Master of Science in Business Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time (Study@PolyU list). 43 credits. Exit PgD in Business Management: Academic Integrity and Ethics subject, 7 compulsory subjects excluding International Experience, and 1 elective (25 credits).",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent in any discipline. No GPA, honours, or grade letter is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Programme does not set a higher score. It requires the University minimum if the applicant is not a native speaker and the degree medium is not English."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Transcript / certificate, including grading system / conversion table",
+        "Further documents may be required if deemed necessary"
+      ],
+      "interview": "Shortlisted candidates may be invited to admissions interviews. Early applications are strongly encouraged.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$424,800 per programme (HK$11,800 per credit for 36 credits) for local and non-local students, excluding summer school. No fee for the 1-credit Academic Integrity and Ethics in Business. The 6-credit International Experience is not charged by the programme; the summer-school fee is paid to the partner institution.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/02022-mmf-mmp",
+        "https://www.polyu.edu.hk/study/pg/taught-postgraduate",
+        "https://www.polyu.edu.hk/study/pg/taught-postgraduate/admission-requirements-tpg"
+      ],
+      "official_quotes": [
+        "A Bachelor’s degree or equivalent in any discipline.",
+        "If you are not a native speaker of English, and your Bachelor's degree or equivalent qualification is awarded by institutions where the medium of instruction is not English, you are expected to fulfil the University’s minimum English language requirement for admission purpose."
+      ],
+      "gaps": [
+        "The individual Study@PolyU page opened on 2026-10-21 does not print early/main/extended dates. The catalogue lists the main-round deadline as 25 Feb 2027.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "02029-dfm-dpm-ffm-fpm",
+      "name_zh": "资产和财富管理理学硕士学位",
+      "name_en": "Master of Science in Asset and Wealth Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time. 31 credits for either the Digital Asset Management or the Family Office Wealth Management specialisation (6 compulsory cores, 1 AIE subject, 3 electives). Exit PgD: 22 credits.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent in any discipline. No GPA, honours, or grade letter is stated. One programme with two specialisations, not two degrees.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline. Specialisation choice is Digital Asset Management or Family Office Wealth Management."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Transcript / certificate, including grading system / conversion table",
+        "Further documents may be required if deemed necessary"
+      ],
+      "interview": "Shortlisted candidates may be invited for interviews. Early applications are strongly encouraged.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$519,000 per programme (HK$17,300 per credit for 30 credits) for local and non-local students. No fee for the 1-credit Academic Integrity and Ethics in Business. International Experience is paid to the offering institution.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/02029-dfm-dpm-ffm-fpm",
+        "https://www.polyu.edu.hk/study/pg/taught-postgraduate"
+      ],
+      "official_quotes": [
+        "A Bachelor’s degree or equivalent in any discipline.",
+        "Have the option to specialise in Digital Asset Management or Family Office Wealth Management."
+      ],
+      "gaps": [
+        "Early-round date is not printed on the opened Study@PolyU page. Catalogue main round is 25 Feb 2027.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "21046-maf-paf-mae-pap",
+      "name_zh": "专业会计硕士学位/深造文凭",
+      "name_en": "Master of / Postgraduate Diploma in Professional Accounting",
+      "degree_label": "Master / PgD",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode. Study@PolyU list: 1 year full-time for the Master and for the PgD; 2 years part-time for the Master; 1.5 years part-time for the PgD. 37 credits for the Master, 22 for the PgD. PgD is an entry award (eight core subjects), not only an exit.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree in business awarded by a recognised tertiary institution; OR a non-business Bachelor's degree plus evidence of completion of fundamental business course(s) deemed acceptable by the School of Accounting and Finance. Applicants who have completed Financial Accounting, Economics, Business Law, Statistics, Management and Marketing are deemed business degree holders. No GPA or honours class is stated. HKICPA, ACCA or CPA Australia membership with substantial professional experience, or a PolyU MCG, may receive up to 18 credits of transfer and finish the MPA part-time in one year; that is credit transfer, not a substitute for the degree requirement as written.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Business degree, defined as having completed financial accounting, economics, business law, statistics, management and marketing; otherwise a non-business degree plus fundamental business courses acceptable to AF."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience minimum for admission. Substantial professional experience is relevant only to the credit-transfer route for designated professional membership or a PolyU MCG.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Copies of graduation certificate and official academic transcript",
+        "If seeking exemption from summer fundamental business courses, indicate equivalent prior subjects: basic accounting, business law, economics, management, marketing and statistics (not applicable to HKICPA membership or equivalent)",
+        "Official English translations of any non-English certificates"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews. Quota; early application encouraged.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$385,200 per programme (HK$10,700 per credit) for local and non-local Master students. HK$224,700 per programme (HK$10,700 per credit) for local and non-local PgD students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21046-maf-paf-mae-pap",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/21046-maf-paf-mae-pap",
+        "https://www.polyu.edu.hk/study/pg/taught-postgraduate"
+      ],
+      "official_quotes": [
+        "A Bachelor's degree in business awarded by a recognised tertiary institution; OR a non-business Bachelor’s degree awarded by a recognised tertiary institution plus evidence of completion of fundamental business course(s) deemed acceptable by the School of Accounting and Finance (AF) of PolyU.",
+        "Applicants who have completed courses in Financial Accounting, Economics, Business Law, Statistics, Management and Marketing are deemed to be business degree holders."
+      ],
+      "gaps": ["No GPA minimum is stated. Early-round date is not on the opened programme page."]
+    },
+    {
+      "id": "21047-cgf-cgp",
+      "name_zh": "公司管治硕士学位",
+      "name_en": "Master of Corporate Governance",
+      "degree_label": "Master",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time. 31 credits.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree from a recognised university, or the equivalent. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preference will be given to applicants with relevant working experience, but it is not a must.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Copies of graduation certificate and official academic transcripts",
+        "Supporting document for the current/most recent employment",
+        "Copies of professional-body membership certificates, if any",
+        "Official English translations of any non-English certificates"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$369,000 per programme (HK$12,300 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21047-cgf-cgp",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21047-cgf-cgp"],
+      "official_quotes": [
+        "A Bachelor’s degree from a recognised university, or the equivalent. Preference will be given to applicants with relevant working experience, but it is not a must."
+      ],
+      "gaps": ["No GPA minimum is stated. Early-round date is not on the opened programme page."]
+    },
+    {
+      "id": "21049-afm-apm",
+      "name_zh": "会计学理学硕士学位",
+      "name_en": "Master of Science in Accountancy",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits. Students unable to complete the MSc may exit with a Postgraduate Diploma after 5 core subjects and 3 electives (22 credits). That PgD is an exit, not a separate entry award on the September 2027 list.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree in accounting or other relevant disciplines; OR equivalent professional qualifications. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Accounting or other relevant disciplines, or equivalent professional qualifications."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preference will be given to applicants with at least one year of relevant work experience. One year is a preference, not a stated minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Copies of certificates and academic transcripts are required."],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$369,000 per programme (HK$12,300 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21049-afm-apm",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21049-afm-apm"],
+      "official_quotes": [
+        "A Bachelor's degree in accounting or other relevant disciplines; OR Equivalent professional qualifications.",
+        "Preference will be given to applicants with at least one year of relevant work experience."
+      ],
+      "gaps": [
+        "The body of the Additional Documents 'Others' field was not captured from the opened page.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "21050-fcf-cfp",
+      "name_zh": "金融学硕士学位（企业金融）",
+      "name_en": "Master of Finance (Corporate Finance)",
+      "degree_label": "Master of Finance",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time. 37 credits.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree from a recognised university, or the equivalent. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score. A separate Chinese-medium Corporate Finance page linked from the faculty landing returned 404 and is not folded into this entry."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned on the September 2027 page. An older faculty page referring to a 2023/24 fee and a GMAT score of 600 was not used."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Open to applicants with little work experience. Candidates with no or little work experience are welcome to apply.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Copies of graduation certificate and official academic transcript"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "early", "date": "2026-10-20", "scope": "local and non-local, School of Accounting and Finance programme page"},
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local; page shows the current displayed deadline as 25 Feb 2027"}
+      ],
+      "tuition": "HK$403,200 per programme (HK$11,200 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fcf-cfp",
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-finance---corporate-finance/"
+      ],
+      "official_quotes": [
+        "A Bachelor's degree from a recognised university, or the equivalent.",
+        "Candidates with no or little work experience are welcome to apply."
+      ],
+      "gaps": ["The body of the Additional Documents 'Others' field was not captured. No GPA minimum is stated."]
+    },
+    {
+      "id": "21050-fim-imp",
+      "name_zh": "金融学硕士学位（投资管理）",
+      "name_en": "Master of Finance (Investment Management)",
+      "degree_label": "Master of Finance",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time. 37 credits (7 compulsory subjects, 4 electives, 2 compulsory capstone subjects).",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree from a recognised university, or the equivalent. Aimed at graduates who would like to specialise in investment management, particularly those with no or little work experience. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Open to applicants with little work experience. Candidates with no or little work experience are welcome to apply.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Copies of graduation certificate and official academic transcript",
+        "Official English translations of any non-English certificates"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$403,200 per programme (HK$11,200 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21050-fim-imp"],
+      "official_quotes": [
+        "A Bachelor's degree from a recognised university, or the equivalent.",
+        "Candidates with no or little work experience are welcome to apply.",
+        "Open to applicants with little work experience."
+      ],
+      "gaps": ["No GPA minimum is stated. Early-round date was not on the opened Study@PolyU page."]
+    },
+    {
+      "id": "21052-fam-pam",
+      "name_zh": "会计及金融分析理学硕士学位",
+      "name_en": "Master of Science in Accounting and Finance Analytics",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time. 31 credits. Students unable to complete the MSc may exit with a Postgraduate Diploma after the first 8 compulsory core subjects (22 credits).",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree. Preference will be given to applicants with a business degree who have some fundamental training in computing, or to graduates with a background in computing, science or engineering. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "No compulsory major. Preference for business plus computing, or computing, science, or engineering."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Interested applicants with little or no work experience are encouraged to apply.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Copies of certificates and academic transcripts",
+        "Copies of relevant professional qualifications, if any, for example HKICPA, AICPA, ACCA, CPA Australia"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$390,000 per programme (HK$13,000 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21052-fam-pam"],
+      "official_quotes": [
+        "A Bachelor’s degree.",
+        "Preference will be given to applicants with a business degree who are equipped with some fundamental training in computing or graduates with a background in computing, science or engineering.",
+        "Interested applicants with little or no work experience are encouraged to apply."
+      ],
+      "gaps": ["No GPA minimum is stated."]
+    },
+    {
+      "id": "21054-efm-epm",
+      "name_zh": "环境、社会和治理及可持续性理学硕士学位",
+      "name_en": "Master of Science in ESG and Sustainability",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2 years part-time.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree from a recognised university. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Applicants with relevant working experience are preferred, but it is not a requirement.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Graduation certificate and official academic transcript, including grading system / conversion table",
+        "Proof of current and past employment as indicated in the application",
+        "An official letter certifying the final score/GPA, or the grading system, if not shown on the transcript"
+      ],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$378,000 per programme (HK$12,600 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21054-efm-epm",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21054-efm-epm"],
+      "official_quotes": [
+        "A Bachelor’s degree from a recognised university.",
+        "Applicants with relevant working experience are preferred, but it is not a requirement."
+      ],
+      "gaps": ["No GPA minimum is stated. The request for a GPA explanation letter is documentary, not a minimum GPA."]
+    },
+    {
+      "id": "21055-aem-dem",
+      "name_zh": "经济学理学硕士学位",
+      "name_en": "Master of Science in Economics",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time, 1 year (Study@PolyU list). 34 credits: 6 compulsory cores, 2 core electives and 4 free electives, in either Applied Economics or Digital Economics. Exit PgD after 6 compulsory cores, 1 core elective and 2 free electives (25 credits). The PgD is an exit, not a separate entry on the September 2027 list.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree from a recognised university. No GPA, honours class, or major restriction is stated. Students choose Applied Economics or Digital Economics.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Copies of graduation certificate and official academic transcript."],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$382,800 per programme (HK$11,600 per credit) for local and non-local students. No tuition fee for Academic Integrity and Ethics in Business.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/21055-aem-dem",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/21055-aem-dem"],
+      "official_quotes": [
+        "A Bachelor's degree from a recognised university."
+      ],
+      "gaps": ["No GPA minimum is stated. Part-time study is not offered on the September 2027 list."]
+    },
+    {
+      "id": "21056-afbd",
+      "name_zh": "大数据会计与金融理学硕士",
+      "name_en": "MSc in Accounting and Finance with Big Data",
+      "degree_label": "MSc",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, 2 years. 34 credits (1 academic-integrity subject, 16 core subjects, 2 ideological-political subjects). Exit award 大数据会计与金融理学深造文凭 after 22 credits. Extension requires approval of AF and Xiamen National Accounting Institute.",
+      "location": "Chinese Mainland, in collaboration with Xiamen National Accounting Institute (XNAI). MoE approval MOE35HK1A20252520N. Degree awarded by PolyU.",
+      "medium": "Chinese (Putonghua). The programme page says 采用中文（普通话）教学.",
+      "intake": "September 2026",
+      "intake_cycle": "2026/27",
+      "academic": {
+        "text": "An MoE-recognised bachelor's degree or above. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Not a named major. The work condition is senior management in accounting, finance, or related industries."
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["The admissions page does not set an IELTS or TOEFL number. It points readers to the university taught-postgraduate admissions page."],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": 5,
+        "work_text": "Senior managers in accounting, finance, or related industries, with more than five years of relevant work experience.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [],
+      "interview": "Not stated on the opened admissions page.",
+      "deadlines": [],
+      "tuition": "RMB 299,000 (pending approval), stated on the programme-content page for the part-time programme.",
+      "apply_url": "https://mpacc.xnai.edu.cn/xwxm/xglgdxhzbx/zsjz.htm",
+      "source_urls": [
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-science-in-accounting-and-finance-with-big-data-chs/?sc_lang=sc",
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-science-in-accounting-and-finance-with-big-data-chs/admissions/?sc_lang=sc",
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-science-in-accounting-and-finance-with-big-data-chs/programme/"
+      ],
+      "official_quotes": [
+        "拥有教育部认可的本科或以上学历；及",
+        "从事会计、财务、金融等相关行业高级管理人员，具有五年以上相关工作经验。",
+        "项目为兼读制，采用中文 （普通话） 教学。",
+        "学费： 人民币¥ 299,000 元 (有待批核)"
+      ],
+      "gaps": [
+        "No application deadline, document list, interview rule, or numeric English score on the opened PolyU pages.",
+        "Tuition is marked pending approval.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "23090-maf-map",
+      "name_zh": "商务分析理学硕士学位",
+      "name_en": "Master of Science in Business Analytics",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits. This is the Hong Kong English-medium award, distinct from 23093.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent academic/professional qualifications. No GPA or honours class is stated. Mature route does not require a bachelor's degree.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably at least one year of relevant work experience. That one year is a preference, not a stated minimum. Mature route: applicants normally aged 27 or above, with other post-secondary qualifications and at least 6 years of work experience in industry, commerce or public administration, including 3 years in a managerial capacity, will also be considered.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Both copies of transcripts and certificates are required."],
+      "interview": "Shortlisted candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local. Department page displays 25 Feb 2027. Study@PolyU list also shows 25 Feb 2027 (Main Round)."}
+      ],
+      "tuition": "HK$399,000 per programme (HK$13,300 per credit) for local and non-local students. The 1-credit AIE subject is non-chargeable.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-maf-map",
+        "https://www.polyu.edu.hk/mm/study/tpg/ba/"
+      ],
+      "official_quotes": [
+        "Applicants should have a Bachelor’s degree or equivalent academic/professional qualifications, preferably with at least one year of relevant work experience.",
+        "Applicants, normally aged 27 or above, with other post-secondary qualifications and at least 6 years of work experience in industry, commerce or public administration, including 3 years in a managerial capacity, will also be considered."
+      ],
+      "gaps": ["No GPA minimum is stated. The one year of work is 'preferably', so work_years_min is null."]
+    },
+    {
+      "id": "23093-ba-eit",
+      "name_zh": "商务分析理学硕士项目",
+      "name_en": "MSc in Business Analytics (in collaboration with Eastern Institute of Technology, Ningbo; two-stage mode)",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode taught in Hong Kong: 1 year full-time or 1.5 years part-time. 31 credits. Up to 12 credits of transfer from the EIT executive training (up to 9 credits toward the PgD exit). Exit 商务分析深造文凭 after 22 credits. The PolyU page says this is a PolyU award taught in Hong Kong and is not an MoE-approved mainland cooperative programme.",
+      "location": "Hong Kong (classes). Collaboration / prior executive training with Eastern Institute of Technology, Ningbo. Faculty landing table: Chinese supplemented with English, Hong Kong, mixed-mode.",
+      "medium": "Chinese supplemented with English",
+      "intake": "September 2026",
+      "intake_cycle": "2026/27",
+      "academic": {
+        "text": "A bachelor's degree or equivalent academic/professional qualification from a recognised university, and completion of all assessment requirements of the EIT Ningbo executive training in business technology and analytics. Applicants who can show equivalent prior study may be considered case by case. No GPA is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "If the applicant is not a native speaker of English and the bachelor's or master's degree was awarded where the medium of instruction is not English, the applicant must pass an English written test organised by PolyU, unless the University minimum English language requirement is already met."
+        ],
+        "waiver": "University minimum English requirement, if already met, in place of the PolyU written English test.",
+        "validity": "University test validity applies only if that route is used: single sitting within 2 years."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably at least one year of relevant work experience, in addition to the EIT executive training. Mature route, worded differently from the Hong Kong English MSc: applicants who have reached the age of 25 before 1 September of the year, with other post-secondary qualifications and at least 6 years of work experience in industry, commerce or public administration, including 3 years in a managerial capacity, will also be considered.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [],
+      "interview": "Applicants must meet the stated requirements and pass the admission interview. Applicants who pass screening will be invited to interview.",
+      "deadlines": [],
+      "tuition": "HK$228,600 (18 credits at HK$12,700 per credit) for 2026/27 entry, excluding the fee for 4 subjects (12 credits) recognised by credit transfer. Accommodation and transport during class are at the student's expense. Approved credit transfer is charged at HK$150 per credit.",
+      "apply_url": "https://www.polyu.edu.hk/mm/study/tpg/ba_eit/",
+      "source_urls": [
+        "https://www.polyu.edu.hk/mm/study/tpg/ba_eit/",
+        "https://www.polyu.edu.hk/mm/study/tpg/ba_eit/admissions/",
+        "https://www.polyu.edu.hk/mm/study/tpg/ba_eit/programme/",
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en"
+      ],
+      "official_quotes": [
+        "持有认可大学颁发的本科学位或同等学术／专业资格，最好具有至少一年的相关工作经验；及成功修毕宁波东方理工大学企业高级管理人员商业科技及分析能力培训项目。",
+        "成年学生：如申请人于当年 9 月 1 日之前年满 25 岁；具有其他专上学历，并在工业、商业或公共管理领域至少有 6 年工作经验，其中包括 3 年管理经验可获个别考虑。",
+        "母语并非英语，而学士／硕士学位或同等学历由非英语院校颁发的申请人必须通过香港理工大学的英语笔试。否则需符合理大最低英语语言要求。",
+        "项目为混合制（全日或兼读），采用中文辅以英文教学。学员在香港上课。"
+      ],
+      "gaps": [
+        "The page says application details will be announced later. No deadline date was opened.",
+        "September 2026 Study@PolyU code 23093-MBF-MBP could not be fetched (HTTP 403).",
+        "No GPA minimum is stated. The preferred one year of work is not coded as a hard minimum."
+      ]
+    },
+    {
+      "id": "23090-mhf-mhp",
+      "name_zh": "人力资源管理理学硕士学位",
+      "name_en": "Master of Science in Human Resource Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent professional qualification. No GPA or honours class is stated. Mature route uses other post-secondary qualifications.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably with at least 1 year of relevant work experience. Mature route: applicants normally aged 27 or above, with other post-secondary qualifications and at least 6 years of work experience in industry, commerce or public administration, including 3 years in a managerial capacity, will also be considered.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Both copies of transcripts and certificates are required."],
+      "interview": "Suitable candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$375,000 per programme (HK$12,500 per credit) for local and non-local students. The 1-credit AIE subject is non-chargeable.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mhf-mhp"],
+      "official_quotes": [
+        "A Bachelor's degree or equivalent professional qualification, preferably with at least 1 year of relevant work experience.",
+        "Applicants, normally aged 27 or above, with other post-secondary qualifications and at least 6 years of work experience in industry, commerce or public administration, including 3 years in a managerial capacity, will also be considered."
+      ],
+      "gaps": ["No GPA minimum is stated. The one year of work is 'preferably', so work_years_min is null."]
+    },
+    {
+      "id": "23090-mlf-mlp",
+      "name_zh": "国际管理与领导力理学硕士学位",
+      "name_en": "Master of Science in International Management and Leadership",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: normally 1.5 years full-time or 2.5 years part-time. 31 credits. Full-time load is 9 or more credits in a semester; part-time is fewer than 9.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent academic/professional qualifications. No GPA, honours class, major restriction, or mature-applicant route is stated on the opened page.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Both copies of transcripts and certificates are required."],
+      "interview": "Shortlisted candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list"}
+      ],
+      "tuition": "HK$417,000 per programme (HK$13,900 per credit) for local and non-local students. The 1-credit AIE subject is non-chargeable.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mlf-mlp"],
+      "official_quotes": [
+        "A Bachelor's degree or equivalent academic/professional qualifications."
+      ],
+      "gaps": ["No GPA minimum and no work-experience rule are stated."]
+    },
+    {
+      "id": "23090-mkf-mkp",
+      "name_zh": "市场营销管理理学硕士学位",
+      "name_en": "Master of Science in Marketing Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits. Aimed at non-marketing graduates.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent academic/professional qualifications. There is no restriction on previous background; business, engineering, social sciences, natural sciences, humanities, law and others are acceptable. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "No major restriction."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Priority will be given to applicants with relevant work experience. Not a stated minimum.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": ["Both copies of transcripts and certificates are required."],
+      "interview": "Shortlisted candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local. Department page and Study@PolyU list both show 25 Feb 2027."}
+      ],
+      "tuition": "HK$387,000 per programme (HK$12,900 per credit) for local and non-local students. The 1-credit AIE subject is non-chargeable.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/23090-mkf-mkp",
+        "https://www.polyu.edu.hk/mm/study/tpg/mm/"
+      ],
+      "official_quotes": [
+        "A Bachelor's degree or equivalent academic/professional qualifications. There is no restriction on previous background – business, engineering, social sciences, natural sciences, humanities, law and others are all acceptable.",
+        "Priority will be given to applicants with relevant work experience."
+      ],
+      "gaps": ["No GPA minimum is stated."]
+    },
+    {
+      "id": "44087-ifm-tfp-ipm-tpp",
+      "name_zh": "国际航运及物流管理理学硕士学位/深造文凭",
+      "name_en": "Master of Science / Postgraduate Diploma in International Shipping and Transport Logistics",
+      "degree_label": "MSc / PgD",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode. MSc and PgD: 2 years full-time or 2.5 years part-time. Department page: 34 credits for the MSc and 19 for the PgD. PgD is both an entry stream (TFP/TPP) and an early-exit award for students admitted to the MSc. Distinct from the scholarship award 44087-ISS.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or an equivalent qualification; OR full membership of the Chartered Institute of Logistics and Transport, Hong Kong, or the Institute of Chartered Shipbrokers, UK, or the Chartered Insurance Institute, UK, or the Chartered Institute of Purchasing and Supply, UK; OR other post-secondary qualifications plus the experience route below. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Degree holders have no stated work minimum. Alternative route: other post-secondary qualifications and employment in maritime service, shipping, transport or logistics for not less than 6 years, of which 3 years have been in a managerial capacity. No age threshold is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Personal statement (required)",
+        "Transcript / certificate (required)"
+      ],
+      "interview": "Rolling consideration. Shortlisted candidates may be invited. Applicants who submit before 20 October 2026 are invited to the first round of interviews in November 2026. Further rounds follow.",
+      "deadlines": [
+        {"round": "early", "date": "2026-10-20", "scope": "local and non-local, department page"},
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local; displayed deadline 25 Feb 2027"}
+      ],
+      "tuition": null,
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/44087-ifm-tfp-ipm-tpp",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/44087-ifm-tfp-ipm-tpp",
+        "https://www.polyu.edu.hk/lms/study/tpg/istl-mm/"
+      ],
+      "official_quotes": [
+        "A Bachelor’s degree or an equivalent qualification OR Full membership in one of the following professional bodies: The Chartered Institute of Logistics and Transport, Hong Kong; The Institute of Chartered Shipbrokers, UK; The Chartered Insurance Institute, UK; The Chartered Institute of Purchasing and Supply, UK.",
+        "Applicants with other post-secondary qualifications, who have been employed in the fields of maritime service, shipping, transport or logistics for not less than 6 years, of which 3 years have been in a managerial capacity, will also be considered."
+      ],
+      "gaps": [
+        "No programme fee amount on the opened Study@PolyU or department pages. Only that the 1-credit Academic Integrity and Ethics in Business subject is not charged.",
+        "No GPA minimum is stated. The employer's-recommendation and CV lines were not in the captured document block; personal statement and transcript/certificate are required."
+      ]
+    },
+    {
+      "id": "44087-iss",
+      "name_zh": "国际航运及物流管理理学硕士学位",
+      "name_en": "Master of Science in International Shipping and Transport Logistics (Hong Kong Maritime and Logistics Scholarship Scheme)",
+      "degree_label": "MSc",
+      "study_mode": ["full-time"],
+      "duration": "Full-time, 2 years. 46 credits: 40 academic credits and 6 training credits. Not the mixed-mode MSc/PgD.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "Local applicants: a Bachelor's degree in any discipline. Chinese Mainland and overseas applicants: a Bachelor's degree in International Shipping or Maritime Studies or other relevant disciplines, and either English as the medium of instruction or the English scores below. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Local: any discipline. Chinese Mainland and overseas: International Shipping, Maritime Studies, or other relevant disciplines."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": [
+          "For Chinese Mainland and overseas applicants whose degree medium is not English: IELTS Academic at least 6; OR TOEFL Internet-based test at least 80, including at least 20 in the Test of Written English; OR TOEFL paper-based test at least 550, including at least 4.5 in the Test of Written English.",
+          "Overall IELTS 6 and TOEFL iBT 80 match the university overall minimum. The writing subscore of 20, and the paper-based alternative, are additional programme wording. The page does not restate the university 4.5-out-of-6 scale for TOEFL tests on or after 21 Jan 2026.",
+          "Rejected formats on the university page (TOEFL iBT Home Edition, IELTS Online, IELTS Indicator, IELTS One Skill Retake) are not repeated on this programme page."
+        ],
+        "waiver": "For Chinese Mainland and overseas applicants, English as the medium of instruction of the bachelor's degree. Local applicants' English rule is not separately spelled out beyond a bachelor's degree in any discipline.",
+        "validity": null
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No minimum years of work for admission. Local scholarship recipients with relevant internship or work experience may be exempted from the internship training credits.",
+        "internship_required": true,
+        "internship_text": "Mandatory 6-credit Maritime Industry Internship (240 hours). Exemptions may be granted to local scholarship recipients with relevant internship/work experience. Within 3 calendar months of completion, recipients must work full time in the Hong Kong maritime industry for no fewer than 36 consecutive calendar months."
+      },
+      "documents": [
+        "Personal statement (required)",
+        "Scholarship application form",
+        "Transcript / certificate (required)",
+        "Curriculum vitae (required)",
+        "Admission application must be submitted online together with the scholarship form"
+      ],
+      "interview": "Shortlisted candidates may be invited to admission interviews.",
+      "deadlines": [
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local, September 2027, Study@PolyU programme list for the full-time 44087 MSc"}
+      ],
+      "tuition": "Covered by the Hong Kong Maritime and Logistics Scholarship Scheme. No separate fee figure is stated. The 1-credit Academic Integrity and Ethics in Business subject is not charged.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/44087-iss",
+      "source_urls": ["https://www.polyu.edu.hk/study/pg/tpg/2027/44087-iss"],
+      "official_quotes": [
+        "Local Applicants: A Bachelor's degree in any discipline.",
+        "Chinese Mainland and Overseas Applicants: A Bachelor's degree in International Shipping or Maritime Studies or other relevant disciplines with: i) English is the medium of instruction; OR ii) English is not the medium of instruction; in this case, applicants are also required to meet one of the following requirements: an IELTS Academic Test score of at least 6; or a TOEFL Internet-based test score of at least 80, including a score of at least 20 in the Test of Written English; or a TOEFL paper-based test score of at least 550, including a score of at least 4.5 in the Test of Written English.",
+        "Students must complete 40 academic credits and 6 training credits (240-hour Maritime Industry Internship)."
+      ],
+      "gaps": [
+        "TOEFL writing 20 is programme-specific. It is not a higher overall than the university TOEFL 80 / IELTS 6.0.",
+        "No cash tuition figure because the scholarship covers the fee.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "44089-sfm-sfp-gpm-spp",
+      "name_zh": "全球供应链管理理学硕士学位/深造文凭",
+      "name_en": "Master of Science / Postgraduate Diploma in Global Supply Chain Management",
+      "degree_label": "MSc / PgD",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits for the MSc and 19 for the PgD. Students admitted to the MSc may apply for early exit with a PgD. PgD is also an entry stream (SFP/SPP).",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree in a business-related discipline or an equivalent qualification. For non-business degree holders, 2 years of relevant work experience or relevant background knowledge is preferred. Candidates in senior management positions who possess other academic qualifications may be considered case by case. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Business-related degree preferred. Non-business degrees are not excluded."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Priority will be given to applicants with relevant work experience. For non-business degree holders, 2 years of relevant work experience or relevant background knowledge is preferred, not stated as a minimum. Senior managers with other academic qualifications may be considered case by case.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Personal statement, required, with a self-introduction and 5-year career aspiration, word limit 200",
+        "Transcript / certificate, required",
+        "Employer's recommendation, optional",
+        "Curriculum vitae, optional"
+      ],
+      "interview": "Rolling consideration. Shortlisted candidates may be invited. Applications submitted before 20 October 2026 are invited to the first interview round in November 2026.",
+      "deadlines": [
+        {"round": "early", "date": "2026-10-20", "scope": "local and non-local, department page"},
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local; displayed deadline 25 Feb 2027"}
+      ],
+      "tuition": null,
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/44089-sfm-sfp-gpm-spp",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/44089-sfm-sfp-gpm-spp",
+        "https://www.polyu.edu.hk/lms/study/tpg/gscm/"
+      ],
+      "official_quotes": [
+        "A Bachelor’s degree in a business-related discipline or an equivalent qualification. For non-business degree holders, 2 years of relevant work experience or relevant background knowledge is preferred.",
+        "Candidates in senior management positions who possess other academic qualifications may be considered on a case-by-case basis.",
+        "Priority will be given to applicants with relevant work experience."
+      ],
+      "gaps": [
+        "No programme fee amount on the opened pages. The 1-credit Academic Integrity and Ethics in Business subject is not charged.",
+        "No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "44092-ofm-opm",
+      "name_zh": "营运管理学理学硕士学位",
+      "name_en": "Master of Science in Operations Management",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1.5 years full-time or 2.5 years part-time. 31 credits. The department note says students can complete the programme in one year full-time depending on study pace.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or an equivalent professional qualification. Described as a conversion programme, designed primarily for graduates in disciplines other than management. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "No named major. Equivalent professional qualification is accepted."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "Preferably with at least 1 year of relevant work experience. Alternative route, with no age stated: other post-secondary qualifications and employment in industry, commerce or public administration for no less than 6 years, of which 3 years have been in a managerial capacity.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Transcript / certificate, required",
+        "Personal statement, required",
+        "Employer's recommendation, optional",
+        "Curriculum vitae, optional"
+      ],
+      "interview": "Rolling consideration. Shortlisted candidates may be invited. Applications submitted before 20 October 2026 are invited to the first interview round in November 2026.",
+      "deadlines": [
+        {"round": "early", "date": "2026-10-20", "scope": "local and non-local, department page"},
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local; displayed deadline 25 Feb 2027"}
+      ],
+      "tuition": null,
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/44092-ofm-opm",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/44092-ofm-opm",
+        "https://www.polyu.edu.hk/lms/study/tpg/om/"
+      ],
+      "official_quotes": [
+        "A Bachelor’s degree or an equivalent professional qualification, preferably with at least 1 year of relevant work experience.",
+        "Applicants with other post-secondary qualifications who have been employed in industry, commerce or public administration for no less than 6 years, of which 3 years have been in a managerial capacity, will also be considered."
+      ],
+      "gaps": [
+        "No programme fee amount on the opened pages. The 1-credit Academic Integrity and Ethics subject is not charged.",
+        "The mature route does not state age 27. No GPA minimum is stated."
+      ]
+    },
+    {
+      "id": "44094-bfm-bpm",
+      "name_zh": "环球商业及决策分析理学硕士学位",
+      "name_en": "Master of Science in Global Business and Decision Analysis",
+      "degree_label": "MSc",
+      "study_mode": ["full-time", "part-time"],
+      "duration": "Mixed-mode: 1 year full-time or 2.5 years part-time. 31 credits. English-medium Hong Kong award, distinct from the Chinese-supplemented executive award that could not be opened.",
+      "location": "Hong Kong",
+      "medium": "English",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A Bachelor's degree or equivalent in any discipline. Business and non-business backgrounds are both accepted. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": "Any discipline."
+      },
+      "english": {
+        "ielts_overall": 6.0,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": 80,
+        "toefl_ibt_from_2026_01_21": 4.5,
+        "other": ["Defers to the University minimum. No higher programme score."],
+        "waiver": "Native speaker of English, or Bachelor's degree or equivalent awarded where the medium of instruction is English.",
+        "validity": "Single sitting within 2 years (university rule)."
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": null,
+        "work_text": "No work-experience requirement is stated.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [
+        "Transcript / certificate, required",
+        "Personal statement, required",
+        "Employer's recommendation, optional",
+        "Curriculum vitae, optional"
+      ],
+      "interview": "Rolling consideration. Shortlisted candidates may be invited. Applications submitted before 20 October 2026 are invited to the first interview round in November 2026.",
+      "deadlines": [
+        {"round": "early", "date": "2026-10-20", "scope": "local and non-local, department page"},
+        {"round": "main", "date": "2027-02-25", "scope": "local and non-local; displayed deadline 25 Feb 2027"}
+      ],
+      "tuition": "HK$423,000 per programme (HK$14,100 per credit) for local and non-local students, from the official 2027-28 programme brochure. The Study@PolyU page states that no fee is charged for the 1-credit Academic Integrity and Ethics in Business subject.",
+      "apply_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm",
+      "source_urls": [
+        "https://www.polyu.edu.hk/study/pg/tpg/2027/44094-bfm-bpm",
+        "https://www.polyu.edu.hk/lms/study/tpg/gbda/",
+        "https://www.polyu.edu.hk/fb/-/media/department/fb/publication/files/2027-28/gbda_brochure_2728.pdf"
+      ],
+      "official_quotes": [
+        "A Bachelor's degree or equivalent in any discipline.",
+        "Fee HK$423,000 per programme (HK$14,100 per credit) for local and non-local students."
+      ],
+      "gaps": ["No GPA minimum and no work-experience minimum are stated."]
+    },
+    {
+      "id": "44090-qm-zju",
+      "name_zh": "品质管理理学硕士项目",
+      "name_en": "MSc in Quality Management (in collaboration with Zhejiang University)",
+      "degree_label": "MSc",
+      "study_mode": ["part-time"],
+      "duration": "Part-time, normally 2 to 3 years. 39 credits. Extension requires a written application to the Department of Logistics and Maritime Studies. Classes usually on Friday, Saturday and Sunday.",
+      "location": "Chinese Mainland, through the Zhejiang University–PolyU joint centre. Faculty landing table: Chinese, Chinese Mainland, part-time. MoE approval number on the programme page: MOE33HK1A19990116O.",
+      "medium": "Chinese (Faculty of Business English landing table). The opened Chinese admissions page does not restate the medium.",
+      "intake": "September 2027",
+      "intake_cycle": "2027/28",
+      "academic": {
+        "text": "A university bachelor's degree or above, or the mature route below. No GPA or honours class is stated.",
+        "gpa_min_4": null,
+        "honours": null,
+        "grade_letter": null,
+        "major_prerequisite": null
+      },
+      "english": {
+        "ielts_overall": null,
+        "ielts_min_sub": null,
+        "ielts_subs": null,
+        "toefl_ibt_pre_2026_01_21": null,
+        "toefl_ibt_from_2026_01_21": null,
+        "other": ["具备一定程度的英语读写能力. No IELTS or TOEFL number is stated. Admission also requires the joint centre's written test."],
+        "waiver": null,
+        "validity": null
+      },
+      "gmat_gre": {"required": false, "text": "Not mentioned."},
+      "experience": {
+        "work_years_min": 1,
+        "work_text": "Route 1: a university bachelor's degree or above and not less than one year of full-time work experience. Route 2: other post-secondary qualifications, age 35, and not less than six years of work in an enterprise or a state organ, of which three years were in a managerial post, considered individually. Both routes also require a certain level of English reading and writing, and the joint-centre written test and interview.",
+        "internship_required": false,
+        "internship_text": null
+      },
+      "documents": [],
+      "interview": "Applicants must pass a written test and an interview arranged by the Zhejiang University–PolyU joint centre. PolyU selects candidates for the test/interview on education and work history. Admission is competitive.",
+      "deadlines": [],
+      "tuition": "The admissions page labels fees as pending approval and prints the 2025/26 fee: RMB 331,500 per programme (RMB 8,500 per credit). No 2027/28 figure was opened.",
+      "apply_url": "https://zupuc.zju.edu.cn:8123/applyOnline/",
+      "source_urls": [
+        "https://www.polyu.edu.hk/lms/study/tpg/qm-hz/",
+        "https://www.polyu.edu.hk/lms/study/tpg/qm-hz/admissions/",
+        "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en"
+      ],
+      "official_quotes": [
+        "持有大学本科或以上资历，及不少于一年的全职工作经验；或",
+        "申请人如持有其他高校学历、年龄达三十五岁，并于企业或国家机关工作不少于六年，其中三年担任管理职务可获个别考虑；及",
+        "具备一定程度的英语读写能力。",
+        "申请人须通过浙江大学—香港理工大学联合中心安排的入学笔试及面试，择优录取。"
+      ],
+      "gaps": [
+        "No 2027/28 tuition figure. The only figure opened is the 2025/26 fee, marked pending approval.",
+        "No application deadline date and no document checklist on the opened admissions page.",
+        "English is qualitative, not an IELTS/TOEFL number, so it is not coded as above the university IELTS 6.0 / TOEFL 80 minimum.",
+        "No GPA minimum is stated."
+      ]
+    }
+  ],
+  "excluded_note": "Doctoral and research awards listed under the Faculty of Business, the School of Accounting and Finance, and the Department of Logistics and Maritime Studies are excluded. On the English faculty landing and/or the September 2027 Study@PolyU list these include: Doctor of Business Administration (English, Hong Kong, mixed-mode; code 02007) and Doctor of Business Administration taught in Chinese supplemented with English (code 02023); Doctor of Business Artificial Intelligence; Doctor of Business Management (code 02027); Doctor of FinTech; Doctor of Management in collaboration with Renmin University of China (Chinese Mainland, part-time); Doctor of Management in collaboration with Huazhong University of Science and Technology (code 02018, Chinese supplemented with English); Doctor of Management in collaboration with Southern University of Science and Technology (code 02028); Doctor of Digital Finance with Artificial Intelligence in collaboration with the Central University of Finance and Economics; and Doctor of International Shipping and Port in collaboration with Zhejiang University. MPhil and PhD research degrees are also excluded. Postgraduate diplomas are included only where the September 2027 list offers them as an entry award paired with the master (Professional Accounting, International Shipping and Transport Logistics, and Global Supply Chain Management). Exit-only PgDs are noted inside those master's entries and are not separate programmes.",
+  "unopened": [
+    {
+      "name_en": "MSc in Global Business and Decision Analysis (Chinese supplemented with English; PolyU Institute for Executive Education route)",
+      "name_zh": "环球商业及决策分析理学硕士项目",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/lms/study/tpg/gbda-ce",
+        "https://www.polyu.edu.hk/lms/study/tpg/gbda-ce/admissions/",
+        "https://www.polyu.edu.hk/study/pg/tpg/20252/44097"
+      ],
+      "reason": "Faculty and admissions URLs returned 404 on 2026-10-21. The January 2026 Study@PolyU page returned HTTP 403 to a direct fetch and could not be opened."
+    },
+    {
+      "name_en": "MSc in Global Supply Chain Management (Chinese-medium executive route)",
+      "name_zh": "全球供应链管理理学硕士项目",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/lms/study/tpg/gscm-ce",
+        "https://www.polyu.edu.hk/lms/study/tpg/gscm-ce/admissions/"
+      ],
+      "reason": "Both URLs returned 404 on 2026-10-21."
+    },
+    {
+      "name_en": "MSc in Business Analytics (link ba_qh on the faculty landing)",
+      "name_zh": "商务分析理学硕士项目",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/mm/study/tpg/ba_qh/",
+        "https://www.polyu.edu.hk/mm/study/tpg/ba_qh/admissions/"
+      ],
+      "reason": "Returned 404 on 2026-10-21. The opened Ningbo/Hong Kong award 23093 is recorded separately."
+    },
+    {
+      "name_en": "MSc in Marketing Management (link mm_qh on the faculty landing)",
+      "name_zh": "市场营销管理理学硕士项目",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/mm/study/tpg/mm_qh/",
+        "https://www.polyu.edu.hk/mm/study/tpg/mm_qh/admissions/"
+      ],
+      "reason": "Returned 404 on 2026-10-21. The Hong Kong English award 23090-MKF-MKP is recorded separately."
+    },
+    {
+      "name_en": "Master of Finance (Corporate Finance), Chinese-medium page linked from the faculty landing",
+      "name_zh": "金融学硕士项目（企业金融）",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-finance-corporate-finance-chinese/"
+      ],
+      "reason": "Returned 404 on 2026-10-21. The English-medium September 2027 award 21050-FCF-CFP is recorded. A January 2026 Study@PolyU page 21057-CPF could not be fetched (HTTP 403)."
+    },
+    {
+      "name_en": "Master of Finance (Investment Management), Chinese-medium page linked from the faculty landing",
+      "name_zh": "金融学硕士项目（投资管理）",
+      "listed_on": "https://www.polyu.edu.hk/fb/study/tpg-landing/tpg/?sc_lang=en",
+      "urls_attempted": [
+        "https://www.polyu.edu.hk/af/study/taught-postgraduate-programmes/master-of-finance-investment-management-chs"
+      ],
+      "reason": "Returned 404 on 2026-10-21. The English-medium September 2027 award 21050-FIM-IMP is recorded."
+    }
+  ]
+}
